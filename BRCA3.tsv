@@ -1,0 +1,1000 @@
+TP53	tumor protein p53	360 / 986 (36.51%)	"4,008 / 10,202"	"16 / 1,072 (1.49%)"	"47 / 1,072 (4.38%)"	240	Cancer Gene Census	add to survival plot
+PIK3CA	"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha"	339 / 986 (34.38%)	"1,403 / 10,202"	"151 / 1,072 (14.09%)"	"15 / 1,072 (1.40%)"	82	Cancer Gene Census	add to survival plot
+TTN	titin	243 / 986 (24.65%)	"3,858 / 10,202"	"45 / 1,072 (4.20%)"	"22 / 1,072 (2.05%)"	472		add to survival plot
+MUC4	"mucin 4, cell surface associated"	197 / 986 (19.98%)	"1,304 / 10,202"	"135 / 1,072 (12.59%)"	"27 / 1,072 (2.52%)"	141		add to survival plot
+MUC16	"mucin 16, cell surface associated"	149 / 986 (15.11%)	"2,466 / 10,202"	"54 / 1,072 (5.04%)"	"51 / 1,072 (4.76%)"	204		add to survival plot
+CDH1	"cadherin 1, type 1, E-cadherin (epithelial)"	149 / 986 (15.11%)	"385 / 10,202"	"36 / 1,072 (3.36%)"	"46 / 1,072 (4.29%)"	133	Cancer Gene Census	add to survival plot
+GATA3	GATA binding protein 3	141 / 986 (14.30%)	"362 / 10,202"	"113 / 1,072 (10.54%)"	"10 / 1,072 (0.93%)"	107	Cancer Gene Census	add to survival plot
+MUC2	"mucin 2, oligomeric mucus/gel-forming"	114 / 986 (11.56%)	"699 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	58		add to survival plot
+KMT2C	lysine (K)-specific methyltransferase 2C	101 / 986 (10.24%)	"1,003 / 10,202"	"51 / 1,072 (4.76%)"	"97 / 1,072 (9.05%)"	128	Cancer Gene Census	add to survival plot
+MAP3K1	"mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase"	91 / 986 (9.23%)	"328 / 10,202"	"22 / 1,072 (2.05%)"	"79 / 1,072 (7.37%)"	134	Cancer Gene Census	add to survival plot
+RYR2	ryanodine receptor 2 (cardiac)	89 / 986 (9.03%)	"1,575 / 10,202"	"166 / 1,072 (15.49%)"	"34 / 1,072 (3.17%)"	0		add to survival plot
+SYNE1	"spectrin repeat containing, nuclear envelope 1"	81 / 986 (8.22%)	"1,593 / 10,202"	"73 / 1,072 (6.81%)"	"78 / 1,072 (7.28%)"	0		add to survival plot
+HMCN1	hemicentin 1	79 / 986 (8.01%)	"1,148 / 10,202"	"125 / 1,072 (11.66%)"	"23 / 1,072 (2.15%)"	0		add to survival plot
+USH2A	"Usher syndrome 2A (autosomal recessive, mild)"	77 / 986 (7.81%)	"1,393 / 10,202"	"144 / 1,072 (13.43%)"	"30 / 1,072 (2.80%)"	0		add to survival plot
+SPTA1	"spectrin, alpha, erythrocytic 1"	74 / 986 (7.51%)	"1,126 / 10,202"	"141 / 1,072 (13.15%)"	"27 / 1,072 (2.52%)"	0		add to survival plot
+FLG	filaggrin	71 / 986 (7.20%)	"1,430 / 10,202"	"179 / 1,072 (16.70%)"	"19 / 1,072 (1.77%)"	0		add to survival plot
+DST	dystonin	69 / 986 (7.00%)	"1,181 / 10,202"	"82 / 1,072 (7.65%)"	"32 / 1,072 (2.99%)"	0		add to survival plot
+RYR3	ryanodine receptor 3	69 / 986 (7.00%)	"1,075 / 10,202"	"33 / 1,072 (3.08%)"	"97 / 1,072 (9.05%)"	0		add to survival plot
+PTEN	phosphatase and tensin homolog	68 / 986 (6.90%)	"1,005 / 10,202"	"30 / 1,072 (2.80%)"	"116 / 1,072 (10.82%)"	0	Cancer Gene Census	add to survival plot
+ZFHX4	zinc finger homeobox 4	64 / 986 (6.49%)	"1,293 / 10,202"	"106 / 1,072 (9.89%)"	"40 / 1,072 (3.73%)"	0		add to survival plot
+DMD	dystrophin	64 / 986 (6.49%)	"952 / 10,202"	"41 / 1,072 (3.82%)"	"32 / 1,072 (2.99%)"	0		add to survival plot
+OBSCN	"obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF"	63 / 986 (6.39%)	"1,316 / 10,202"	"158 / 1,072 (14.74%)"	"25 / 1,072 (2.33%)"	0		add to survival plot
+NEB	nebulin	61 / 986 (6.19%)	"1,040 / 10,202"	"19 / 1,072 (1.77%)"	"37 / 1,072 (3.45%)"	0		add to survival plot
+MUC17	"mucin 17, cell surface associated"	59 / 986 (5.98%)	"1,105 / 10,202"	"31 / 1,072 (2.89%)"	"37 / 1,072 (3.45%)"	0		add to survival plot
+MACF1	microtubule-actin crosslinking factor 1	58 / 986 (5.88%)	"1,050 / 10,202"	"73 / 1,072 (6.81%)"	"44 / 1,072 (4.10%)"	0		add to survival plot
+SYNE2	"spectrin repeat containing, nuclear envelope 2"	57 / 986 (5.78%)	"897 / 10,202"	"42 / 1,072 (3.92%)"	"62 / 1,072 (5.78%)"	0		add to survival plot
+NCOR1	nuclear receptor corepressor 1	57 / 986 (5.78%)	"505 / 10,202"	"25 / 1,072 (2.33%)"	"34 / 1,072 (3.17%)"	0	Cancer Gene Census	add to survival plot
+APOB	apolipoprotein B	56 / 986 (5.68%)	"1,092 / 10,202"	"33 / 1,072 (3.08%)"	"39 / 1,072 (3.64%)"	0		add to survival plot
+NF1	neurofibromin 1	55 / 986 (5.58%)	"776 / 10,202"	"93 / 1,072 (8.68%)"	"65 / 1,072 (6.06%)"	0	Cancer Gene Census	add to survival plot
+MUC5B	"mucin 5B, oligomeric mucus/gel-forming"	54 / 986 (5.48%)	"981 / 10,202"	"35 / 1,072 (3.26%)"	"85 / 1,072 (7.93%)"	0		add to survival plot
+PKHD1L1	polycystic kidney and hepatic disease 1 (autosomal recessive)-like 1	54 / 986 (5.48%)	"947 / 10,202"	"191 / 1,072 (17.82%)"	"12 / 1,072 (1.12%)"	0		add to survival plot
+GOLGA6L6	golgin A6 family-like 6	53 / 986 (5.38%)	"254 / 10,202"	"52 / 1,072 (4.85%)"	"100 / 1,072 (9.33%)"	0		add to survival plot
+ABCA13	"ATP-binding cassette, sub-family A (ABC1), member 13"	53 / 986 (5.38%)	"958 / 10,202"	"41 / 1,072 (3.82%)"	"22 / 1,072 (2.05%)"	0		add to survival plot
+CSMD1	CUB and Sushi multiple domains 1	53 / 986 (5.38%)	"1,188 / 10,202"	"52 / 1,072 (4.85%)"	"142 / 1,072 (13.25%)"	0		add to survival plot
+CCDC168	coiled-coil domain containing 168	52 / 986 (5.27%)	"362 / 10,202"	"95 / 1,072 (8.86%)"	"17 / 1,072 (1.59%)"	0		add to survival plot
+CSMD3	CUB and Sushi multiple domains 3	51 / 986 (5.17%)	"1,636 / 10,202"	"218 / 1,072 (20.34%)"	"15 / 1,072 (1.40%)"	0		add to survival plot
+FAT3	FAT atypical cadherin 3	51 / 986 (5.17%)	"1,170 / 10,202"	"74 / 1,072 (6.90%)"	"85 / 1,072 (7.93%)"	0		add to survival plot
+RUNX1	runt-related transcription factor 1	50 / 986 (5.07%)	"233 / 10,202"	"92 / 1,072 (8.58%)"	"32 / 1,072 (2.99%)"	0	Cancer Gene Census	add to survival plot
+DNAH11	"dynein, axonemal, heavy chain 11"	49 / 986 (4.97%)	"942 / 10,202"	"52 / 1,072 (4.85%)"	"34 / 1,072 (3.17%)"	0		add to survival plot
+RYR1	ryanodine receptor 1 (skeletal)	49 / 986 (4.97%)	"1,090 / 10,202"	"65 / 1,072 (6.06%)"	"29 / 1,072 (2.71%)"	0		add to survival plot
+HUWE1	"HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase"	49 / 986 (4.97%)	"726 / 10,202"	"41 / 1,072 (3.82%)"	"12 / 1,072 (1.12%)"	0		add to survival plot
+CACNA1E	"calcium channel, voltage-dependent, R type, alpha 1E subunit"	47 / 986 (4.77%)	"846 / 10,202"	"109 / 1,072 (10.17%)"	"28 / 1,072 (2.61%)"	0		add to survival plot
+XIRP2	xin actin-binding repeat containing 2	47 / 986 (4.77%)	"1,185 / 10,202"	"36 / 1,072 (3.36%)"	"25 / 1,072 (2.33%)"	0		add to survival plot
+PCLO	piccolo presynaptic cytomatrix protein	47 / 986 (4.77%)	"1,340 / 10,202"	"36 / 1,072 (3.36%)"	"30 / 1,072 (2.80%)"	0		add to survival plot
+LRP1B	low density lipoprotein receptor-related protein 1B	47 / 986 (4.77%)	"1,524 / 10,202"	"42 / 1,072 (3.92%)"	"67 / 1,072 (6.25%)"	0		add to survival plot
+ARID1A	AT rich interactive domain 1A (SWI-like)	46 / 986 (4.67%)	"936 / 10,202"	"19 / 1,072 (1.77%)"	"173 / 1,072 (16.14%)"	0	Cancer Gene Census	add to survival plot
+PIK3R1	"phosphoinositide-3-kinase, regulatory subunit 1 (alpha)"	45 / 986 (4.56%)	"540 / 10,202"	"13 / 1,072 (1.21%)"	"77 / 1,072 (7.18%)"	0	Cancer Gene Census	add to survival plot
+LRP2	low density lipoprotein receptor-related protein 2	45 / 986 (4.56%)	"1,009 / 10,202"	"45 / 1,072 (4.20%)"	"24 / 1,072 (2.24%)"	0		add to survival plot
+ADGRV1	adhesion G protein-coupled receptor V1	44 / 986 (4.46%)	"1,005 / 10,202"	"15 / 1,072 (1.40%)"	"58 / 1,072 (5.41%)"	0		add to survival plot
+MAP2K4	mitogen-activated protein kinase kinase 4	44 / 986 (4.46%)	"206 / 10,202"	"10 / 1,072 (0.93%)"	"59 / 1,072 (5.50%)"	0	Cancer Gene Census	add to survival plot
+RNF213	ring finger protein 213	44 / 986 (4.46%)	"755 / 10,202"	"212 / 1,072 (19.78%)"	"33 / 1,072 (3.08%)"	0	Cancer Gene Census	add to survival plot
+DNAH17	"dynein, axonemal, heavy chain 17"	44 / 986 (4.46%)	"820 / 10,202"	"215 / 1,072 (20.06%)"	"28 / 1,072 (2.61%)"	0		add to survival plot
+HYDIN	"HYDIN, axonemal central pair apparatus protein"	43 / 986 (4.36%)	"870 / 10,202"	"36 / 1,072 (3.36%)"	"42 / 1,072 (3.92%)"	0		add to survival plot
+MDN1	"MDN1, midasin homolog (yeast)"	43 / 986 (4.36%)	"707 / 10,202"	"35 / 1,072 (3.26%)"	"81 / 1,072 (7.56%)"	0		add to survival plot
+CSMD2	CUB and Sushi multiple domains 2	43 / 986 (4.36%)	"969 / 10,202"	"44 / 1,072 (4.10%)"	"85 / 1,072 (7.93%)"	0		add to survival plot
+SPEN	spen family transcriptional repressor	43 / 986 (4.36%)	"596 / 10,202"	"17 / 1,072 (1.59%)"	"184 / 1,072 (17.16%)"	0	Cancer Gene Census	add to survival plot
+DCHS2	dachsous cadherin-related 2	43 / 986 (4.36%)	"741 / 10,202"	"48 / 1,072 (4.48%)"	"44 / 1,072 (4.10%)"	0		add to survival plot
+KMT2D	lysine (K)-specific methyltransferase 2D	43 / 986 (4.36%)	"1,140 / 10,202"	"42 / 1,072 (3.92%)"	"45 / 1,072 (4.20%)"	0	Cancer Gene Census	add to survival plot
+PRUNE2	prune homolog 2 (Drosophila)	42 / 986 (4.26%)	"658 / 10,202"	"29 / 1,072 (2.71%)"	"35 / 1,072 (3.26%)"	0		add to survival plot
+AHNAK	AHNAK nucleoprotein	41 / 986 (4.16%)	"855 / 10,202"	"106 / 1,072 (9.89%)"	"49 / 1,072 (4.57%)"	0		add to survival plot
+PRKDC	"protein kinase, DNA-activated, catalytic polypeptide"	41 / 986 (4.16%)	"650 / 10,202"	"113 / 1,072 (10.54%)"	"67 / 1,072 (6.25%)"	0		add to survival plot
+AHNAK2	AHNAK nucleoprotein 2	41 / 986 (4.16%)	"1,019 / 10,202"	"69 / 1,072 (6.44%)"	"56 / 1,072 (5.22%)"	0		add to survival plot
+MXRA5	matrix-remodelling associated 5	41 / 986 (4.16%)	"778 / 10,202"	"46 / 1,072 (4.29%)"	"31 / 1,072 (2.89%)"	0		add to survival plot
+DNAH8	"dynein, axonemal, heavy chain 8"	40 / 986 (4.06%)	"985 / 10,202"	"72 / 1,072 (6.72%)"	"32 / 1,072 (2.99%)"	0		add to survival plot
+SVEP1	"sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1"	40 / 986 (4.06%)	"663 / 10,202"	"30 / 1,072 (2.80%)"	"40 / 1,072 (3.73%)"	0		add to survival plot
+AKAP9	A kinase (PRKA) anchor protein 9	40 / 986 (4.06%)	"618 / 10,202"	"42 / 1,072 (3.92%)"	"26 / 1,072 (2.43%)"	0	Cancer Gene Census	add to survival plot
+TENM1	teneurin transmembrane protein 1	40 / 986 (4.06%)	"810 / 10,202"	"35 / 1,072 (3.26%)"	"23 / 1,072 (2.15%)"	0		add to survival plot
+BIRC6	baculoviral IAP repeat containing 6	40 / 986 (4.06%)	"688 / 10,202"	"46 / 1,072 (4.29%)"	"22 / 1,072 (2.05%)"	0		add to survival plot
+FAT1	FAT atypical cadherin 1	40 / 986 (4.06%)	"875 / 10,202"	"53 / 1,072 (4.94%)"	"74 / 1,072 (6.90%)"	0	Cancer Gene Census	add to survival plot
+XKR4	"XK, Kell blood group complex subunit-related family, member 4"	40 / 986 (4.06%)	"648 / 10,202"	"91 / 1,072 (8.49%)"	"67 / 1,072 (6.25%)"	0		add to survival plot
+ASPM	"asp (abnormal spindle) homolog, microcephaly associated (Drosophila)"	40 / 986 (4.06%)	"622 / 10,202"	"129 / 1,072 (12.03%)"	"17 / 1,072 (1.59%)"	0		add to survival plot
+MYH9	"myosin, heavy chain 9, non-muscle"	39 / 986 (3.96%)	"455 / 10,202"	"24 / 1,072 (2.24%)"	"35 / 1,072 (3.26%)"	0	Cancer Gene Census	add to survival plot
+CHD6	chromodomain helicase DNA binding protein 6	39 / 986 (3.96%)	"546 / 10,202"	"54 / 1,072 (5.04%)"	"48 / 1,072 (4.48%)"	0		add to survival plot
+DNAH9	"dynein, axonemal, heavy chain 9"	39 / 986 (3.96%)	"994 / 10,202"	"13 / 1,072 (1.21%)"	"46 / 1,072 (4.29%)"	0		add to survival plot
+GON4L	gon-4-like (C. elegans)	39 / 986 (3.96%)	"480 / 10,202"	"156 / 1,072 (14.55%)"	"27 / 1,072 (2.52%)"	0		add to survival plot
+SACS	sacsin molecular chaperone	39 / 986 (3.96%)	"769 / 10,202"	"86 / 1,072 (8.02%)"	"73 / 1,072 (6.81%)"	0		add to survival plot
+ASH1L	"ash1 (absent, small, or homeotic)-like (Drosophila)"	38 / 986 (3.85%)	"594 / 10,202"	"168 / 1,072 (15.67%)"	"26 / 1,072 (2.43%)"	0		add to survival plot
+DNAH3	"dynein, axonemal, heavy chain 3"	38 / 986 (3.85%)	"884 / 10,202"	"40 / 1,072 (3.73%)"	"13 / 1,072 (1.21%)"	0		add to survival plot
+FMN2	formin 2	38 / 986 (3.85%)	"731 / 10,202"	"162 / 1,072 (15.11%)"	"39 / 1,072 (3.64%)"	0		add to survival plot
+LYST	lysosomal trafficking regulator	38 / 986 (3.85%)	"602 / 10,202"	"171 / 1,072 (15.95%)"	"34 / 1,072 (3.17%)"	0		add to survival plot
+DNM1P47	DNM1 pseudogene 47	38 / 986 (3.85%)	"444 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	0		add to survival plot
+CUBN	cubilin (intrinsic factor-cobalamin receptor)	38 / 986 (3.85%)	"836 / 10,202"	"72 / 1,072 (6.72%)"	"15 / 1,072 (1.40%)"	0		add to survival plot
+DNAH14	"dynein, axonemal, heavy chain 14"	38 / 986 (3.85%)	"327 / 10,202"	"160 / 1,072 (14.93%)"	"22 / 1,072 (2.05%)"	0		add to survival plot
+ST6GALNAC3	"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3"	38 / 986 (3.85%)	"269 / 10,202"	"49 / 1,072 (4.57%)"	"64 / 1,072 (5.97%)"	0		add to survival plot
+DNAH5	"dynein, axonemal, heavy chain 5"	38 / 986 (3.85%)	"1,258 / 10,202"	"84 / 1,072 (7.84%)"	"12 / 1,072 (1.12%)"	0		add to survival plot
+LAMA1	"laminin, alpha 1"	38 / 986 (3.85%)	"753 / 10,202"	"24 / 1,072 (2.24%)"	"29 / 1,072 (2.71%)"	0		add to survival plot
+NBPF12	"neuroblastoma breakpoint family, member 12"	38 / 986 (3.85%)	"307 / 10,202"	"190 / 1,072 (17.72%)"	"27 / 1,072 (2.52%)"	0		add to survival plot
+RELN	reelin	38 / 986 (3.85%)	"859 / 10,202"	"30 / 1,072 (2.80%)"	"43 / 1,072 (4.01%)"	0		add to survival plot
+USP34	ubiquitin specific peptidase 34	37 / 986 (3.75%)	"498 / 10,202"	"62 / 1,072 (5.78%)"	"10 / 1,072 (0.93%)"	0		add to survival plot
+TBX3	T-box 3	37 / 986 (3.75%)	"263 / 10,202"	"26 / 1,072 (2.43%)"	"88 / 1,072 (8.21%)"	0	Cancer Gene Census	add to survival plot
+VPS13B	vacuolar protein sorting 13 homolog B (yeast)	37 / 986 (3.75%)	"728 / 10,202"	"203 / 1,072 (18.94%)"	"23 / 1,072 (2.15%)"	0		add to survival plot
+LRP1	low density lipoprotein receptor-related protein 1	37 / 986 (3.75%)	"738 / 10,202"	"36 / 1,072 (3.36%)"	"36 / 1,072 (3.36%)"	0		add to survival plot
+ALMS1	Alstrom syndrome 1	37 / 986 (3.75%)	"637 / 10,202"	"45 / 1,072 (4.20%)"	"13 / 1,072 (1.21%)"	0		add to survival plot
+MED12	mediator complex subunit 12	37 / 986 (3.75%)	"477 / 10,202"	"24 / 1,072 (2.24%)"	"20 / 1,072 (1.87%)"	0	Cancer Gene Census	add to survival plot
+HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	37 / 986 (3.75%)	"788 / 10,202"	"42 / 1,072 (3.92%)"	"106 / 1,072 (9.89%)"	0		add to survival plot
+ANK2	"ankyrin 2, neuronal"	36 / 986 (3.65%)	"879 / 10,202"	"42 / 1,072 (3.92%)"	"40 / 1,072 (3.73%)"	0		add to survival plot
+KMT2A	lysine (K)-specific methyltransferase 2A	36 / 986 (3.65%)	"602 / 10,202"	"28 / 1,072 (2.61%)"	"163 / 1,072 (15.21%)"	0	Cancer Gene Census	add to survival plot
+FCGBP	Fc fragment of IgG binding protein	36 / 986 (3.65%)	"830 / 10,202"	"61 / 1,072 (5.69%)"	"31 / 1,072 (2.89%)"	0		add to survival plot
+PTPRD	"protein tyrosine phosphatase, receptor type, D"	36 / 986 (3.65%)	"696 / 10,202"	"70 / 1,072 (6.53%)"	"73 / 1,072 (6.81%)"	0		add to survival plot
+ANK3	"ankyrin 3, node of Ranvier (ankyrin G)"	36 / 986 (3.65%)	"829 / 10,202"	"70 / 1,072 (6.53%)"	"32 / 1,072 (2.99%)"	0		add to survival plot
+SRCAP	Snf2-related CREBBP activator protein	36 / 986 (3.65%)	"578 / 10,202"	"67 / 1,072 (6.25%)"	"10 / 1,072 (0.93%)"	40		add to survival plot
+MLLT4	"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4"	36 / 986 (3.65%)	"439 / 10,202"	"61 / 1,072 (5.69%)"	"111 / 1,072 (10.35%)"	33	Cancer Gene Census	add to survival plot
+CACNA1C	"calcium channel, voltage-dependent, L type, alpha 1C subunit"	35 / 986 (3.55%)	"698 / 10,202"	"85 / 1,072 (7.93%)"	"49 / 1,072 (4.57%)"	36		add to survival plot
+FBN1	fibrillin 1	35 / 986 (3.55%)	"554 / 10,202"	"28 / 1,072 (2.61%)"	"81 / 1,072 (7.56%)"	40		add to survival plot
+CDH23	cadherin-related 23	35 / 986 (3.55%)	"640 / 10,202"	"58 / 1,072 (5.41%)"	"29 / 1,072 (2.71%)"	36		add to survival plot
+KIAA2022	KIAA2022	35 / 986 (3.55%)	"586 / 10,202"	"12 / 1,072 (1.12%)"	"26 / 1,072 (2.43%)"	36		add to survival plot
+KIAA1109	KIAA1109	35 / 986 (3.55%)	"715 / 10,202"	"45 / 1,072 (4.20%)"	"31 / 1,072 (2.89%)"	41		add to survival plot
+UTRN	utrophin	35 / 986 (3.55%)	"551 / 10,202"	"72 / 1,072 (6.72%)"	"65 / 1,072 (6.06%)"	39		add to survival plot
+DNAH10	"dynein, axonemal, heavy chain 10"	35 / 986 (3.55%)	"777 / 10,202"	"41 / 1,072 (3.82%)"	"85 / 1,072 (7.93%)"	47		add to survival plot
+COL6A5	"collagen, type VI, alpha 5"	35 / 986 (3.55%)	"413 / 10,202"	"43 / 1,072 (4.01%)"	"38 / 1,072 (3.54%)"	41		add to survival plot
+TG	thyroglobulin	35 / 986 (3.55%)	"725 / 10,202"	"192 / 1,072 (17.91%)"	"43 / 1,072 (4.01%)"	38		add to survival plot
+MYCBP2	"MYC binding protein 2, E3 ubiquitin protein ligase"	35 / 986 (3.55%)	"621 / 10,202"	"61 / 1,072 (5.69%)"	"34 / 1,072 (3.17%)"	43		add to survival plot
+ATRX	alpha thalassemia/mental retardation syndrome X-linked	34 / 986 (3.45%)	"795 / 10,202"	"18 / 1,072 (1.68%)"	"21 / 1,072 (1.96%)"	54	Cancer Gene Census	add to survival plot
+FOXA1	forkhead box A1	34 / 986 (3.45%)	"204 / 10,202"	"116 / 1,072 (10.82%)"	"15 / 1,072 (1.40%)"	36	Cancer Gene Census	add to survival plot
+UBR4	ubiquitin protein ligase E3 component n-recognin 4	34 / 986 (3.45%)	"708 / 10,202"	"19 / 1,072 (1.77%)"	"182 / 1,072 (16.98%)"	44		add to survival plot
+DNAH6	"dynein, axonemal, heavy chain 6"	34 / 986 (3.45%)	"364 / 10,202"	"56 / 1,072 (5.22%)"	"17 / 1,072 (1.59%)"	45		add to survival plot
+PTPRB	"protein tyrosine phosphatase, receptor type, B"	34 / 986 (3.45%)	"601 / 10,202"	"100 / 1,072 (9.33%)"	"15 / 1,072 (1.40%)"	35	Cancer Gene Census	add to survival plot
+DYNC2H1	"dynein, cytoplasmic 2, heavy chain 1"	34 / 986 (3.45%)	"559 / 10,202"	"42 / 1,072 (3.92%)"	"139 / 1,072 (12.97%)"	42		add to survival plot
+ERBB2	erb-b2 receptor tyrosine kinase 2	34 / 986 (3.45%)	"353 / 10,202"	"169 / 1,072 (15.76%)"	"44 / 1,072 (4.10%)"	30	Cancer Gene Census	add to survival plot
+USP9X	"ubiquitin specific peptidase 9, X-linked"	34 / 986 (3.45%)	"455 / 10,202"	"15 / 1,072 (1.40%)"	"13 / 1,072 (1.21%)"	35		add to survival plot
+SSPO	SCO-spondin	34 / 986 (3.45%)	"789 / 10,202"	"49 / 1,072 (4.57%)"	"66 / 1,072 (6.16%)"	37		add to survival plot
+HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1	33 / 986 (3.35%)	"550 / 10,202"	"44 / 1,072 (4.10%)"	"45 / 1,072 (4.20%)"	44		add to survival plot
+ATM	ATM serine/threonine kinase	33 / 986 (3.35%)	"618 / 10,202"	"34 / 1,072 (3.17%)"	"159 / 1,072 (14.83%)"	36	Cancer Gene Census	add to survival plot
+MYLK	myosin light chain kinase	33 / 986 (3.35%)	"497 / 10,202"	"37 / 1,072 (3.45%)"	"36 / 1,072 (3.36%)"	36		add to survival plot
+DYNC1H1	"dynein, cytoplasmic 1, heavy chain 1"	33 / 986 (3.35%)	"613 / 10,202"	"62 / 1,072 (5.78%)"	"56 / 1,072 (5.22%)"	36		add to survival plot
+IGHG1	immunoglobulin heavy constant gamma 1 (G1m marker)	33 / 986 (3.35%)	"697 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	38		add to survival plot
+EYS	eyes shut homolog (Drosophila)	33 / 986 (3.35%)	"671 / 10,202"	"117 / 1,072 (10.91%)"	"55 / 1,072 (5.13%)"	38		add to survival plot
+TEX15	testis expressed 15	33 / 986 (3.35%)	"529 / 10,202"	"39 / 1,072 (3.64%)"	"56 / 1,072 (5.22%)"	46		add to survival plot
+TSHZ3	teashirt zinc finger homeobox 3	33 / 986 (3.35%)	"584 / 10,202"	"55 / 1,072 (5.13%)"	"16 / 1,072 (1.49%)"	34		add to survival plot
+TPR	"translocated promoter region, nuclear basket protein"	33 / 986 (3.35%)	"449 / 10,202"	"117 / 1,072 (10.91%)"	"26 / 1,072 (2.43%)"	36	Cancer Gene Census	add to survival plot
+F5	"coagulation factor V (proaccelerin, labile factor)"	33 / 986 (3.35%)	"482 / 10,202"	"120 / 1,072 (11.19%)"	"31 / 1,072 (2.89%)"	42		add to survival plot
+COL6A3	"collagen, type VI, alpha 3"	33 / 986 (3.35%)	"850 / 10,202"	"32 / 1,072 (2.99%)"	"90 / 1,072 (8.40%)"	35		add to survival plot
+UNC13C	unc-13 homolog C (C. elegans)	33 / 986 (3.35%)	"719 / 10,202"	"29 / 1,072 (2.71%)"	"70 / 1,072 (6.53%)"	39		add to survival plot
+PKHD1	polycystic kidney and hepatic disease 1 (autosomal recessive)	33 / 986 (3.35%)	"861 / 10,202"	"80 / 1,072 (7.46%)"	"21 / 1,072 (1.96%)"	37		add to survival plot
+ZAN	zonadhesin (gene/pseudogene)	33 / 986 (3.35%)	"659 / 10,202"	"42 / 1,072 (3.92%)"	"37 / 1,072 (3.45%)"	34		add to survival plot
+COL12A1	"collagen, type XII, alpha 1"	33 / 986 (3.35%)	"661 / 10,202"	"50 / 1,072 (4.66%)"	"59 / 1,072 (5.50%)"	38		add to survival plot
+ADGRG4	adhesion G protein-coupled receptor G4	32 / 986 (3.25%)	"734 / 10,202"	"52 / 1,072 (4.85%)"	"20 / 1,072 (1.87%)"	38		add to survival plot
+F8	"coagulation factor VIII, procoagulant component"	32 / 986 (3.25%)	"530 / 10,202"	"69 / 1,072 (6.44%)"	"30 / 1,072 (2.80%)"	34		add to survival plot
+TMEM132D	transmembrane protein 132D	32 / 986 (3.25%)	"624 / 10,202"	"40 / 1,072 (3.73%)"	"89 / 1,072 (8.30%)"	36		add to survival plot
+VPS13C	vacuolar protein sorting 13 homolog C (S. cerevisiae)	32 / 986 (3.25%)	"507 / 10,202"	"31 / 1,072 (2.89%)"	"50 / 1,072 (4.66%)"	37		add to survival plot
+QSER1	glutamine and serine rich 1	32 / 986 (3.25%)	"303 / 10,202"	"80 / 1,072 (7.46%)"	"6 / 1,072 (0.56%)"	39		add to survival plot
+MAP1A	microtubule-associated protein 1A	32 / 986 (3.25%)	"454 / 10,202"	"18 / 1,072 (1.68%)"	"92 / 1,072 (8.58%)"	37		add to survival plot
+CENPE	"centromere protein E, 312kDa"	32 / 986 (3.25%)	"413 / 10,202"	"44 / 1,072 (4.10%)"	"33 / 1,072 (3.08%)"	37		add to survival plot
+FRAS1	Fraser extracellular matrix complex subunit 1	32 / 986 (3.25%)	"695 / 10,202"	"70 / 1,072 (6.53%)"	"17 / 1,072 (1.59%)"	37		add to survival plot
+CHD7	chromodomain helicase DNA binding protein 7	32 / 986 (3.25%)	"589 / 10,202"	"107 / 1,072 (9.98%)"	"59 / 1,072 (5.50%)"	32		add to survival plot
+WDFY3	WD repeat and FYVE domain containing 3	32 / 986 (3.25%)	"635 / 10,202"	"46 / 1,072 (4.29%)"	"22 / 1,072 (2.05%)"	35		add to survival plot
+PREX2	"phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 2"	32 / 986 (3.25%)	"603 / 10,202"	"106 / 1,072 (9.89%)"	"50 / 1,072 (4.66%)"	36		add to survival plot
+CEP350	centrosomal protein 350kDa	32 / 986 (3.25%)	"448 / 10,202"	"114 / 1,072 (10.63%)"	"31 / 1,072 (2.89%)"	39		add to survival plot
+AKT1	v-akt murine thymoma viral oncogene homolog 1	32 / 986 (3.25%)	"151 / 10,202"	"73 / 1,072 (6.81%)"	"54 / 1,072 (5.04%)"	8	Cancer Gene Census	add to survival plot
+HRNR	hornerin	32 / 986 (3.25%)	"736 / 10,202"	"180 / 1,072 (16.79%)"	"19 / 1,072 (1.77%)"	34		add to survival plot
+REXO1L1P	"REX1, RNA exonuclease 1 homolog (S. cerevisiae)-like 1, pseudogene"	32 / 986 (3.25%)	"229 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	30		add to survival plot
+MGAM	maltase-glucoamylase (alpha-glucosidase)	31 / 986 (3.14%)	"704 / 10,202"	"58 / 1,072 (5.41%)"	"45 / 1,072 (4.20%)"	34		add to survival plot
+AHCTF1	AT hook containing transcription factor 1	31 / 986 (3.14%)	"381 / 10,202"	"180 / 1,072 (16.79%)"	"29 / 1,072 (2.71%)"	38		add to survival plot
+CACNA1A	"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit"	31 / 986 (3.14%)	"528 / 10,202"	"63 / 1,072 (5.88%)"	"31 / 1,072 (2.89%)"	32		add to survival plot
+UBR5	ubiquitin protein ligase E3 component n-recognin 5	31 / 986 (3.14%)	"485 / 10,202"	"201 / 1,072 (18.75%)"	"15 / 1,072 (1.40%)"	35	Cancer Gene Census	add to survival plot
+SHANK2	SH3 and multiple ankyrin repeat domains 2	31 / 986 (3.14%)	"496 / 10,202"	"282 / 1,072 (26.31%)"	"20 / 1,072 (1.87%)"	46		add to survival plot
+PKD1L1	polycystic kidney disease 1 like 1	31 / 986 (3.14%)	"569 / 10,202"	"37 / 1,072 (3.45%)"	"20 / 1,072 (1.87%)"	36		add to survival plot
+MYO18B	myosin XVIIIB	31 / 986 (3.14%)	"675 / 10,202"	"47 / 1,072 (4.38%)"	"25 / 1,072 (2.33%)"	32		add to survival plot
+DNAH7	"dynein, axonemal, heavy chain 7"	31 / 986 (3.14%)	"898 / 10,202"	"56 / 1,072 (5.22%)"	"23 / 1,072 (2.15%)"	36		add to survival plot
+AFF2	"AF4/FMR2 family, member 2"	31 / 986 (3.14%)	"553 / 10,202"	"60 / 1,072 (5.60%)"	"26 / 1,072 (2.43%)"	34		add to survival plot
+DNAH2	"dynein, axonemal, heavy chain 2"	31 / 986 (3.14%)	"726 / 10,202"	"17 / 1,072 (1.59%)"	"43 / 1,072 (4.01%)"	39		add to survival plot
+CHD4	chromodomain helicase DNA binding protein 4	31 / 986 (3.14%)	"490 / 10,202"	"73 / 1,072 (6.81%)"	"45 / 1,072 (4.20%)"	36	Cancer Gene Census	add to survival plot
+SMG1	SMG1 phosphatidylinositol 3-kinase-related kinase	30 / 986 (3.04%)	"452 / 10,202"	"52 / 1,072 (4.85%)"	"16 / 1,072 (1.49%)"	36		add to survival plot
+CMYA5	cardiomyopathy associated 5	30 / 986 (3.04%)	"649 / 10,202"	"8 / 1,072 (0.75%)"	"65 / 1,072 (6.06%)"	45		add to survival plot
+DNAH1	"dynein, axonemal, heavy chain 1"	30 / 986 (3.04%)	"573 / 10,202"	"13 / 1,072 (1.21%)"	"143 / 1,072 (13.34%)"	34		add to survival plot
+FLG2	filaggrin family member 2	30 / 986 (3.04%)	"672 / 10,202"	"178 / 1,072 (16.60%)"	"19 / 1,072 (1.77%)"	36		add to survival plot
+ASTN1	astrotactin 1	30 / 986 (3.04%)	"602 / 10,202"	"117 / 1,072 (10.91%)"	"33 / 1,072 (3.08%)"	32		add to survival plot
+COL14A1	"collagen, type XIV, alpha 1"	30 / 986 (3.04%)	"511 / 10,202"	"202 / 1,072 (18.84%)"	"19 / 1,072 (1.77%)"	40		add to survival plot
+FRMPD4	FERM and PDZ domain containing 4	30 / 986 (3.04%)	"433 / 10,202"	"41 / 1,072 (3.82%)"	"23 / 1,072 (2.15%)"	32		add to survival plot
+LCT	lactase	30 / 986 (3.04%)	"565 / 10,202"	"19 / 1,072 (1.77%)"	"47 / 1,072 (4.38%)"	32		add to survival plot
+ARID1B	AT rich interactive domain 1B (SWI1-like)	30 / 986 (3.04%)	"489 / 10,202"	"54 / 1,072 (5.04%)"	"99 / 1,072 (9.24%)"	30	Cancer Gene Census	add to survival plot
+ZNF292	zinc finger protein 292	30 / 986 (3.04%)	"454 / 10,202"	"27 / 1,072 (2.52%)"	"87 / 1,072 (8.12%)"	37		add to survival plot
+SCN2A	"sodium channel, voltage gated, type II alpha subunit"	30 / 986 (3.04%)	"591 / 10,202"	"34 / 1,072 (3.17%)"	"21 / 1,072 (1.96%)"	36		add to survival plot
+ITPR3	"inositol 1,4,5-trisphosphate receptor, type 3"	30 / 986 (3.04%)	"467 / 10,202"	"71 / 1,072 (6.62%)"	"29 / 1,072 (2.71%)"	34		add to survival plot
+FLNC	"filamin C, gamma"	30 / 986 (3.04%)	"657 / 10,202"	"53 / 1,072 (4.94%)"	"35 / 1,072 (3.26%)"	30		add to survival plot
+PXDNL	peroxidasin-like	30 / 986 (3.04%)	"657 / 10,202"	"91 / 1,072 (8.49%)"	"77 / 1,072 (7.18%)"	34		add to survival plot
+MYO10	myosin X	30 / 986 (3.04%)	"404 / 10,202"	"73 / 1,072 (6.81%)"	"13 / 1,072 (1.21%)"	32		add to survival plot
+SDK1	sidekick cell adhesion molecule 1	30 / 986 (3.04%)	"683 / 10,202"	"58 / 1,072 (5.41%)"	"55 / 1,072 (5.13%)"	34		add to survival plot
+FREM1	FRAS1 related extracellular matrix 1	30 / 986 (3.04%)	"513 / 10,202"	"48 / 1,072 (4.48%)"	"36 / 1,072 (3.36%)"	32		add to survival plot
+PDZD2	PDZ domain containing 2	30 / 986 (3.04%)	"615 / 10,202"	"58 / 1,072 (5.41%)"	"19 / 1,072 (1.77%)"	34		add to survival plot
+TCHH	trichohyalin	30 / 986 (3.04%)	"462 / 10,202"	"178 / 1,072 (16.60%)"	"19 / 1,072 (1.77%)"	35		add to survival plot
+MTOR	mechanistic target of rapamycin (serine/threonine kinase)	29 / 986 (2.94%)	"444 / 10,202"	"24 / 1,072 (2.24%)"	"170 / 1,072 (15.86%)"	30	Cancer Gene Census	add to survival plot
+BRWD1	bromodomain and WD repeat domain containing 1	29 / 986 (2.94%)	"382 / 10,202"	"76 / 1,072 (7.09%)"	"15 / 1,072 (1.40%)"	31		add to survival plot
+ZNF536	zinc finger protein 536	29 / 986 (2.94%)	"837 / 10,202"	"80 / 1,072 (7.46%)"	"17 / 1,072 (1.59%)"	31		add to survival plot
+CNTNAP5	contactin associated protein-like 5	29 / 986 (2.94%)	"711 / 10,202"	"21 / 1,072 (1.96%)"	"40 / 1,072 (3.73%)"	32		add to survival plot
+BRCA1	"breast cancer 1, early onset"	29 / 986 (2.94%)	"332 / 10,202"	"41 / 1,072 (3.82%)"	"90 / 1,072 (8.40%)"	29	Cancer Gene Census	add to survival plot
+BRCA2	"breast cancer 2, early onset"	29 / 986 (2.94%)	"517 / 10,202"	"73 / 1,072 (6.81%)"	"87 / 1,072 (8.12%)"	33	Cancer Gene Census	add to survival plot
+PCNT	pericentrin	29 / 986 (2.94%)	"510 / 10,202"	"79 / 1,072 (7.37%)"	"21 / 1,072 (1.96%)"	34		add to survival plot
+VPS13D	vacuolar protein sorting 13 homolog D (S. cerevisiae)	29 / 986 (2.94%)	"611 / 10,202"	"22 / 1,072 (2.05%)"	"174 / 1,072 (16.23%)"	36		add to survival plot
+TNRC6B	trinucleotide repeat containing 6B	29 / 986 (2.94%)	"467 / 10,202"	"33 / 1,072 (3.08%)"	"26 / 1,072 (2.43%)"	28		add to survival plot
+SCN10A	"sodium channel, voltage gated, type X alpha subunit"	29 / 986 (2.94%)	"610 / 10,202"	"33 / 1,072 (3.08%)"	"81 / 1,072 (7.56%)"	35		add to survival plot
+FLNB	"filamin B, beta"	29 / 986 (2.94%)	"472 / 10,202"	"15 / 1,072 (1.40%)"	"139 / 1,072 (12.97%)"	30		add to survival plot
+WDFY4	WDFY family member 4	29 / 986 (2.94%)	"318 / 10,202"	"45 / 1,072 (4.20%)"	"35 / 1,072 (3.26%)"	34		add to survival plot
+CR1	complement component (3b/4b) receptor 1 (Knops blood group)	29 / 986 (2.94%)	"469 / 10,202"	"153 / 1,072 (14.27%)"	"15 / 1,072 (1.40%)"	33		add to survival plot
+RIMS2	regulating synaptic membrane exocytosis 2	29 / 986 (2.94%)	"740 / 10,202"	"206 / 1,072 (19.22%)"	"17 / 1,072 (1.59%)"	32		add to survival plot
+OPRM1	"opioid receptor, mu 1"	29 / 986 (2.94%)	"298 / 10,202"	"62 / 1,072 (5.78%)"	"80 / 1,072 (7.46%)"	19		add to survival plot
+MYO15A	myosin XVA	29 / 986 (2.94%)	"593 / 10,202"	"47 / 1,072 (4.38%)"	"29 / 1,072 (2.71%)"	28		add to survival plot
+PLXNA4	plexin A4	29 / 986 (2.94%)	"710 / 10,202"	"63 / 1,072 (5.88%)"	"34 / 1,072 (3.17%)"	33		add to survival plot
+CACNA1F	"calcium channel, voltage-dependent, L type, alpha 1F subunit"	29 / 986 (2.94%)	"390 / 10,202"	"32 / 1,072 (2.99%)"	"10 / 1,072 (0.93%)"	30		add to survival plot
+NOTCH2	notch 2	29 / 986 (2.94%)	"400 / 10,202"	"198 / 1,072 (18.47%)"	"52 / 1,072 (4.85%)"	31	Cancer Gene Census	add to survival plot
+TRRAP	transformation/transcription domain-associated protein	25 / 986 (2.54%)	"683 / 10,202"	"42 / 1,072 (3.92%)"	"38 / 1,072 (3.54%)"	31	Cancer Gene Census	add to survival plot
+CREBBP	CREB binding protein	25 / 986 (2.54%)	"578 / 10,202"	"67 / 1,072 (6.25%)"	"25 / 1,072 (2.33%)"	27	Cancer Gene Census	add to survival plot
+MYO5B	myosin VB	25 / 986 (2.54%)	"357 / 10,202"	"24 / 1,072 (2.24%)"	"43 / 1,072 (4.01%)"	25		add to survival plot
+DMXL2	Dmx-like 2	25 / 986 (2.54%)	"476 / 10,202"	"41 / 1,072 (3.82%)"	"71 / 1,072 (6.62%)"	32		add to survival plot
+MYO7A	myosin VIIA	25 / 986 (2.54%)	"400 / 10,202"	"178 / 1,072 (16.60%)"	"28 / 1,072 (2.61%)"	26		add to survival plot
+BAZ2B	"bromodomain adjacent to zinc finger domain, 2B"	25 / 986 (2.54%)	"421 / 10,202"	"30 / 1,072 (2.80%)"	"26 / 1,072 (2.43%)"	31		add to survival plot
+ZNF462	zinc finger protein 462	25 / 986 (2.54%)	"450 / 10,202"	"28 / 1,072 (2.61%)"	"40 / 1,072 (3.73%)"	28		add to survival plot
+LOXHD1	lipoxygenase homology domains 1	25 / 986 (2.54%)	"228 / 10,202"	"25 / 1,072 (2.33%)"	"26 / 1,072 (2.43%)"	25		add to survival plot
+MYH8	"myosin, heavy chain 8, skeletal muscle, perinatal"	25 / 986 (2.54%)	"622 / 10,202"	"11 / 1,072 (1.03%)"	"31 / 1,072 (2.89%)"	26		add to survival plot
+SCN8A	"sodium channel, voltage gated, type VIII alpha subunit"	25 / 986 (2.54%)	"380 / 10,202"	"36 / 1,072 (3.36%)"	"57 / 1,072 (5.32%)"	25		add to survival plot
+ARHGEF11	Rho guanine nucleotide exchange factor (GEF) 11	25 / 986 (2.54%)	"347 / 10,202"	"149 / 1,072 (13.90%)"	"27 / 1,072 (2.52%)"	28		add to survival plot
+PCDH19	protocadherin 19	25 / 986 (2.54%)	"418 / 10,202"	"13 / 1,072 (1.21%)"	"25 / 1,072 (2.33%)"	27		add to survival plot
+MYH7	"myosin, heavy chain 7, cardiac muscle, beta"	25 / 986 (2.54%)	"591 / 10,202"	"88 / 1,072 (8.21%)"	"25 / 1,072 (2.33%)"	27		add to survival plot
+ATP2B1	"ATPase, Ca++ transporting, plasma membrane 1"	25 / 986 (2.54%)	"273 / 10,202"	"55 / 1,072 (5.13%)"	"50 / 1,072 (4.66%)"	30		add to survival plot
+SETX	senataxin	25 / 986 (2.54%)	"421 / 10,202"	"48 / 1,072 (4.48%)"	"36 / 1,072 (3.36%)"	33		add to survival plot
+MRC1	"mannose receptor, C type 1"	24 / 986 (2.43%)	"493 / 10,202"	"69 / 1,072 (6.44%)"	"15 / 1,072 (1.40%)"	25		add to survival plot
+GRIA3	"glutamate receptor, ionotropic, AMPA 3"	24 / 986 (2.43%)	"355 / 10,202"	"34 / 1,072 (3.17%)"	"22 / 1,072 (2.05%)"	25		add to survival plot
+BSN	bassoon presynaptic cytomatrix protein	24 / 986 (2.43%)	"578 / 10,202"	"14 / 1,072 (1.31%)"	"147 / 1,072 (13.71%)"	29		add to survival plot
+BRWD3	bromodomain and WD repeat domain containing 3	24 / 986 (2.43%)	"427 / 10,202"	"16 / 1,072 (1.49%)"	"20 / 1,072 (1.87%)"	26		add to survival plot
+RIMBP2	RIMS binding protein 2	24 / 986 (2.43%)	"491 / 10,202"	"40 / 1,072 (3.73%)"	"88 / 1,072 (8.21%)"	25		add to survival plot
+NBAS	neuroblastoma amplified sequence	24 / 986 (2.43%)	"434 / 10,202"	"36 / 1,072 (3.36%)"	"45 / 1,072 (4.20%)"	27		add to survival plot
+CDH12	"cadherin 12, type 2 (N-cadherin 2)"	24 / 986 (2.43%)	"545 / 10,202"	"76 / 1,072 (7.09%)"	"17 / 1,072 (1.59%)"	23		add to survival plot
+SCN7A	"sodium channel, voltage gated, type VII alpha subunit"	24 / 986 (2.43%)	"453 / 10,202"	"34 / 1,072 (3.17%)"	"23 / 1,072 (2.15%)"	26		add to survival plot
+TACC2	"transforming, acidic coiled-coil containing protein 2"	24 / 986 (2.43%)	"536 / 10,202"	"54 / 1,072 (5.04%)"	"70 / 1,072 (6.53%)"	32		add to survival plot
+CPAMD8	"C3 and PZP-like, alpha-2-macroglobulin domain containing 8"	24 / 986 (2.43%)	"489 / 10,202"	"56 / 1,072 (5.22%)"	"18 / 1,072 (1.68%)"	26		add to survival plot
+DMXL1	Dmx-like 1	24 / 986 (2.43%)	"433 / 10,202"	"25 / 1,072 (2.33%)"	"48 / 1,072 (4.48%)"	29		add to survival plot
+KIF1B	kinesin family member 1B	24 / 986 (2.43%)	"431 / 10,202"	"23 / 1,072 (2.15%)"	"169 / 1,072 (15.76%)"	22		add to survival plot
+SCN5A	"sodium channel, voltage gated, type V alpha subunit"	24 / 986 (2.43%)	"599 / 10,202"	"34 / 1,072 (3.17%)"	"80 / 1,072 (7.46%)"	26		add to survival plot
+MYH10	"myosin, heavy chain 10, non-muscle"	24 / 986 (2.43%)	"346 / 10,202"	"22 / 1,072 (2.05%)"	"38 / 1,072 (3.54%)"	25		add to survival plot
+MYH11	"myosin, heavy chain 11, smooth muscle"	24 / 986 (2.43%)	"515 / 10,202"	"61 / 1,072 (5.69%)"	"9 / 1,072 (0.84%)"	29	Cancer Gene Census	add to survival plot
+ZFHX3	zinc finger homeobox 3	24 / 986 (2.43%)	"719 / 10,202"	"31 / 1,072 (2.89%)"	"46 / 1,072 (4.29%)"	30	Cancer Gene Census	add to survival plot
+MKI67	marker of proliferation Ki-67	24 / 986 (2.43%)	"593 / 10,202"	"48 / 1,072 (4.48%)"	"78 / 1,072 (7.28%)"	29		add to survival plot
+HDAC6	histone deacetylase 6	24 / 986 (2.43%)	"274 / 10,202"	"33 / 1,072 (3.08%)"	"9 / 1,072 (0.84%)"	24		add to survival plot
+ABCA12	"ATP-binding cassette, sub-family A (ABC1), member 12"	24 / 986 (2.43%)	"596 / 10,202"	"36 / 1,072 (3.36%)"	"48 / 1,072 (4.48%)"	25		add to survival plot
+SNRNP200	small nuclear ribonucleoprotein 200kDa (U5)	24 / 986 (2.43%)	"390 / 10,202"	"53 / 1,072 (4.94%)"	"21 / 1,072 (1.96%)"	25		add to survival plot
+KMT2E	lysine (K)-specific methyltransferase 2E	24 / 986 (2.43%)	"363 / 10,202"	"35 / 1,072 (3.26%)"	"47 / 1,072 (4.38%)"	24		add to survival plot
+YLPM1	YLP motif containing 1	24 / 986 (2.43%)	"368 / 10,202"	"17 / 1,072 (1.59%)"	"82 / 1,072 (7.65%)"	29		add to survival plot
+PHKA2	"phosphorylase kinase, alpha 2 (liver)"	24 / 986 (2.43%)	"305 / 10,202"	"42 / 1,072 (3.92%)"	"13 / 1,072 (1.21%)"	26		add to survival plot
+MAGEA12	melanoma antigen family A12	24 / 986 (2.43%)	"281 / 10,202"	"62 / 1,072 (5.78%)"	"24 / 1,072 (2.24%)"	24		add to survival plot
+PIWIL1	piwi-like RNA-mediated gene silencing 1	24 / 986 (2.43%)	"343 / 10,202"	"37 / 1,072 (3.45%)"	"87 / 1,072 (8.12%)"	23		add to survival plot
+GOLGA6L10	golgin A6 family-like 10	24 / 986 (2.43%)	"211 / 10,202"	"77 / 1,072 (7.18%)"	"16 / 1,072 (1.49%)"	14		add to survival plot
+ADAMTSL1	ADAMTS-like 1	24 / 986 (2.43%)	"448 / 10,202"	"46 / 1,072 (4.29%)"	"26 / 1,072 (2.43%)"	26		add to survival plot
+ARHGAP35	Rho GTPase activating protein 35	24 / 986 (2.43%)	"406 / 10,202"	"34 / 1,072 (3.17%)"	"73 / 1,072 (6.81%)"	27		add to survival plot
+TENM3	teneurin transmembrane protein 3	24 / 986 (2.43%)	"708 / 10,202"	"51 / 1,072 (4.76%)"	"74 / 1,072 (6.90%)"	26		add to survival plot
+NAV2	neuron navigator 2	24 / 986 (2.43%)	"517 / 10,202"	"68 / 1,072 (6.34%)"	"32 / 1,072 (2.99%)"	25		add to survival plot
+KAT6B	K(lysine) acetyltransferase 6B	24 / 986 (2.43%)	"326 / 10,202"	"81 / 1,072 (7.56%)"	"27 / 1,072 (2.52%)"	28	Cancer Gene Census	add to survival plot
+DNAJC13	"DnaJ (Hsp40) homolog, subfamily C, member 13"	24 / 986 (2.43%)	"339 / 10,202"	"43 / 1,072 (4.01%)"	"34 / 1,072 (3.17%)"	27		add to survival plot
+ANKRD11	ankyrin repeat domain 11	24 / 986 (2.43%)	"491 / 10,202"	"42 / 1,072 (3.92%)"	"66 / 1,072 (6.16%)"	30		add to survival plot
+POTEM	"POTE ankyrin domain family, member M"	24 / 986 (2.43%)	"236 / 10,202"	"87 / 1,072 (8.12%)"	"28 / 1,072 (2.61%)"	16		add to survival plot
+CIT	citron rho-interacting serine/threonine kinase	24 / 986 (2.43%)	"444 / 10,202"	"40 / 1,072 (3.73%)"	"80 / 1,072 (7.46%)"	25		add to survival plot
+C2orf16	chromosome 2 open reading frame 16	24 / 986 (2.43%)	"387 / 10,202"	"40 / 1,072 (3.73%)"	"27 / 1,072 (2.52%)"	30		add to survival plot
+REV3L	"REV3-like, polymerase (DNA directed), zeta, catalytic subunit"	24 / 986 (2.43%)	"434 / 10,202"	"62 / 1,072 (5.78%)"	"66 / 1,072 (6.16%)"	29		add to survival plot
+ZNF440	zinc finger protein 440	24 / 986 (2.43%)	"272 / 10,202"	"45 / 1,072 (4.20%)"	"43 / 1,072 (4.01%)"	20		add to survival plot
+SI	sucrase-isomaltase (alpha-glucosidase)	24 / 986 (2.43%)	"749 / 10,202"	"118 / 1,072 (11.01%)"	"16 / 1,072 (1.49%)"	25		add to survival plot
+HEATR1	HEAT repeat containing 1	24 / 986 (2.43%)	"359 / 10,202"	"168 / 1,072 (15.67%)"	"31 / 1,072 (2.89%)"	28		add to survival plot
+NUP188	nucleoporin 188kDa	24 / 986 (2.43%)	"279 / 10,202"	"50 / 1,072 (4.66%)"	"34 / 1,072 (3.17%)"	28		add to survival plot
+KIF13A	kinesin family member 13A	24 / 986 (2.43%)	"327 / 10,202"	"105 / 1,072 (9.79%)"	"27 / 1,072 (2.52%)"	27		add to survival plot
+TRPM3	"transient receptor potential cation channel, subfamily M, member 3"	24 / 986 (2.43%)	"488 / 10,202"	"39 / 1,072 (3.64%)"	"38 / 1,072 (3.54%)"	26		add to survival plot
+KALRN	"kalirin, RhoGEF kinase"	24 / 986 (2.43%)	"617 / 10,202"	"48 / 1,072 (4.48%)"	"38 / 1,072 (3.54%)"	31		add to survival plot
+MED13	mediator complex subunit 13	24 / 986 (2.43%)	"433 / 10,202"	"232 / 1,072 (21.64%)"	"11 / 1,072 (1.03%)"	30		add to survival plot
+SRRM2	serine/arginine repetitive matrix 2	24 / 986 (2.43%)	"500 / 10,202"	"80 / 1,072 (7.46%)"	"18 / 1,072 (1.68%)"	32		add to survival plot
+EHMT1	euchromatic histone-lysine N-methyltransferase 1	24 / 986 (2.43%)	"322 / 10,202"	"60 / 1,072 (5.60%)"	"43 / 1,072 (4.01%)"	25		add to survival plot
+NBEAL1	neurobeachin-like 1	24 / 986 (2.43%)	"327 / 10,202"	"53 / 1,072 (4.94%)"	"34 / 1,072 (3.17%)"	29		add to survival plot
+IGF2R	insulin-like growth factor 2 receptor	23 / 986 (2.33%)	"463 / 10,202"	"56 / 1,072 (5.22%)"	"102 / 1,072 (9.51%)"	25		add to survival plot
+FASN	fatty acid synthase	23 / 986 (2.33%)	"353 / 10,202"	"195 / 1,072 (18.19%)"	"42 / 1,072 (3.92%)"	26		add to survival plot
+ICE1	interactor of little elongation complex ELL subunit 1	23 / 986 (2.33%)	"417 / 10,202"	"80 / 1,072 (7.46%)"	"16 / 1,072 (1.49%)"	27		add to survival plot
+RAB3GAP2	RAB3 GTPase activating protein subunit 2 (non-catalytic)	23 / 986 (2.33%)	"367 / 10,202"	"140 / 1,072 (13.06%)"	"32 / 1,072 (2.99%)"	25		add to survival plot
+SCN9A	"sodium channel, voltage gated, type IX alpha subunit"	23 / 986 (2.33%)	"532 / 10,202"	"33 / 1,072 (3.08%)"	"23 / 1,072 (2.15%)"	29		add to survival plot
+IGSF10	"immunoglobulin superfamily, member 10"	23 / 986 (2.33%)	"527 / 10,202"	"91 / 1,072 (8.49%)"	"12 / 1,072 (1.12%)"	25		add to survival plot
+PCDHB6	protocadherin beta 6	23 / 986 (2.33%)	"626 / 10,202"	"46 / 1,072 (4.29%)"	"21 / 1,072 (1.96%)"	23		add to survival plot
+NUP210L	nucleoporin 210kDa-like	23 / 986 (2.33%)	"403 / 10,202"	"168 / 1,072 (15.67%)"	"23 / 1,072 (2.15%)"	24		add to survival plot
+CTCF	CCCTC-binding factor (zinc finger protein)	23 / 986 (2.33%)	"336 / 10,202"	"19 / 1,072 (1.77%)"	"47 / 1,072 (4.38%)"	23	Cancer Gene Census	add to survival plot
+SEMA3D	"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3D"	23 / 986 (2.33%)	"321 / 10,202"	"34 / 1,072 (3.17%)"	"32 / 1,072 (2.99%)"	24		add to survival plot
+MIA3	"melanoma inhibitory activity family, member 3"	23 / 986 (2.33%)	"327 / 10,202"	"142 / 1,072 (13.25%)"	"26 / 1,072 (2.43%)"	26		add to survival plot
+AC215219.2	AC215219.2	23 / 986 (2.33%)	"215 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	16		add to survival plot
+TJP1	tight junction protein 1	23 / 986 (2.33%)	"319 / 10,202"	"34 / 1,072 (3.17%)"	"100 / 1,072 (9.33%)"	26		add to survival plot
+DOCK10	dedicator of cytokinesis 10	23 / 986 (2.33%)	"432 / 10,202"	"31 / 1,072 (2.89%)"	"65 / 1,072 (6.06%)"	26		add to survival plot
+CEP162	centrosomal protein 162kDa	23 / 986 (2.33%)	"253 / 10,202"	"32 / 1,072 (2.99%)"	"75 / 1,072 (7.00%)"	25		add to survival plot
+AKAP6	A kinase (PRKA) anchor protein 6	23 / 986 (2.33%)	"548 / 10,202"	"96 / 1,072 (8.96%)"	"19 / 1,072 (1.77%)"	26		add to survival plot
+WNK3	WNK lysine deficient protein kinase 3	23 / 986 (2.33%)	"371 / 10,202"	"45 / 1,072 (4.20%)"	"9 / 1,072 (0.84%)"	31		add to survival plot
+COL7A1	"collagen, type VII, alpha 1"	23 / 986 (2.33%)	"562 / 10,202"	"15 / 1,072 (1.40%)"	"138 / 1,072 (12.87%)"	24		add to survival plot
+CPS1	"carbamoyl-phosphate synthase 1, mitochondrial"	23 / 986 (2.33%)	"469 / 10,202"	"39 / 1,072 (3.64%)"	"39 / 1,072 (3.64%)"	26		add to survival plot
+MYOM2	myomesin 2	23 / 986 (2.33%)	"469 / 10,202"	"31 / 1,072 (2.89%)"	"97 / 1,072 (9.05%)"	25		add to survival plot
+NCKAP5	NCK-associated protein 5	23 / 986 (2.33%)	"552 / 10,202"	"24 / 1,072 (2.24%)"	"41 / 1,072 (3.82%)"	24		add to survival plot
+COL5A1	"collagen, type V, alpha 1"	23 / 986 (2.33%)	"606 / 10,202"	"49 / 1,072 (4.57%)"	"44 / 1,072 (4.10%)"	25		add to survival plot
+CSPP1	centrosome and spindle pole associated protein 1	23 / 986 (2.33%)	"268 / 10,202"	"103 / 1,072 (9.61%)"	"44 / 1,072 (4.10%)"	29		add to survival plot
+PLCH1	"phospholipase C, eta 1"	23 / 986 (2.33%)	"476 / 10,202"	"103 / 1,072 (9.61%)"	"13 / 1,072 (1.21%)"	27		add to survival plot
+CASP8	"caspase 8, apoptosis-related cysteine peptidase"	23 / 986 (2.33%)	"289 / 10,202"	"48 / 1,072 (4.48%)"	"31 / 1,072 (2.89%)"	24	Cancer Gene Census	add to survival plot
+ZFP36L1	ZFP36 ring finger protein-like 1	23 / 986 (2.33%)	"294 / 10,202"	"20 / 1,072 (1.87%)"	"83 / 1,072 (7.74%)"	21		add to survival plot
+ANKRD36	ankyrin repeat domain 36	23 / 986 (2.33%)	"255 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	30		add to survival plot
+TNC	tenascin C	23 / 986 (2.33%)	"470 / 10,202"	"44 / 1,072 (4.10%)"	"30 / 1,072 (2.80%)"	29		add to survival plot
+ATP2B3	"ATPase, Ca++ transporting, plasma membrane 3"	23 / 986 (2.33%)	"388 / 10,202"	"65 / 1,072 (6.06%)"	"25 / 1,072 (2.33%)"	24	Cancer Gene Census	add to survival plot
+MYH13	"myosin, heavy chain 13, skeletal muscle"	23 / 986 (2.33%)	"570 / 10,202"	"12 / 1,072 (1.12%)"	"33 / 1,072 (3.08%)"	23		add to survival plot
+KIAA2018	KIAA2018	23 / 986 (2.33%)	"400 / 10,202"	"55 / 1,072 (5.13%)"	"26 / 1,072 (2.43%)"	24		add to survival plot
+FRY	furry homolog (Drosophila)	23 / 986 (2.33%)	"557 / 10,202"	"75 / 1,072 (7.00%)"	"85 / 1,072 (7.93%)"	24		add to survival plot
+ANKRD30A	ankyrin repeat domain 30A	23 / 986 (2.33%)	"602 / 10,202"	"53 / 1,072 (4.94%)"	"27 / 1,072 (2.52%)"	24		add to survival plot
+ERICH3	glutamate-rich 3	23 / 986 (2.33%)	"694 / 10,202"	"41 / 1,072 (3.82%)"	"60 / 1,072 (5.60%)"	27		add to survival plot
+CNTN4	contactin 4	23 / 986 (2.33%)	"451 / 10,202"	"96 / 1,072 (8.96%)"	"44 / 1,072 (4.10%)"	26		add to survival plot
+MICAL2	"microtubule associated monooxygenase, calponin and LIM domain containing 2"	23 / 986 (2.33%)	"293 / 10,202"	"41 / 1,072 (3.82%)"	"58 / 1,072 (5.41%)"	25		add to survival plot
+PLCE1	"phospholipase C, epsilon 1"	23 / 986 (2.33%)	"496 / 10,202"	"27 / 1,072 (2.52%)"	"72 / 1,072 (6.72%)"	25		add to survival plot
+ST18	"suppression of tumorigenicity 18, zinc finger"	23 / 986 (2.33%)	"473 / 10,202"	"91 / 1,072 (8.49%)"	"64 / 1,072 (5.97%)"	23		add to survival plot
+DIDO1	death inducer-obliterator 1	23 / 986 (2.33%)	"561 / 10,202"	"136 / 1,072 (12.69%)"	"30 / 1,072 (2.80%)"	31		add to survival plot
+CENPF	"centromere protein F, 350/400kDa"	23 / 986 (2.33%)	"523 / 10,202"	"135 / 1,072 (12.59%)"	"31 / 1,072 (2.89%)"	28		add to survival plot
+OGT	O-linked N-acetylglucosamine (GlcNAc) transferase	23 / 986 (2.33%)	"290 / 10,202"	"22 / 1,072 (2.05%)"	"23 / 1,072 (2.15%)"	27		add to survival plot
+NRXN3	neurexin 3	23 / 986 (2.33%)	"629 / 10,202"	"25 / 1,072 (2.33%)"	"90 / 1,072 (8.40%)"	26		add to survival plot
+LAMA3	"laminin, alpha 3"	23 / 986 (2.33%)	"539 / 10,202"	"36 / 1,072 (3.36%)"	"18 / 1,072 (1.68%)"	23		add to survival plot
+RBBP6	retinoblastoma binding protein 6	23 / 986 (2.33%)	"349 / 10,202"	"46 / 1,072 (4.29%)"	"12 / 1,072 (1.12%)"	24		add to survival plot
+ABCC9	"ATP-binding cassette, sub-family C (CFTR/MRP), member 9"	23 / 986 (2.33%)	"474 / 10,202"	"45 / 1,072 (4.20%)"	"34 / 1,072 (3.17%)"	24		add to survival plot
+BACH2	"BTB and CNC homology 1, basic leucine zipper transcription factor 2"	23 / 986 (2.33%)	"312 / 10,202"	"37 / 1,072 (3.45%)"	"78 / 1,072 (7.28%)"	22		add to survival plot
+EP300	E1A binding protein p300	23 / 986 (2.33%)	"507 / 10,202"	"35 / 1,072 (3.26%)"	"32 / 1,072 (2.99%)"	23	Cancer Gene Census	add to survival plot
+SPTB	"spectrin, beta, erythrocytic"	23 / 986 (2.33%)	"477 / 10,202"	"33 / 1,072 (3.08%)"	"65 / 1,072 (6.06%)"	23		add to survival plot
+EPHB1	EPH receptor B1	23 / 986 (2.33%)	"466 / 10,202"	"60 / 1,072 (5.60%)"	"27 / 1,072 (2.52%)"	24		add to survival plot
+ZFPM2	"zinc finger protein, FOG family member 2"	23 / 986 (2.33%)	"487 / 10,202"	"207 / 1,072 (19.31%)"	"15 / 1,072 (1.40%)"	24		add to survival plot
+CFAP44	cilia and flagella associated protein 44	23 / 986 (2.33%)	"253 / 10,202"	"52 / 1,072 (4.85%)"	"27 / 1,072 (2.52%)"	27		add to survival plot
+CADPS	Ca++-dependent secretion activator	23 / 986 (2.33%)	"403 / 10,202"	"15 / 1,072 (1.40%)"	"134 / 1,072 (12.50%)"	24		add to survival plot
+TET2	tet methylcytosine dioxygenase 2	22 / 986 (2.23%)	"425 / 10,202"	"40 / 1,072 (3.73%)"	"39 / 1,072 (3.64%)"	26	Cancer Gene Census	add to survival plot
+SIPA1L1	signal-induced proliferation-associated 1 like 1	22 / 986 (2.23%)	"419 / 10,202"	"16 / 1,072 (1.49%)"	"80 / 1,072 (7.46%)"	22		add to survival plot
+SPEG	SPEG complex locus	22 / 986 (2.23%)	"600 / 10,202"	"35 / 1,072 (3.26%)"	"52 / 1,072 (4.85%)"	22		add to survival plot
+SVIL	supervillin	22 / 986 (2.23%)	"486 / 10,202"	"28 / 1,072 (2.61%)"	"30 / 1,072 (2.80%)"	23		add to survival plot
+OR2L13	"olfactory receptor, family 2, subfamily L, member 13"	22 / 986 (2.23%)	"426 / 10,202"	"180 / 1,072 (16.79%)"	"34 / 1,072 (3.17%)"	23		add to survival plot
+SLIT2	slit homolog 2 (Drosophila)	22 / 986 (2.23%)	"542 / 10,202"	"18 / 1,072 (1.68%)"	"32 / 1,072 (2.99%)"	24		add to survival plot
+MYH6	"myosin, heavy chain 6, cardiac muscle, alpha"	22 / 986 (2.23%)	"550 / 10,202"	"87 / 1,072 (8.12%)"	"25 / 1,072 (2.33%)"	23		add to survival plot
+SIPA1L2	signal-induced proliferation-associated 1 like 2	22 / 986 (2.23%)	"442 / 10,202"	"158 / 1,072 (14.74%)"	"31 / 1,072 (2.89%)"	26		add to survival plot
+RAPGEF6	Rap guanine nucleotide exchange factor (GEF) 6	22 / 986 (2.23%)	"277 / 10,202"	"27 / 1,072 (2.52%)"	"38 / 1,072 (3.54%)"	22		add to survival plot
+PIEZO2	piezo-type mechanosensitive ion channel component 2	22 / 986 (2.23%)	"328 / 10,202"	"35 / 1,072 (3.26%)"	"20 / 1,072 (1.87%)"	23		add to survival plot
+LAMB1	"laminin, beta 1"	22 / 986 (2.23%)	"398 / 10,202"	"35 / 1,072 (3.26%)"	"40 / 1,072 (3.73%)"	23		add to survival plot
+KDM5B	lysine (K)-specific demethylase 5B	22 / 986 (2.23%)	"318 / 10,202"	"152 / 1,072 (14.18%)"	"9 / 1,072 (0.84%)"	27		add to survival plot
+ROS1	"ROS proto-oncogene 1 , receptor tyrosine kinase"	22 / 986 (2.23%)	"551 / 10,202"	"58 / 1,072 (5.41%)"	"53 / 1,072 (4.94%)"	25	Cancer Gene Census	add to survival plot
+TNXB	tenascin XB	22 / 986 (2.23%)	"669 / 10,202"	"77 / 1,072 (7.18%)"	"31 / 1,072 (2.89%)"	26		add to survival plot
+FAM47C	"family with sequence similarity 47, member C"	22 / 986 (2.23%)	"547 / 10,202"	"17 / 1,072 (1.59%)"	"19 / 1,072 (1.77%)"	23		add to survival plot
+MYH14	"myosin, heavy chain 14, non-muscle"	22 / 986 (2.23%)	"370 / 10,202"	"61 / 1,072 (5.69%)"	"44 / 1,072 (4.10%)"	22		add to survival plot
+ITPR1	"inositol 1,4,5-trisphosphate receptor, type 1"	22 / 986 (2.23%)	"450 / 10,202"	"112 / 1,072 (10.45%)"	"37 / 1,072 (3.45%)"	25		add to survival plot
+TRPC5	"transient receptor potential cation channel, subfamily C, member 5"	22 / 986 (2.23%)	"341 / 10,202"	"26 / 1,072 (2.43%)"	"26 / 1,072 (2.43%)"	23		add to survival plot
+MED12L	mediator complex subunit 12-like	22 / 986 (2.23%)	"510 / 10,202"	"96 / 1,072 (8.96%)"	"15 / 1,072 (1.40%)"	25		add to survival plot
+XRN1	5'-3' exoribonuclease 1	22 / 986 (2.23%)	"341 / 10,202"	"75 / 1,072 (7.00%)"	"23 / 1,072 (2.15%)"	23		add to survival plot
+TNRC6A	trinucleotide repeat containing 6A	22 / 986 (2.23%)	"422 / 10,202"	"49 / 1,072 (4.57%)"	"11 / 1,072 (1.03%)"	26		add to survival plot
+ANKRD17	ankyrin repeat domain 17	22 / 986 (2.23%)	"380 / 10,202"	"97 / 1,072 (9.05%)"	"11 / 1,072 (1.03%)"	26		add to survival plot
+DSP	desmoplakin	22 / 986 (2.23%)	"565 / 10,202"	"89 / 1,072 (8.30%)"	"52 / 1,072 (4.85%)"	28		add to survival plot
+ZNF208	zinc finger protein 208	22 / 986 (2.23%)	"534 / 10,202"	"52 / 1,072 (4.85%)"	"24 / 1,072 (2.24%)"	25		add to survival plot
+SMARCA4	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4"	22 / 986 (2.23%)	"493 / 10,202"	"57 / 1,072 (5.32%)"	"41 / 1,072 (3.82%)"	22	Cancer Gene Census	add to survival plot
+TRPM6	"transient receptor potential cation channel, subfamily M, member 6"	22 / 986 (2.23%)	"479 / 10,202"	"26 / 1,072 (2.43%)"	"37 / 1,072 (3.45%)"	25		add to survival plot
+CEP170	centrosomal protein 170kDa	22 / 986 (2.23%)	"339 / 10,202"	"169 / 1,072 (15.76%)"	"30 / 1,072 (2.80%)"	22		add to survival plot
+CHD9	chromodomain helicase DNA binding protein 9	22 / 986 (2.23%)	"411 / 10,202"	"51 / 1,072 (4.76%)"	"37 / 1,072 (3.45%)"	26		add to survival plot
+RP1L1	retinitis pigmentosa 1-like 1	22 / 986 (2.23%)	"646 / 10,202"	"21 / 1,072 (1.96%)"	"74 / 1,072 (6.90%)"	20		add to survival plot
+MRC2	"mannose receptor, C type 2"	22 / 986 (2.23%)	"316 / 10,202"	"233 / 1,072 (21.74%)"	"12 / 1,072 (1.12%)"	23		add to survival plot
+DYSF	dysferlin	22 / 986 (2.23%)	"614 / 10,202"	"42 / 1,072 (3.92%)"	"10 / 1,072 (0.93%)"	26		add to survival plot
+ATP7A	"ATPase, Cu++ transporting, alpha polypeptide"	22 / 986 (2.23%)	"323 / 10,202"	"18 / 1,072 (1.68%)"	"18 / 1,072 (1.68%)"	24		add to survival plot
+MYO3A	myosin IIIA	22 / 986 (2.23%)	"547 / 10,202"	"29 / 1,072 (2.71%)"	"24 / 1,072 (2.24%)"	30		add to survival plot
+ARID4B	AT rich interactive domain 4B (RBP1-like)	22 / 986 (2.23%)	"329 / 10,202"	"174 / 1,072 (16.23%)"	"29 / 1,072 (2.71%)"	23		add to survival plot
+TRAPPC9	trafficking protein particle complex 9	22 / 986 (2.23%)	"279 / 10,202"	"187 / 1,072 (17.44%)"	"57 / 1,072 (5.32%)"	23		add to survival plot
+ACACA	acetyl-CoA carboxylase alpha	22 / 986 (2.23%)	"427 / 10,202"	"81 / 1,072 (7.56%)"	"75 / 1,072 (7.00%)"	25		add to survival plot
+SCN1A	"sodium channel, voltage gated, type I alpha subunit"	22 / 986 (2.23%)	"641 / 10,202"	"34 / 1,072 (3.17%)"	"25 / 1,072 (2.33%)"	24		add to survival plot
+NEDD9	"neural precursor cell expressed, developmentally down-regulated 9"	22 / 986 (2.23%)	"233 / 10,202"	"109 / 1,072 (10.17%)"	"41 / 1,072 (3.82%)"	21		add to survival plot
+AKAP13	A kinase (PRKA) anchor protein 13	22 / 986 (2.23%)	"475 / 10,202"	"85 / 1,072 (7.93%)"	"18 / 1,072 (1.68%)"	28		add to survival plot
+SCN3A	"sodium channel, voltage gated, type III alpha subunit"	22 / 986 (2.23%)	"566 / 10,202"	"34 / 1,072 (3.17%)"	"21 / 1,072 (1.96%)"	23		add to survival plot
+GRID1	"glutamate receptor, ionotropic, delta 1"	22 / 986 (2.23%)	"453 / 10,202"	"47 / 1,072 (4.38%)"	"57 / 1,072 (5.32%)"	23		add to survival plot
+KIAA1549L	KIAA1549-like	22 / 986 (2.23%)	"416 / 10,202"	"84 / 1,072 (7.84%)"	"8 / 1,072 (0.75%)"	25		add to survival plot
+NALCN	"sodium leak channel, non selective"	22 / 986 (2.23%)	"658 / 10,202"	"101 / 1,072 (9.42%)"	"20 / 1,072 (1.87%)"	25		add to survival plot
+CDK5RAP2	CDK5 regulatory subunit associated protein 2	22 / 986 (2.23%)	"307 / 10,202"	"41 / 1,072 (3.82%)"	"30 / 1,072 (2.80%)"	22		add to survival plot
+PTPRQ	"protein tyrosine phosphatase, receptor type, Q"	22 / 986 (2.23%)	"181 / 10,202"	"49 / 1,072 (4.57%)"	"50 / 1,072 (4.66%)"	28		add to survival plot
+PLCB4	"phospholipase C, beta 4"	22 / 986 (2.23%)	"425 / 10,202"	"33 / 1,072 (3.08%)"	"57 / 1,072 (5.32%)"	29		add to survival plot
+VWF	von Willebrand factor	22 / 986 (2.23%)	"577 / 10,202"	"70 / 1,072 (6.53%)"	"47 / 1,072 (4.38%)"	20		add to survival plot
+ARHGAP31	Rho GTPase activating protein 31	22 / 986 (2.23%)	"354 / 10,202"	"37 / 1,072 (3.45%)"	"37 / 1,072 (3.45%)"	22		add to survival plot
+DOCK4	dedicator of cytokinesis 4	22 / 986 (2.23%)	"490 / 10,202"	"43 / 1,072 (4.01%)"	"43 / 1,072 (4.01%)"	23		add to survival plot
+ALPK2	alpha-kinase 2	22 / 986 (2.23%)	"496 / 10,202"	"30 / 1,072 (2.80%)"	"34 / 1,072 (3.17%)"	26		add to survival plot
+MAGI1	"membrane associated guanylate kinase, WW and PDZ domain containing 1"	22 / 986 (2.23%)	"426 / 10,202"	"21 / 1,072 (1.96%)"	"131 / 1,072 (12.22%)"	23		add to survival plot
+EGFR	epidermal growth factor receptor	22 / 986 (2.23%)	"548 / 10,202"	"44 / 1,072 (4.10%)"	"18 / 1,072 (1.68%)"	22	Cancer Gene Census	add to survival plot
+NPHP4	nephronophthisis 4	22 / 986 (2.23%)	"307 / 10,202"	"28 / 1,072 (2.61%)"	"167 / 1,072 (15.58%)"	24		add to survival plot
+AFF3	"AF4/FMR2 family, member 3"	22 / 986 (2.23%)	"405 / 10,202"	"51 / 1,072 (4.76%)"	"25 / 1,072 (2.33%)"	25	Cancer Gene Census	add to survival plot
+HDLBP	high density lipoprotein binding protein	22 / 986 (2.23%)	"312 / 10,202"	"33 / 1,072 (3.08%)"	"98 / 1,072 (9.14%)"	23		add to survival plot
+RLF	rearranged L-myc fusion	22 / 986 (2.23%)	"286 / 10,202"	"63 / 1,072 (5.88%)"	"44 / 1,072 (4.10%)"	24		add to survival plot
+FER1L5	fer-1-like family member 5	22 / 986 (2.23%)	"246 / 10,202"	"49 / 1,072 (4.57%)"	"20 / 1,072 (1.87%)"	23		add to survival plot
+TET3	tet methylcytosine dioxygenase 3	21 / 986 (2.13%)	"335 / 10,202"	"44 / 1,072 (4.10%)"	"13 / 1,072 (1.21%)"	22		add to survival plot
+ADGRB3	adhesion G protein-coupled receptor B3	21 / 986 (2.13%)	"652 / 10,202"	"80 / 1,072 (7.46%)"	"60 / 1,072 (5.60%)"	24		add to survival plot
+DSCAML1	Down syndrome cell adhesion molecule like 1	21 / 986 (2.13%)	"566 / 10,202"	"23 / 1,072 (2.15%)"	"174 / 1,072 (16.23%)"	22		add to survival plot
+TRPM2	"transient receptor potential cation channel, subfamily M, member 2"	21 / 986 (2.13%)	"421 / 10,202"	"72 / 1,072 (6.72%)"	"19 / 1,072 (1.77%)"	22		add to survival plot
+SEC31A	SEC31 homolog A (S. cerevisiae)	21 / 986 (2.13%)	"264 / 10,202"	"43 / 1,072 (4.01%)"	"20 / 1,072 (1.87%)"	19		add to survival plot
+ATAD2B	"ATPase family, AAA domain containing 2B"	21 / 986 (2.13%)	"231 / 10,202"	"36 / 1,072 (3.36%)"	"40 / 1,072 (3.73%)"	23		add to survival plot
+KCNT2	"potassium channel, sodium activated subfamily T, member 2"	21 / 986 (2.13%)	"479 / 10,202"	"126 / 1,072 (11.75%)"	"22 / 1,072 (2.05%)"	23		add to survival plot
+ASXL2	additional sex combs like transcriptional regulator 2	21 / 986 (2.13%)	"333 / 10,202"	"37 / 1,072 (3.45%)"	"42 / 1,072 (3.92%)"	25		add to survival plot
+PPP1R3A	"protein phosphatase 1, regulatory subunit 3A"	21 / 986 (2.13%)	"512 / 10,202"	"34 / 1,072 (3.17%)"	"41 / 1,072 (3.82%)"	24		add to survival plot
+CHD2	chromodomain helicase DNA binding protein 2	21 / 986 (2.13%)	"369 / 10,202"	"99 / 1,072 (9.24%)"	"14 / 1,072 (1.31%)"	23		add to survival plot
+ARID2	"AT rich interactive domain 2 (ARID, RFX-like)"	21 / 986 (2.13%)	"510 / 10,202"	"40 / 1,072 (3.73%)"	"42 / 1,072 (3.92%)"	24	Cancer Gene Census	add to survival plot
+PHF20L1	PHD finger protein 20-like 1	21 / 986 (2.13%)	"294 / 10,202"	"188 / 1,072 (17.54%)"	"40 / 1,072 (3.73%)"	22		add to survival plot
+GCC2	GRIP and coiled-coil domain containing 2	21 / 986 (2.13%)	"274 / 10,202"	"38 / 1,072 (3.54%)"	"25 / 1,072 (2.33%)"	22		add to survival plot
+PTPRF	"protein tyrosine phosphatase, receptor type, F"	21 / 986 (2.13%)	"395 / 10,202"	"72 / 1,072 (6.72%)"	"40 / 1,072 (3.73%)"	23		add to survival plot
+DIP2A	DIP2 disco-interacting protein 2 homolog A (Drosophila)	21 / 986 (2.13%)	"339 / 10,202"	"79 / 1,072 (7.37%)"	"21 / 1,072 (1.96%)"	22		add to survival plot
+COL4A4	"collagen, type IV, alpha 4"	21 / 986 (2.13%)	"492 / 10,202"	"30 / 1,072 (2.80%)"	"69 / 1,072 (6.44%)"	22		add to survival plot
+PAPPA	"pregnancy-associated plasma protein A, pappalysin 1"	21 / 986 (2.13%)	"481 / 10,202"	"47 / 1,072 (4.38%)"	"32 / 1,072 (2.99%)"	22		add to survival plot
+ITGAX	"integrin, alpha X (complement component 3 receptor 4 subunit)"	21 / 986 (2.13%)	"393 / 10,202"	"63 / 1,072 (5.88%)"	"12 / 1,072 (1.12%)"	24		add to survival plot
+HELZ	helicase with zinc finger	21 / 986 (2.13%)	"356 / 10,202"	"245 / 1,072 (22.85%)"	"10 / 1,072 (0.93%)"	26		add to survival plot
+LAMA4	"laminin, alpha 4"	21 / 986 (2.13%)	"439 / 10,202"	"59 / 1,072 (5.50%)"	"65 / 1,072 (6.06%)"	24		add to survival plot
+SLC4A4	"solute carrier family 4 (sodium bicarbonate cotransporter), member 4"	21 / 986 (2.13%)	"327 / 10,202"	"90 / 1,072 (8.40%)"	"10 / 1,072 (0.93%)"	25		add to survival plot
+UGGT2	UDP-glucose glycoprotein glucosyltransferase 2	21 / 986 (2.13%)	"313 / 10,202"	"96 / 1,072 (8.96%)"	"21 / 1,072 (1.96%)"	23		add to survival plot
+PCDH11X	protocadherin 11 X-linked	21 / 986 (2.13%)	"704 / 10,202"	"18 / 1,072 (1.68%)"	"30 / 1,072 (2.80%)"	21		add to survival plot
+HECW2	"HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2"	21 / 986 (2.13%)	"437 / 10,202"	"59 / 1,072 (5.50%)"	"22 / 1,072 (2.05%)"	24		add to survival plot
+C2orf71	chromosome 2 open reading frame 71	21 / 986 (2.13%)	"332 / 10,202"	"46 / 1,072 (4.29%)"	"21 / 1,072 (1.96%)"	22		add to survival plot
+FAM186A	"family with sequence similarity 186, member A"	21 / 986 (2.13%)	"156 / 10,202"	"36 / 1,072 (3.36%)"	"46 / 1,072 (4.29%)"	27		add to survival plot
+NIN	ninein (GSK3B interacting protein)	21 / 986 (2.13%)	"364 / 10,202"	"86 / 1,072 (8.02%)"	"20 / 1,072 (1.87%)"	26	Cancer Gene Census	add to survival plot
+IQGAP3	IQ motif containing GTPase activating protein 3	21 / 986 (2.13%)	"307 / 10,202"	"150 / 1,072 (13.99%)"	"27 / 1,072 (2.52%)"	22		add to survival plot
+RALGAPA2	"Ral GTPase activating protein, alpha subunit 2 (catalytic)"	21 / 986 (2.13%)	"328 / 10,202"	"35 / 1,072 (3.26%)"	"32 / 1,072 (2.99%)"	23		add to survival plot
+WNK1	WNK lysine deficient protein kinase 1	21 / 986 (2.13%)	"411 / 10,202"	"93 / 1,072 (8.68%)"	"48 / 1,072 (4.48%)"	24		add to survival plot
+EML5	echinoderm microtubule associated protein like 5	21 / 986 (2.13%)	"300 / 10,202"	"35 / 1,072 (3.26%)"	"71 / 1,072 (6.62%)"	22		add to survival plot
+POLQ	"polymerase (DNA directed), theta"	21 / 986 (2.13%)	"495 / 10,202"	"34 / 1,072 (3.17%)"	"38 / 1,072 (3.54%)"	21		add to survival plot
+SPTBN2	"spectrin, beta, non-erythrocytic 2"	21 / 986 (2.13%)	"384 / 10,202"	"197 / 1,072 (18.38%)"	"22 / 1,072 (2.05%)"	21		add to survival plot
+DLC1	DLC1 Rho GTPase activating protein	21 / 986 (2.13%)	"469 / 10,202"	"26 / 1,072 (2.43%)"	"78 / 1,072 (7.28%)"	22		add to survival plot
+UMODL1	uromodulin-like 1	21 / 986 (2.13%)	"324 / 10,202"	"68 / 1,072 (6.34%)"	"15 / 1,072 (1.40%)"	25		add to survival plot
+SZT2	seizure threshold 2 homolog (mouse)	21 / 986 (2.13%)	"528 / 10,202"	"70 / 1,072 (6.53%)"	"39 / 1,072 (3.64%)"	30		add to survival plot
+DLG1	"discs, large homolog 1 (Drosophila)"	21 / 986 (2.13%)	"196 / 10,202"	"136 / 1,072 (12.69%)"	"34 / 1,072 (3.17%)"	23		add to survival plot
+RPGR	retinitis pigmentosa GTPase regulator	21 / 986 (2.13%)	"214 / 10,202"	"15 / 1,072 (1.40%)"	"19 / 1,072 (1.77%)"	24		add to survival plot
+CTNNA2	"catenin (cadherin-associated protein), alpha 2"	21 / 986 (2.13%)	"565 / 10,202"	"52 / 1,072 (4.85%)"	"26 / 1,072 (2.43%)"	21		add to survival plot
+NFASC	neurofascin	21 / 986 (2.13%)	"501 / 10,202"	"175 / 1,072 (16.32%)"	"10 / 1,072 (0.93%)"	23		add to survival plot
+KIF5C	kinesin family member 5C	21 / 986 (2.13%)	"255 / 10,202"	"20 / 1,072 (1.87%)"	"41 / 1,072 (3.82%)"	22		add to survival plot
+CFTR	"cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)"	21 / 986 (2.13%)	"361 / 10,202"	"42 / 1,072 (3.92%)"	"35 / 1,072 (3.26%)"	24		add to survival plot
+CCNB3	cyclin B3	21 / 986 (2.13%)	"356 / 10,202"	"34 / 1,072 (3.17%)"	"9 / 1,072 (0.84%)"	25		add to survival plot
+MADD	MAP-kinase activating death domain	21 / 986 (2.13%)	"316 / 10,202"	"63 / 1,072 (5.88%)"	"17 / 1,072 (1.59%)"	22		add to survival plot
+FCRL5	Fc receptor-like 5	21 / 986 (2.13%)	"419 / 10,202"	"145 / 1,072 (13.53%)"	"29 / 1,072 (2.71%)"	21		add to survival plot
+GRID2	"glutamate receptor, ionotropic, delta 2"	21 / 986 (2.13%)	"517 / 10,202"	"47 / 1,072 (4.38%)"	"36 / 1,072 (3.36%)"	16		add to survival plot
+ABCA9	"ATP-binding cassette, sub-family A (ABC1), member 9"	21 / 986 (2.13%)	"363 / 10,202"	"233 / 1,072 (21.74%)"	"19 / 1,072 (1.77%)"	24		add to survival plot
+MAP3K4	mitogen-activated protein kinase kinase kinase 4	21 / 986 (2.13%)	"348 / 10,202"	"51 / 1,072 (4.76%)"	"101 / 1,072 (9.42%)"	22		add to survival plot
+CTTNBP2	cortactin binding protein 2	21 / 986 (2.13%)	"407 / 10,202"	"43 / 1,072 (4.01%)"	"35 / 1,072 (3.26%)"	21		add to survival plot
+TBC1D4	"TBC1 domain family, member 4"	21 / 986 (2.13%)	"262 / 10,202"	"55 / 1,072 (5.13%)"	"35 / 1,072 (3.26%)"	21		add to survival plot
+MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4	21 / 986 (2.13%)	"294 / 10,202"	"37 / 1,072 (3.45%)"	"24 / 1,072 (2.24%)"	23		add to survival plot
+TANC2	"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2"	21 / 986 (2.13%)	"324 / 10,202"	"243 / 1,072 (22.67%)"	"18 / 1,072 (1.68%)"	24		add to survival plot
+ANKRD26	ankyrin repeat domain 26	21 / 986 (2.13%)	"324 / 10,202"	"30 / 1,072 (2.80%)"	"24 / 1,072 (2.24%)"	23		add to survival plot
+KIAA0232	KIAA0232	21 / 986 (2.13%)	"251 / 10,202"	"36 / 1,072 (3.36%)"	"30 / 1,072 (2.80%)"	25		add to survival plot
+CNTNAP2	contactin associated protein-like 2	21 / 986 (2.13%)	"707 / 10,202"	"60 / 1,072 (5.60%)"	"77 / 1,072 (7.18%)"	22		add to survival plot
+NBEA	neurobeachin	21 / 986 (2.13%)	"605 / 10,202"	"64 / 1,072 (5.97%)"	"93 / 1,072 (8.68%)"	26		add to survival plot
+EPG5	ectopic P-granules autophagy protein 5 homolog (C. elegans)	21 / 986 (2.13%)	"409 / 10,202"	"27 / 1,072 (2.52%)"	"25 / 1,072 (2.33%)"	24		add to survival plot
+WDR87	WD repeat domain 87	21 / 986 (2.13%)	"250 / 10,202"	"73 / 1,072 (6.81%)"	"19 / 1,072 (1.77%)"	30		add to survival plot
+PLEKHH2	"pleckstrin homology domain containing, family H (with MyTH4 domain) member 2"	21 / 986 (2.13%)	"337 / 10,202"	"38 / 1,072 (3.54%)"	"23 / 1,072 (2.15%)"	22		add to survival plot
+NAV1	neuron navigator 1	21 / 986 (2.13%)	"354 / 10,202"	"150 / 1,072 (13.99%)"	"12 / 1,072 (1.12%)"	22		add to survival plot
+RANBP2	RAN binding protein 2	21 / 986 (2.13%)	"505 / 10,202"	"36 / 1,072 (3.36%)"	"26 / 1,072 (2.43%)"	25	Cancer Gene Census	add to survival plot
+EP400	E1A binding protein p400	21 / 986 (2.13%)	"541 / 10,202"	"36 / 1,072 (3.36%)"	"83 / 1,072 (7.74%)"	21		add to survival plot
+GOLGA6L9	golgin A6 family-like 9	21 / 986 (2.13%)	"202 / 10,202"	"77 / 1,072 (7.18%)"	"16 / 1,072 (1.49%)"	17		add to survival plot
+CEP250	centrosomal protein 250kDa	21 / 986 (2.13%)	"353 / 10,202"	"57 / 1,072 (5.32%)"	"29 / 1,072 (2.71%)"	22		add to survival plot
+CECR2	"cat eye syndrome chromosome region, candidate 2"	21 / 986 (2.13%)	"309 / 10,202"	"62 / 1,072 (5.78%)"	"47 / 1,072 (4.38%)"	24		add to survival plot
+SEC16B	SEC16 homolog B (S. cerevisiae)	21 / 986 (2.13%)	"270 / 10,202"	"114 / 1,072 (10.63%)"	"32 / 1,072 (2.99%)"	23		add to survival plot
+URB1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae)	21 / 986 (2.13%)	"181 / 10,202"	"44 / 1,072 (4.10%)"	"20 / 1,072 (1.87%)"	22		add to survival plot
+FBN2	fibrillin 2	21 / 986 (2.13%)	"705 / 10,202"	"30 / 1,072 (2.80%)"	"41 / 1,072 (3.82%)"	25		add to survival plot
+GRIK1	"glutamate receptor, ionotropic, kainate 1"	21 / 986 (2.13%)	"326 / 10,202"	"33 / 1,072 (3.08%)"	"32 / 1,072 (2.99%)"	22		add to survival plot
+RIF1	replication timing regulatory factor 1	21 / 986 (2.13%)	"397 / 10,202"	"21 / 1,072 (1.96%)"	"38 / 1,072 (3.54%)"	21		add to survival plot
+MYH4	"myosin, heavy chain 4, skeletal muscle"	21 / 986 (2.13%)	"616 / 10,202"	"11 / 1,072 (1.03%)"	"32 / 1,072 (2.99%)"	23		add to survival plot
+SPATA31D1	"SPATA31 subfamily D, member 1"	21 / 986 (2.13%)	"474 / 10,202"	"27 / 1,072 (2.52%)"	"32 / 1,072 (2.99%)"	23		add to survival plot
+ANXA8	annexin A8	21 / 986 (2.13%)	"209 / 10,202"	"41 / 1,072 (3.82%)"	"34 / 1,072 (3.17%)"	11		add to survival plot
+SON	SON DNA binding protein	21 / 986 (2.13%)	"366 / 10,202"	"51 / 1,072 (4.76%)"	"13 / 1,072 (1.21%)"	26		add to survival plot
+NLGN4X	"neuroligin 4, X-linked"	20 / 986 (2.03%)	"432 / 10,202"	"42 / 1,072 (3.92%)"	"33 / 1,072 (3.08%)"	19		add to survival plot
+CNTLN	"centlein, centrosomal protein"	20 / 986 (2.03%)	"322 / 10,202"	"46 / 1,072 (4.29%)"	"30 / 1,072 (2.80%)"	21		add to survival plot
+MTUS2	microtubule associated tumor suppressor candidate 2	20 / 986 (2.03%)	"527 / 10,202"	"107 / 1,072 (9.98%)"	"73 / 1,072 (6.81%)"	21		add to survival plot
+SBF2	SET binding factor 2	20 / 986 (2.03%)	"322 / 10,202"	"36 / 1,072 (3.36%)"	"72 / 1,072 (6.72%)"	22		add to survival plot
+PHIP	pleckstrin homology domain interacting protein	20 / 986 (2.03%)	"292 / 10,202"	"48 / 1,072 (4.48%)"	"69 / 1,072 (6.44%)"	23		add to survival plot
+PDE3A	"phosphodiesterase 3A, cGMP-inhibited"	20 / 986 (2.03%)	"406 / 10,202"	"42 / 1,072 (3.92%)"	"40 / 1,072 (3.73%)"	21		add to survival plot
+CCDC88A	coiled-coil domain containing 88A	20 / 986 (2.03%)	"326 / 10,202"	"55 / 1,072 (5.13%)"	"6 / 1,072 (0.56%)"	28		add to survival plot
+SPAG17	sperm associated antigen 17	20 / 986 (2.03%)	"529 / 10,202"	"65 / 1,072 (6.06%)"	"62 / 1,072 (5.78%)"	24		add to survival plot
+LRRK1	leucine-rich repeat kinase 1	20 / 986 (2.03%)	"394 / 10,202"	"104 / 1,072 (9.70%)"	"28 / 1,072 (2.61%)"	23		add to survival plot
+ADCY8	adenylate cyclase 8 (brain)	20 / 986 (2.03%)	"577 / 10,202"	"195 / 1,072 (18.19%)"	"36 / 1,072 (3.36%)"	20		add to survival plot
+CNTRL	centriolin	20 / 986 (2.03%)	"321 / 10,202"	"44 / 1,072 (4.10%)"	"27 / 1,072 (2.52%)"	26	Cancer Gene Census	add to survival plot
+NOS1	nitric oxide synthase 1 (neuronal)	20 / 986 (2.03%)	"562 / 10,202"	"39 / 1,072 (3.64%)"	"80 / 1,072 (7.46%)"	23		add to survival plot
+NWD1	NACHT and WD repeat domain containing 1	20 / 986 (2.03%)	"397 / 10,202"	"55 / 1,072 (5.13%)"	"18 / 1,072 (1.68%)"	20		add to survival plot
+FBXW7	"F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase"	20 / 986 (2.03%)	"562 / 10,202"	"51 / 1,072 (4.76%)"	"45 / 1,072 (4.20%)"	19	Cancer Gene Census	add to survival plot
+TSHZ2	teashirt zinc finger homeobox 2	20 / 986 (2.03%)	"446 / 10,202"	"153 / 1,072 (14.27%)"	"17 / 1,072 (1.59%)"	20		add to survival plot
+LAMB4	"laminin, beta 4"	20 / 986 (2.03%)	"423 / 10,202"	"34 / 1,072 (3.17%)"	"40 / 1,072 (3.73%)"	21		add to survival plot
+UNC13A	unc-13 homolog A (C. elegans)	20 / 986 (2.03%)	"367 / 10,202"	"54 / 1,072 (5.04%)"	"18 / 1,072 (1.68%)"	21		add to survival plot
+SPTBN1	"spectrin, beta, non-erythrocytic 1"	20 / 986 (2.03%)	"452 / 10,202"	"56 / 1,072 (5.22%)"	"7 / 1,072 (0.65%)"	20		add to survival plot
+NID1	nidogen 1	20 / 986 (2.03%)	"336 / 10,202"	"167 / 1,072 (15.58%)"	"33 / 1,072 (3.08%)"	21		add to survival plot
+CDH9	"cadherin 9, type 2 (T1-cadherin)"	20 / 986 (2.03%)	"596 / 10,202"	"62 / 1,072 (5.78%)"	"15 / 1,072 (1.40%)"	21		add to survival plot
+FMNL3	formin-like 3	20 / 986 (2.03%)	"261 / 10,202"	"31 / 1,072 (2.89%)"	"48 / 1,072 (4.48%)"	20		add to survival plot
+WDR44	WD repeat domain 44	20 / 986 (2.03%)	"255 / 10,202"	"38 / 1,072 (3.54%)"	"25 / 1,072 (2.33%)"	21		add to survival plot
+ZC3H12B	zinc finger CCCH-type containing 12B	20 / 986 (2.03%)	"250 / 10,202"	"39 / 1,072 (3.64%)"	"14 / 1,072 (1.31%)"	18		add to survival plot
+MYO7B	myosin VIIB	20 / 986 (2.03%)	"479 / 10,202"	"19 / 1,072 (1.77%)"	"39 / 1,072 (3.64%)"	21		add to survival plot
+TLR4	toll-like receptor 4	20 / 986 (2.03%)	"410 / 10,202"	"41 / 1,072 (3.82%)"	"33 / 1,072 (3.08%)"	24		add to survival plot
+HCFC1	host cell factor C1	20 / 986 (2.03%)	"352 / 10,202"	"69 / 1,072 (6.44%)"	"26 / 1,072 (2.43%)"	22		add to survival plot
+PCNX	pecanex homolog (Drosophila)	20 / 986 (2.03%)	"386 / 10,202"	"15 / 1,072 (1.40%)"	"80 / 1,072 (7.46%)"	23		add to survival plot
+POGZ	pogo transposable element with ZNF domain	20 / 986 (2.03%)	"273 / 10,202"	"191 / 1,072 (17.82%)"	"22 / 1,072 (2.05%)"	20		add to survival plot
+UNC79	unc-79 homolog (C. elegans)	20 / 986 (2.03%)	"668 / 10,202"	"40 / 1,072 (3.73%)"	"69 / 1,072 (6.44%)"	23		add to survival plot
+KCNB2	"potassium channel, voltage gated Shab related subfamily B, member 2"	20 / 986 (2.03%)	"519 / 10,202"	"113 / 1,072 (10.54%)"	"42 / 1,072 (3.92%)"	21		add to survival plot
+ADAMTS20	"ADAM metallopeptidase with thrombospondin type 1 motif, 20"	20 / 986 (2.03%)	"550 / 10,202"	"58 / 1,072 (5.41%)"	"30 / 1,072 (2.80%)"	24		add to survival plot
+FANCD2	"Fanconi anemia, complementation group D2"	20 / 986 (2.03%)	"302 / 10,202"	"96 / 1,072 (8.96%)"	"25 / 1,072 (2.33%)"	21	Cancer Gene Census	add to survival plot
+ERBB4	erb-b2 receptor tyrosine kinase 4	20 / 986 (2.03%)	"595 / 10,202"	"53 / 1,072 (4.94%)"	"51 / 1,072 (4.76%)"	22	Cancer Gene Census	add to survival plot
+PKDREJ	polycystin (PKD) family receptor for egg jelly	20 / 986 (2.03%)	"390 / 10,202"	"33 / 1,072 (3.08%)"	"47 / 1,072 (4.38%)"	32		add to survival plot
+CAMSAP1	calmodulin regulated spectrin-associated protein 1	20 / 986 (2.03%)	"285 / 10,202"	"51 / 1,072 (4.76%)"	"41 / 1,072 (3.82%)"	26		add to survival plot
+NRK	Nik related kinase	20 / 986 (2.03%)	"479 / 10,202"	"14 / 1,072 (1.31%)"	"28 / 1,072 (2.61%)"	20		add to survival plot
+MED23	mediator complex subunit 23	20 / 986 (2.03%)	"262 / 10,202"	"74 / 1,072 (6.90%)"	"41 / 1,072 (3.82%)"	19		add to survival plot
+RAD54B	RAD54 homolog B (S. cerevisiae)	20 / 986 (2.03%)	"177 / 10,202"	"180 / 1,072 (16.79%)"	"19 / 1,072 (1.77%)"	22		add to survival plot
+WWP2	WW domain containing E3 ubiquitin protein ligase 2	20 / 986 (2.03%)	"214 / 10,202"	"40 / 1,072 (3.73%)"	"40 / 1,072 (3.73%)"	21		add to survival plot
+SCN11A	"sodium channel, voltage gated, type XI alpha subunit"	20 / 986 (2.03%)	"548 / 10,202"	"33 / 1,072 (3.08%)"	"81 / 1,072 (7.56%)"	22		add to survival plot
+SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	20 / 986 (2.03%)	"182 / 10,202"	"161 / 1,072 (15.02%)"	"14 / 1,072 (1.31%)"	19		add to survival plot
+CYFIP1	cytoplasmic FMR1 interacting protein 1	20 / 986 (2.03%)	"274 / 10,202"	"52 / 1,072 (4.85%)"	"100 / 1,072 (9.33%)"	20		add to survival plot
+ANO4	anoctamin 4	20 / 986 (2.03%)	"420 / 10,202"	"35 / 1,072 (3.26%)"	"63 / 1,072 (5.88%)"	23		add to survival plot
+PRKG2	"protein kinase, cGMP-dependent, type II"	20 / 986 (2.03%)	"237 / 10,202"	"50 / 1,072 (4.66%)"	"20 / 1,072 (1.87%)"	20		add to survival plot
+LAMA5	"laminin, alpha 5"	20 / 986 (2.03%)	"514 / 10,202"	"134 / 1,072 (12.50%)"	"30 / 1,072 (2.80%)"	21		add to survival plot
+AFF1	"AF4/FMR2 family, member 1"	20 / 986 (2.03%)	"284 / 10,202"	"44 / 1,072 (4.10%)"	"23 / 1,072 (2.15%)"	21	Cancer Gene Census	add to survival plot
+BRINP3	bone morphogenetic protein/retinoic acid inducible neural-specific 3	20 / 986 (2.03%)	"569 / 10,202"	"122 / 1,072 (11.38%)"	"25 / 1,072 (2.33%)"	21		add to survival plot
+TNN	tenascin N	20 / 986 (2.03%)	"551 / 10,202"	"111 / 1,072 (10.35%)"	"33 / 1,072 (3.08%)"	22		add to survival plot
+RB1CC1	RB1-inducible coiled-coil 1	20 / 986 (2.03%)	"347 / 10,202"	"87 / 1,072 (8.12%)"	"66 / 1,072 (6.16%)"	25		add to survival plot
+C2CD3	C2 calcium-dependent domain containing 3	20 / 986 (2.03%)	"340 / 10,202"	"159 / 1,072 (14.83%)"	"43 / 1,072 (4.01%)"	21		add to survival plot
+ADGB	androglobin	20 / 986 (2.03%)	"267 / 10,202"	"60 / 1,072 (5.60%)"	"67 / 1,072 (6.25%)"	23		add to survival plot
+SHANK1	SH3 and multiple ankyrin repeat domains 1	20 / 986 (2.03%)	"414 / 10,202"	"66 / 1,072 (6.16%)"	"42 / 1,072 (3.92%)"	23		add to survival plot
+ADCY10	adenylate cyclase 10 (soluble)	20 / 986 (2.03%)	"370 / 10,202"	"132 / 1,072 (12.31%)"	"28 / 1,072 (2.61%)"	22		add to survival plot
+PTPRT	"protein tyrosine phosphatase, receptor type, T"	20 / 986 (2.03%)	"720 / 10,202"	"70 / 1,072 (6.53%)"	"49 / 1,072 (4.57%)"	23		add to survival plot
+FNDC1	fibronectin type III domain containing 1	20 / 986 (2.03%)	"486 / 10,202"	"58 / 1,072 (5.41%)"	"95 / 1,072 (8.86%)"	22		add to survival plot
+HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	20 / 986 (2.03%)	"481 / 10,202"	"72 / 1,072 (6.72%)"	"41 / 1,072 (3.82%)"	25		add to survival plot
+CACNA1D	"calcium channel, voltage-dependent, L type, alpha 1D subunit"	20 / 986 (2.03%)	"457 / 10,202"	"14 / 1,072 (1.31%)"	"142 / 1,072 (13.25%)"	22	Cancer Gene Census	add to survival plot
+ANKHD1-EIF4EBP3	ANKHD1-EIF4EBP3 readthrough	20 / 986 (2.03%)	"388 / 10,202"	"50 / 1,072 (4.66%)"	"22 / 1,072 (2.05%)"	21		add to survival plot
+ROBO1	"roundabout, axon guidance receptor, homolog 1 (Drosophila)"	20 / 986 (2.03%)	"496 / 10,202"	"38 / 1,072 (3.54%)"	"101 / 1,072 (9.42%)"	24		add to survival plot
+HECTD1	HECT domain containing E3 ubiquitin protein ligase 1	20 / 986 (2.03%)	"349 / 10,202"	"93 / 1,072 (8.68%)"	"17 / 1,072 (1.59%)"	23		add to survival plot
+PTPRZ1	"protein tyrosine phosphatase, receptor-type, Z polypeptide 1"	20 / 986 (2.03%)	"538 / 10,202"	"42 / 1,072 (3.92%)"	"39 / 1,072 (3.64%)"	22		add to survival plot
+TEP1	telomerase-associated protein 1	20 / 986 (2.03%)	"416 / 10,202"	"89 / 1,072 (8.30%)"	"28 / 1,072 (2.61%)"	21		add to survival plot
+TAB3	TGF-beta activated kinase 1/MAP3K7 binding protein 3	20 / 986 (2.03%)	"240 / 10,202"	"26 / 1,072 (2.43%)"	"15 / 1,072 (1.40%)"	22		add to survival plot
+DOCK9	dedicator of cytokinesis 9	20 / 986 (2.03%)	"344 / 10,202"	"103 / 1,072 (9.61%)"	"20 / 1,072 (1.87%)"	24		add to survival plot
+ZSWIM8	"zinc finger, SWIM-type containing 8"	20 / 986 (2.03%)	"306 / 10,202"	"65 / 1,072 (6.06%)"	"24 / 1,072 (2.24%)"	22		add to survival plot
+POTEH	"POTE ankyrin domain family, member H"	20 / 986 (2.03%)	"457 / 10,202"	"59 / 1,072 (5.50%)"	"48 / 1,072 (4.48%)"	20		add to survival plot
+DNMT1	DNA (cytosine-5-)-methyltransferase 1	20 / 986 (2.03%)	"290 / 10,202"	"54 / 1,072 (5.04%)"	"36 / 1,072 (3.36%)"	21		add to survival plot
+FRMPD3	FERM and PDZ domain containing 3	20 / 986 (2.03%)	"347 / 10,202"	"19 / 1,072 (1.77%)"	"24 / 1,072 (2.24%)"	10		add to survival plot
+BCORL1	BCL6 corepressor-like 1	20 / 986 (2.03%)	"428 / 10,202"	"42 / 1,072 (3.92%)"	"19 / 1,072 (1.77%)"	20		add to survival plot
+COPA	"coatomer protein complex, subunit alpha"	20 / 986 (2.03%)	"301 / 10,202"	"153 / 1,072 (14.27%)"	"22 / 1,072 (2.05%)"	22		add to survival plot
+GRIN2B	"glutamate receptor, ionotropic, N-methyl D-aspartate 2B"	20 / 986 (2.03%)	"561 / 10,202"	"35 / 1,072 (3.26%)"	"69 / 1,072 (6.44%)"	20		add to survival plot
+TTC28	tetratricopeptide repeat domain 28	20 / 986 (2.03%)	"183 / 10,202"	"47 / 1,072 (4.38%)"	"28 / 1,072 (2.61%)"	23		add to survival plot
+DIP2C	DIP2 disco-interacting protein 2 homolog C (Drosophila)	20 / 986 (2.03%)	"367 / 10,202"	"112 / 1,072 (10.45%)"	"33 / 1,072 (3.08%)"	23		add to survival plot
+EXPH5	exophilin 5	20 / 986 (2.03%)	"383 / 10,202"	"33 / 1,072 (3.08%)"	"156 / 1,072 (14.55%)"	21		add to survival plot
+GREB1L	growth regulation by estrogen in breast cancer-like	20 / 986 (2.03%)	"148 / 10,202"	"36 / 1,072 (3.36%)"	"18 / 1,072 (1.68%)"	21		add to survival plot
+RBFOX1	"RNA binding protein, fox-1 homolog (C. elegans) 1"	20 / 986 (2.03%)	"387 / 10,202"	"78 / 1,072 (7.28%)"	"28 / 1,072 (2.61%)"	20		add to survival plot
+TECTA	tectorin alpha	20 / 986 (2.03%)	"572 / 10,202"	"23 / 1,072 (2.15%)"	"158 / 1,072 (14.74%)"	20		add to survival plot
+SORCS1	sortilin-related VPS10 domain containing receptor 1	20 / 986 (2.03%)	"576 / 10,202"	"28 / 1,072 (2.61%)"	"91 / 1,072 (8.49%)"	21		add to survival plot
+ZNFX1	"zinc finger, NFX1-type containing 1"	20 / 986 (2.03%)	"348 / 10,202"	"100 / 1,072 (9.33%)"	"32 / 1,072 (2.99%)"	23		add to survival plot
+KDM5A	lysine (K)-specific demethylase 5A	20 / 986 (2.03%)	"366 / 10,202"	"91 / 1,072 (8.49%)"	"48 / 1,072 (4.48%)"	20	Cancer Gene Census	add to survival plot
+ABCA3	"ATP-binding cassette, sub-family A (ABC1), member 3"	20 / 986 (2.03%)	"367 / 10,202"	"85 / 1,072 (7.93%)"	"16 / 1,072 (1.49%)"	24		add to survival plot
+GRM3	"glutamate receptor, metabotropic 3"	20 / 986 (2.03%)	"516 / 10,202"	"37 / 1,072 (3.45%)"	"27 / 1,072 (2.52%)"	22		add to survival plot
+SDK2	sidekick cell adhesion molecule 2	20 / 986 (2.03%)	"436 / 10,202"	"228 / 1,072 (21.27%)"	"25 / 1,072 (2.33%)"	25		add to survival plot
+OTOF	otoferlin	20 / 986 (2.03%)	"490 / 10,202"	"41 / 1,072 (3.82%)"	"33 / 1,072 (3.08%)"	20		add to survival plot
+ZMYM3	"zinc finger, MYM-type 3"	20 / 986 (2.03%)	"315 / 10,202"	"23 / 1,072 (2.15%)"	"22 / 1,072 (2.05%)"	21		add to survival plot
+PLXNA3	plexin A3	20 / 986 (2.03%)	"363 / 10,202"	"68 / 1,072 (6.34%)"	"27 / 1,072 (2.52%)"	23		add to survival plot
+IGSF1	"immunoglobulin superfamily, member 1"	20 / 986 (2.03%)	"449 / 10,202"	"45 / 1,072 (4.20%)"	"17 / 1,072 (1.59%)"	23		add to survival plot
+UNC80	unc-80 homolog (C. elegans)	20 / 986 (2.03%)	"361 / 10,202"	"40 / 1,072 (3.73%)"	"37 / 1,072 (3.45%)"	21		add to survival plot
+ZFC3H1	"zinc finger, C3H1-type containing"	20 / 986 (2.03%)	"346 / 10,202"	"84 / 1,072 (7.84%)"	"19 / 1,072 (1.77%)"	22		add to survival plot
+PCDHB7	protocadherin beta 7	19 / 986 (1.93%)	"523 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	22		add to survival plot
+CHD5	chromodomain helicase DNA binding protein 5	19 / 986 (1.93%)	"493 / 10,202"	"27 / 1,072 (2.52%)"	"167 / 1,072 (15.58%)"	20		add to survival plot
+CCDC150	coiled-coil domain containing 150	19 / 986 (1.93%)	"247 / 10,202"	"59 / 1,072 (5.50%)"	"19 / 1,072 (1.77%)"	22		add to survival plot
+IQSEC2	IQ motif and Sec7 domain 2	19 / 986 (1.93%)	"263 / 10,202"	"36 / 1,072 (3.36%)"	"12 / 1,072 (1.12%)"	21		add to survival plot
+BRINP1	bone morphogenetic protein/retinoic acid inducible neural-specific 1	19 / 986 (1.93%)	"448 / 10,202"	"35 / 1,072 (3.26%)"	"31 / 1,072 (2.89%)"	19		add to survival plot
+EML6	echinoderm microtubule associated protein like 6	19 / 986 (1.93%)	"167 / 10,202"	"58 / 1,072 (5.41%)"	"10 / 1,072 (0.93%)"	21		add to survival plot
+ADGRL3	adhesion G protein-coupled receptor L3	19 / 986 (1.93%)	"588 / 10,202"	"74 / 1,072 (6.90%)"	"16 / 1,072 (1.49%)"	20		add to survival plot
+DNMBP	dynamin binding protein	19 / 986 (1.93%)	"269 / 10,202"	"31 / 1,072 (2.89%)"	"70 / 1,072 (6.53%)"	18		add to survival plot
+KIAA0430	KIAA0430	19 / 986 (1.93%)	"308 / 10,202"	"61 / 1,072 (5.69%)"	"9 / 1,072 (0.84%)"	21		add to survival plot
+MROH9	maestro heat-like repeat family member 9	19 / 986 (1.93%)	"278 / 10,202"	"116 / 1,072 (10.82%)"	"33 / 1,072 (3.08%)"	16		add to survival plot
+THADA	thyroid adenoma associated	19 / 986 (1.93%)	"288 / 10,202"	"41 / 1,072 (3.82%)"	"32 / 1,072 (2.99%)"	23		add to survival plot
+MYT1L	myelin transcription factor 1-like	19 / 986 (1.93%)	"521 / 10,202"	"54 / 1,072 (5.04%)"	"39 / 1,072 (3.64%)"	21		add to survival plot
+MCTP2	"multiple C2 domains, transmembrane 2"	19 / 986 (1.93%)	"299 / 10,202"	"102 / 1,072 (9.51%)"	"21 / 1,072 (1.96%)"	19		add to survival plot
+SMARCC1	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1"	19 / 986 (1.93%)	"210 / 10,202"	"16 / 1,072 (1.49%)"	"141 / 1,072 (13.15%)"	20		add to survival plot
+SAMD9	sterile alpha motif domain containing 9	19 / 986 (1.93%)	"428 / 10,202"	"41 / 1,072 (3.82%)"	"25 / 1,072 (2.33%)"	20		add to survival plot
+PTPRG	"protein tyrosine phosphatase, receptor type, G"	19 / 986 (1.93%)	"342 / 10,202"	"18 / 1,072 (1.68%)"	"135 / 1,072 (12.59%)"	22		add to survival plot
+RGPD3	RANBP2-like and GRIP domain containing 3	19 / 986 (1.93%)	"397 / 10,202"	"36 / 1,072 (3.36%)"	"25 / 1,072 (2.33%)"	20		add to survival plot
+CELSR2	"cadherin, EGF LAG seven-pass G-type receptor 2"	19 / 986 (1.93%)	"456 / 10,202"	"50 / 1,072 (4.66%)"	"91 / 1,072 (8.49%)"	28		add to survival plot
+PIK3C2B	"phosphatidylinositol-4-phosphate 3-kinase, catalytic subunit type 2 beta"	19 / 986 (1.93%)	"359 / 10,202"	"170 / 1,072 (15.86%)"	"7 / 1,072 (0.65%)"	23		add to survival plot
+DGKD	"diacylglycerol kinase, delta 130kDa"	19 / 986 (1.93%)	"273 / 10,202"	"22 / 1,072 (2.05%)"	"80 / 1,072 (7.46%)"	20		add to survival plot
+SYBU	syntabulin (syntaxin-interacting)	19 / 986 (1.93%)	"218 / 10,202"	"190 / 1,072 (17.72%)"	"12 / 1,072 (1.12%)"	20		add to survival plot
+TMEM131	transmembrane protein 131	19 / 986 (1.93%)	"296 / 10,202"	"48 / 1,072 (4.48%)"	"19 / 1,072 (1.77%)"	21		add to survival plot
+SPATA31D5P	"SPATA31 subfamily D, member 5, pseudogene"	19 / 986 (1.93%)	"376 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	19		add to survival plot
+TNR	tenascin R	19 / 986 (1.93%)	"646 / 10,202"	"115 / 1,072 (10.73%)"	"31 / 1,072 (2.89%)"	21		add to survival plot
+ZNF217	zinc finger protein 217	19 / 986 (1.93%)	"317 / 10,202"	"157 / 1,072 (14.65%)"	"8 / 1,072 (0.75%)"	17		add to survival plot
+BCR	breakpoint cluster region	19 / 986 (1.93%)	"330 / 10,202"	"58 / 1,072 (5.41%)"	"30 / 1,072 (2.80%)"	17	Cancer Gene Census	add to survival plot
+VCAN	versican	19 / 986 (1.93%)	"667 / 10,202"	"13 / 1,072 (1.21%)"	"56 / 1,072 (5.22%)"	24		add to survival plot
+CHD3	chromodomain helicase DNA binding protein 3	19 / 986 (1.93%)	"365 / 10,202"	"18 / 1,072 (1.68%)"	"38 / 1,072 (3.54%)"	23		add to survival plot
+WSCD2	WSC domain containing 2	19 / 986 (1.93%)	"302 / 10,202"	"33 / 1,072 (3.08%)"	"71 / 1,072 (6.62%)"	21		add to survival plot
+CNTNAP3	contactin associated protein-like 3	19 / 986 (1.93%)	"366 / 10,202"	"60 / 1,072 (5.60%)"	"44 / 1,072 (4.10%)"	20		add to survival plot
+CDH10	"cadherin 10, type 2 (T2-cadherin)"	19 / 986 (1.93%)	"649 / 10,202"	"70 / 1,072 (6.53%)"	"16 / 1,072 (1.49%)"	20		add to survival plot
+ESPL1	extra spindle pole bodies homolog 1 (S. cerevisiae)	19 / 986 (1.93%)	"348 / 10,202"	"30 / 1,072 (2.80%)"	"50 / 1,072 (4.66%)"	19		add to survival plot
+TRIOBP	TRIO and F-actin binding protein	19 / 986 (1.93%)	"462 / 10,202"	"28 / 1,072 (2.61%)"	"21 / 1,072 (1.96%)"	19		add to survival plot
+CCDC180	coiled-coil domain containing 180	19 / 986 (1.93%)	"296 / 10,202"	"27 / 1,072 (2.52%)"	"42 / 1,072 (3.92%)"	21		add to survival plot
+ATP11C	"ATPase, class VI, type 11C"	19 / 986 (1.93%)	"305 / 10,202"	"60 / 1,072 (5.60%)"	"23 / 1,072 (2.15%)"	19		add to survival plot
+PIKFYVE	"phosphoinositide kinase, FYVE finger containing"	19 / 986 (1.93%)	"389 / 10,202"	"44 / 1,072 (4.10%)"	"37 / 1,072 (3.45%)"	20		add to survival plot
+COL5A3	"collagen, type V, alpha 3"	19 / 986 (1.93%)	"439 / 10,202"	"50 / 1,072 (4.66%)"	"40 / 1,072 (3.73%)"	21		add to survival plot
+COL4A6	"collagen, type IV, alpha 6"	19 / 986 (1.93%)	"382 / 10,202"	"21 / 1,072 (1.96%)"	"27 / 1,072 (2.52%)"	21		add to survival plot
+STAG1	stromal antigen 1	19 / 986 (1.93%)	"313 / 10,202"	"65 / 1,072 (6.06%)"	"36 / 1,072 (3.36%)"	27		add to survival plot
+CACNA1G	"calcium channel, voltage-dependent, T type, alpha 1G subunit"	19 / 986 (1.93%)	"480 / 10,202"	"167 / 1,072 (15.58%)"	"19 / 1,072 (1.77%)"	27		add to survival plot
+SPTBN4	"spectrin, beta, non-erythrocytic 4"	19 / 986 (1.93%)	"449 / 10,202"	"47 / 1,072 (4.38%)"	"39 / 1,072 (3.64%)"	20		add to survival plot
+CELSR1	"cadherin, EGF LAG seven-pass G-type receptor 1"	19 / 986 (1.93%)	"517 / 10,202"	"36 / 1,072 (3.36%)"	"49 / 1,072 (4.57%)"	21		add to survival plot
+MEIS1	Meis homeobox 1	19 / 986 (1.93%)	"335 / 10,202"	"50 / 1,072 (4.66%)"	"15 / 1,072 (1.40%)"	12		add to survival plot
+WWC3	WWC family member 3	19 / 986 (1.93%)	"317 / 10,202"	"41 / 1,072 (3.82%)"	"24 / 1,072 (2.24%)"	19		add to survival plot
+ARAP3	"ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3"	19 / 986 (1.93%)	"305 / 10,202"	"47 / 1,072 (4.38%)"	"20 / 1,072 (1.87%)"	19		add to survival plot
+AAK1	AP2 associated kinase 1	19 / 986 (1.93%)	"217 / 10,202"	"46 / 1,072 (4.29%)"	"11 / 1,072 (1.03%)"	20		add to survival plot
+NHS	Nance-Horan syndrome (congenital cataracts and dental anomalies)	19 / 986 (1.93%)	"373 / 10,202"	"39 / 1,072 (3.64%)"	"15 / 1,072 (1.40%)"	21		add to survival plot
+PKD1L2	polycystic kidney disease 1-like 2 (gene/pseudogene)	19 / 986 (1.93%)	"449 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	20		add to survival plot
+ZP4	zona pellucida glycoprotein 4	19 / 986 (1.93%)	"283 / 10,202"	"165 / 1,072 (15.39%)"	"28 / 1,072 (2.61%)"	21		add to survival plot
+USP32	ubiquitin specific peptidase 32	19 / 986 (1.93%)	"253 / 10,202"	"234 / 1,072 (21.83%)"	"11 / 1,072 (1.03%)"	22		add to survival plot
+ROBO2	"roundabout, axon guidance receptor, homolog 2 (Drosophila)"	19 / 986 (1.93%)	"543 / 10,202"	"40 / 1,072 (3.73%)"	"114 / 1,072 (10.63%)"	21		add to survival plot
+CDC42BPB	CDC42 binding protein kinase beta (DMPK-like)	19 / 986 (1.93%)	"320 / 10,202"	"61 / 1,072 (5.69%)"	"62 / 1,072 (5.78%)"	20		add to survival plot
+NBPF14	"neuroblastoma breakpoint family, member 14"	19 / 986 (1.93%)	"131 / 10,202"	"190 / 1,072 (17.72%)"	"27 / 1,072 (2.52%)"	10		add to survival plot
+BDP1	"B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB"	19 / 986 (1.93%)	"384 / 10,202"	"12 / 1,072 (1.12%)"	"69 / 1,072 (6.44%)"	21		add to survival plot
+C5	complement component 5	19 / 986 (1.93%)	"269 / 10,202"	"46 / 1,072 (4.29%)"	"28 / 1,072 (2.61%)"	22		add to survival plot
+CACNA1S	"calcium channel, voltage-dependent, L type, alpha 1S subunit"	19 / 986 (1.93%)	"516 / 10,202"	"146 / 1,072 (13.62%)"	"12 / 1,072 (1.12%)"	22		add to survival plot
+DCHS1	dachsous cadherin-related 1	19 / 986 (1.93%)	"521 / 10,202"	"29 / 1,072 (2.71%)"	"71 / 1,072 (6.62%)"	26		add to survival plot
+MYH7B	"myosin, heavy chain 7B, cardiac muscle, beta"	19 / 986 (1.93%)	"357 / 10,202"	"54 / 1,072 (5.04%)"	"31 / 1,072 (2.89%)"	24		add to survival plot
+BLM	"Bloom syndrome, RecQ helicase-like"	19 / 986 (1.93%)	"234 / 10,202"	"93 / 1,072 (8.68%)"	"15 / 1,072 (1.40%)"	24	Cancer Gene Census	add to survival plot
+UTP20	"UTP20, small subunit (SSU) processome component, homolog (yeast)"	19 / 986 (1.93%)	"408 / 10,202"	"27 / 1,072 (2.52%)"	"63 / 1,072 (5.88%)"	19		add to survival plot
+MAP3K5	mitogen-activated protein kinase kinase kinase 5	19 / 986 (1.93%)	"285 / 10,202"	"75 / 1,072 (7.00%)"	"55 / 1,072 (5.13%)"	22		add to survival plot
+ABI3BP	"ABI family, member 3 (NESH) binding protein"	19 / 986 (1.93%)	"308 / 10,202"	"61 / 1,072 (5.69%)"	"24 / 1,072 (2.24%)"	22		add to survival plot
+GCN1L1	GCN1 general control of amino-acid synthesis 1-like 1 (yeast)	19 / 986 (1.93%)	"448 / 10,202"	"38 / 1,072 (3.54%)"	"78 / 1,072 (7.28%)"	23		add to survival plot
+FAM171A1	"family with sequence similarity 171, member A1"	19 / 986 (1.93%)	"290 / 10,202"	"80 / 1,072 (7.46%)"	"10 / 1,072 (0.93%)"	21		add to survival plot
+RTL1	retrotransposon-like 1	19 / 986 (1.93%)	"291 / 10,202"	"47 / 1,072 (4.38%)"	"59 / 1,072 (5.50%)"	23		add to survival plot
+CAD	"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase"	19 / 986 (1.93%)	"380 / 10,202"	"41 / 1,072 (3.82%)"	"27 / 1,072 (2.52%)"	22		add to survival plot
+IFT122	intraflagellar transport 122	19 / 986 (1.93%)	"252 / 10,202"	"44 / 1,072 (4.10%)"	"40 / 1,072 (3.73%)"	21		add to survival plot
+LTBP1	latent transforming growth factor beta binding protein 1	19 / 986 (1.93%)	"434 / 10,202"	"50 / 1,072 (4.66%)"	"21 / 1,072 (1.96%)"	19		add to survival plot
+AIM1	absent in melanoma 1	19 / 986 (1.93%)	"338 / 10,202"	"74 / 1,072 (6.90%)"	"63 / 1,072 (5.88%)"	22		add to survival plot
+TNKS1BP1	"tankyrase 1 binding protein 1, 182kDa"	19 / 986 (1.93%)	"314 / 10,202"	"94 / 1,072 (8.77%)"	"43 / 1,072 (4.01%)"	21		add to survival plot
+RIMS1	regulating synaptic membrane exocytosis 1	19 / 986 (1.93%)	"566 / 10,202"	"70 / 1,072 (6.53%)"	"58 / 1,072 (5.41%)"	24		add to survival plot
+KAT6A	K(lysine) acetyltransferase 6A	19 / 986 (1.93%)	"390 / 10,202"	"164 / 1,072 (15.30%)"	"70 / 1,072 (6.53%)"	19	Cancer Gene Census	add to survival plot
+NLRC5	"NLR family, CARD domain containing 5"	19 / 986 (1.93%)	"386 / 10,202"	"26 / 1,072 (2.43%)"	"31 / 1,072 (2.89%)"	21		add to survival plot
+SUCO	SUN domain containing ossification factor	19 / 986 (1.93%)	"274 / 10,202"	"120 / 1,072 (11.19%)"	"34 / 1,072 (3.17%)"	24		add to survival plot
+ZNF318	zinc finger protein 318	19 / 986 (1.93%)	"379 / 10,202"	"75 / 1,072 (7.00%)"	"26 / 1,072 (2.43%)"	20		add to survival plot
+COL11A1	"collagen, type XI, alpha 1"	19 / 986 (1.93%)	"831 / 10,202"	"34 / 1,072 (3.17%)"	"97 / 1,072 (9.05%)"	20		add to survival plot
+COL18A1	"collagen, type XVIII, alpha 1"	19 / 986 (1.93%)	"309 / 10,202"	"71 / 1,072 (6.62%)"	"26 / 1,072 (2.43%)"	19		add to survival plot
+PRRC2B	proline-rich coiled-coil 2B	19 / 986 (1.93%)	"356 / 10,202"	"52 / 1,072 (4.85%)"	"35 / 1,072 (3.26%)"	20		add to survival plot
+APC	adenomatous polyposis coli	19 / 986 (1.93%)	"893 / 10,202"	"21 / 1,072 (1.96%)"	"44 / 1,072 (4.10%)"	31	Cancer Gene Census	add to survival plot
+STAB2	stabilin 2	19 / 986 (1.93%)	"625 / 10,202"	"25 / 1,072 (2.33%)"	"70 / 1,072 (6.53%)"	22		add to survival plot
+PTCH1	patched 1	19 / 986 (1.93%)	"368 / 10,202"	"25 / 1,072 (2.33%)"	"34 / 1,072 (3.17%)"	21	Cancer Gene Census	add to survival plot
+BCL9	B-cell CLL/lymphoma 9	19 / 986 (1.93%)	"331 / 10,202"	"190 / 1,072 (17.72%)"	"27 / 1,072 (2.52%)"	22	Cancer Gene Census	add to survival plot
+ABCA6	"ATP-binding cassette, sub-family A (ABC1), member 6"	19 / 986 (1.93%)	"330 / 10,202"	"236 / 1,072 (22.01%)"	"19 / 1,072 (1.77%)"	22		add to survival plot
+SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1	19 / 986 (1.93%)	"297 / 10,202"	"39 / 1,072 (3.64%)"	"21 / 1,072 (1.96%)"	22		add to survival plot
+ACTN2	"actinin, alpha 2"	19 / 986 (1.93%)	"340 / 10,202"	"169 / 1,072 (15.76%)"	"36 / 1,072 (3.36%)"	22		add to survival plot
+KIF16B	kinesin family member 16B	19 / 986 (1.93%)	"354 / 10,202"	"35 / 1,072 (3.26%)"	"32 / 1,072 (2.99%)"	20		add to survival plot
+MYO9A	myosin IXA	19 / 986 (1.93%)	"422 / 10,202"	"55 / 1,072 (5.13%)"	"28 / 1,072 (2.61%)"	22		add to survival plot
+SPEF2	sperm flagellar 2	19 / 986 (1.93%)	"507 / 10,202"	"63 / 1,072 (5.88%)"	"16 / 1,072 (1.49%)"	24		add to survival plot
+SYCP2	synaptonemal complex protein 2	19 / 986 (1.93%)	"339 / 10,202"	"132 / 1,072 (12.31%)"	"32 / 1,072 (2.99%)"	20		add to survival plot
+CABIN1	calcineurin binding protein 1	19 / 986 (1.93%)	"329 / 10,202"	"60 / 1,072 (5.60%)"	"25 / 1,072 (2.33%)"	20		add to survival plot
+ESRRG	estrogen-related receptor gamma	19 / 986 (1.93%)	"306 / 10,202"	"139 / 1,072 (12.97%)"	"30 / 1,072 (2.80%)"	19		add to survival plot
+CRYBG3	beta-gamma crystallin domain containing 3	19 / 986 (1.93%)	"232 / 10,202"	"56 / 1,072 (5.22%)"	"23 / 1,072 (2.15%)"	21		add to survival plot
+TP53BP1	tumor protein p53 binding protein 1	19 / 986 (1.93%)	"345 / 10,202"	"18 / 1,072 (1.68%)"	"93 / 1,072 (8.68%)"	22		add to survival plot
+NBPF9	"neuroblastoma breakpoint family, member 9"	18 / 986 (1.83%)	"197 / 10,202"	"190 / 1,072 (17.72%)"	"27 / 1,072 (2.52%)"	18		add to survival plot
+PKD1	polycystic kidney disease 1 (autosomal dominant)	18 / 986 (1.83%)	"453 / 10,202"	"88 / 1,072 (8.21%)"	"17 / 1,072 (1.59%)"	19		add to survival plot
+NINL	ninein-like	18 / 986 (1.83%)	"309 / 10,202"	"30 / 1,072 (2.80%)"	"38 / 1,072 (3.54%)"	20		add to survival plot
+KANK1	KN motif and ankyrin repeat domains 1	18 / 986 (1.83%)	"307 / 10,202"	"61 / 1,072 (5.69%)"	"33 / 1,072 (3.08%)"	20		add to survival plot
+PHF12	PHD finger protein 12	18 / 986 (1.83%)	"207 / 10,202"	"160 / 1,072 (14.93%)"	"28 / 1,072 (2.61%)"	20		add to survival plot
+ZNF841	zinc finger protein 841	18 / 986 (1.83%)	"195 / 10,202"	"81 / 1,072 (7.56%)"	"38 / 1,072 (3.54%)"	19		add to survival plot
+EEA1	early endosome antigen 1	18 / 986 (1.83%)	"225 / 10,202"	"50 / 1,072 (4.66%)"	"53 / 1,072 (4.94%)"	20		add to survival plot
+PCDHGA3	"protocadherin gamma subfamily A, 3"	18 / 986 (1.83%)	"392 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	18		add to survival plot
+ROCK1	"Rho-associated, coiled-coil containing protein kinase 1"	18 / 986 (1.83%)	"329 / 10,202"	"41 / 1,072 (3.82%)"	"25 / 1,072 (2.33%)"	19		add to survival plot
+WDR33	WD repeat domain 33	18 / 986 (1.83%)	"373 / 10,202"	"18 / 1,072 (1.68%)"	"38 / 1,072 (3.54%)"	22		add to survival plot
+NRXN2	neurexin 2	18 / 986 (1.83%)	"378 / 10,202"	"102 / 1,072 (9.51%)"	"56 / 1,072 (5.22%)"	18		add to survival plot
+GRIK2	"glutamate receptor, ionotropic, kainate 2"	18 / 986 (1.83%)	"424 / 10,202"	"59 / 1,072 (5.50%)"	"71 / 1,072 (6.62%)"	17		add to survival plot
+SUPT5H	suppressor of Ty 5 homolog (S. cerevisiae)	18 / 986 (1.83%)	"272 / 10,202"	"68 / 1,072 (6.34%)"	"31 / 1,072 (2.89%)"	19		add to survival plot
+CDH8	"cadherin 8, type 2"	18 / 986 (1.83%)	"510 / 10,202"	"24 / 1,072 (2.24%)"	"41 / 1,072 (3.82%)"	18		add to survival plot
+PTPRC	"protein tyrosine phosphatase, receptor type, C"	18 / 986 (1.83%)	"455 / 10,202"	"136 / 1,072 (12.69%)"	"14 / 1,072 (1.31%)"	19	Cancer Gene Census	add to survival plot
+COL1A2	"collagen, type I, alpha 2"	18 / 986 (1.83%)	"476 / 10,202"	"37 / 1,072 (3.45%)"	"27 / 1,072 (2.52%)"	20		add to survival plot
+KIF21A	kinesin family member 21A	18 / 986 (1.83%)	"388 / 10,202"	"52 / 1,072 (4.85%)"	"28 / 1,072 (2.61%)"	20		add to survival plot
+CCDC108	coiled-coil domain containing 108	18 / 986 (1.83%)	"466 / 10,202"	"38 / 1,072 (3.54%)"	"51 / 1,072 (4.76%)"	18		add to survival plot
+GRM1	"glutamate receptor, metabotropic 1"	18 / 986 (1.83%)	"516 / 10,202"	"61 / 1,072 (5.69%)"	"66 / 1,072 (6.16%)"	19		add to survival plot
+SLITRK2	"SLIT and NTRK-like family, member 2"	18 / 986 (1.83%)	"414 / 10,202"	"55 / 1,072 (5.13%)"	"23 / 1,072 (2.15%)"	21		add to survival plot
+ATXN2	ataxin 2	18 / 986 (1.83%)	"246 / 10,202"	"31 / 1,072 (2.89%)"	"76 / 1,072 (7.09%)"	20		add to survival plot
+MAP2K6	mitogen-activated protein kinase kinase 6	18 / 986 (1.83%)	"179 / 10,202"	"236 / 1,072 (22.01%)"	"17 / 1,072 (1.59%)"	18		add to survival plot
+RTN4	reticulon 4	18 / 986 (1.83%)	"205 / 10,202"	"57 / 1,072 (5.32%)"	"7 / 1,072 (0.65%)"	20		add to survival plot
+EEF1A1	eukaryotic translation elongation factor 1 alpha 1	18 / 986 (1.83%)	"186 / 10,202"	"60 / 1,072 (5.60%)"	"53 / 1,072 (4.94%)"	12		add to survival plot
+ZNF532	zinc finger protein 532	18 / 986 (1.83%)	"264 / 10,202"	"32 / 1,072 (2.99%)"	"34 / 1,072 (3.17%)"	18		add to survival plot
+PCDH10	protocadherin 10	18 / 986 (1.83%)	"579 / 10,202"	"43 / 1,072 (4.01%)"	"29 / 1,072 (2.71%)"	19		add to survival plot
+C10orf12	chromosome 10 open reading frame 12	18 / 986 (1.83%)	"251 / 10,202"	"30 / 1,072 (2.80%)"	"73 / 1,072 (6.81%)"	21		add to survival plot
+FHOD3	formin homology 2 domain containing 3	18 / 986 (1.83%)	"357 / 10,202"	"34 / 1,072 (3.17%)"	"24 / 1,072 (2.24%)"	19		add to survival plot
+CLCN5	"chloride channel, voltage-sensitive 5"	18 / 986 (1.83%)	"276 / 10,202"	"30 / 1,072 (2.80%)"	"10 / 1,072 (0.93%)"	21		add to survival plot
+MYOM1	myomesin 1	18 / 986 (1.83%)	"341 / 10,202"	"34 / 1,072 (3.17%)"	"22 / 1,072 (2.05%)"	18		add to survival plot
+CNTN6	contactin 6	18 / 986 (1.83%)	"457 / 10,202"	"94 / 1,072 (8.77%)"	"37 / 1,072 (3.45%)"	21		add to survival plot
+TRIP11	thyroid hormone receptor interactor 11	18 / 986 (1.83%)	"268 / 10,202"	"43 / 1,072 (4.01%)"	"70 / 1,072 (6.53%)"	20	Cancer Gene Census	add to survival plot
+SLC12A5	"solute carrier family 12 (potassium/chloride transporter), member 5"	18 / 986 (1.83%)	"404 / 10,202"	"69 / 1,072 (6.44%)"	"42 / 1,072 (3.92%)"	19		add to survival plot
+HEG1	heart development protein with EGF-like domains 1	18 / 986 (1.83%)	"234 / 10,202"	"38 / 1,072 (3.54%)"	"37 / 1,072 (3.45%)"	20		add to survival plot
+MCM3AP	minichromosome maintenance complex component 3 associated protein	18 / 986 (1.83%)	"367 / 10,202"	"80 / 1,072 (7.46%)"	"22 / 1,072 (2.05%)"	21		add to survival plot
+ZNF687	zinc finger protein 687	18 / 986 (1.83%)	"248 / 10,202"	"190 / 1,072 (17.72%)"	"19 / 1,072 (1.77%)"	16		add to survival plot
+ATAD2	"ATPase family, AAA domain containing 2"	18 / 986 (1.83%)	"348 / 10,202"	"214 / 1,072 (19.96%)"	"23 / 1,072 (2.15%)"	25		add to survival plot
+FLRT2	fibronectin leucine rich transmembrane protein 2	18 / 986 (1.83%)	"529 / 10,202"	"23 / 1,072 (2.15%)"	"70 / 1,072 (6.53%)"	17		add to survival plot
+LPA	"lipoprotein, Lp(a)"	18 / 986 (1.83%)	"497 / 10,202"	"55 / 1,072 (5.13%)"	"99 / 1,072 (9.24%)"	18		add to survival plot
+MYO5A	"myosin VA (heavy chain 12, myoxin)"	18 / 986 (1.83%)	"319 / 10,202"	"40 / 1,072 (3.73%)"	"67 / 1,072 (6.25%)"	19	Cancer Gene Census	add to survival plot
+PCDHA10	protocadherin alpha 10	18 / 986 (1.83%)	"497 / 10,202"	"47 / 1,072 (4.38%)"	"20 / 1,072 (1.87%)"	22		add to survival plot
+COL19A1	"collagen, type XIX, alpha 1"	18 / 986 (1.83%)	"429 / 10,202"	"63 / 1,072 (5.88%)"	"58 / 1,072 (5.41%)"	18		add to survival plot
+ASXL1	additional sex combs like transcriptional regulator 1	18 / 986 (1.83%)	"344 / 10,202"	"51 / 1,072 (4.76%)"	"31 / 1,072 (2.89%)"	23	Cancer Gene Census	add to survival plot
+KMT2B	lysine (K)-specific methyltransferase 2B	18 / 986 (1.83%)	"524 / 10,202"	"65 / 1,072 (6.06%)"	"18 / 1,072 (1.68%)"	20		add to survival plot
+TNRC6C	trinucleotide repeat containing 6C	18 / 986 (1.83%)	"265 / 10,202"	"209 / 1,072 (19.50%)"	"31 / 1,072 (2.89%)"	20		add to survival plot
+ZEB2	zinc finger E-box binding homeobox 2	18 / 986 (1.83%)	"449 / 10,202"	"18 / 1,072 (1.68%)"	"48 / 1,072 (4.48%)"	19		add to survival plot
+NLGN3	neuroligin 3	18 / 986 (1.83%)	"243 / 10,202"	"24 / 1,072 (2.24%)"	"20 / 1,072 (1.87%)"	18		add to survival plot
+NSD1	nuclear receptor binding SET domain protein 1	18 / 986 (1.83%)	"490 / 10,202"	"101 / 1,072 (9.42%)"	"26 / 1,072 (2.43%)"	22	Cancer Gene Census	add to survival plot
+ADNP	activity-dependent neuroprotector homeobox	18 / 986 (1.83%)	"220 / 10,202"	"125 / 1,072 (11.66%)"	"23 / 1,072 (2.15%)"	25		add to survival plot
+LRRIQ1	leucine-rich repeats and IQ motif containing 1	18 / 986 (1.83%)	"486 / 10,202"	"49 / 1,072 (4.57%)"	"59 / 1,072 (5.50%)"	19		add to survival plot
+CACHD1	cache domain containing 1	18 / 986 (1.83%)	"255 / 10,202"	"53 / 1,072 (4.94%)"	"59 / 1,072 (5.50%)"	18		add to survival plot
+STAB1	stabilin 1	18 / 986 (1.83%)	"479 / 10,202"	"12 / 1,072 (1.12%)"	"141 / 1,072 (13.15%)"	18		add to survival plot
+FGD5	"FYVE, RhoGEF and PH domain containing 5"	18 / 986 (1.83%)	"326 / 10,202"	"90 / 1,072 (8.40%)"	"23 / 1,072 (2.15%)"	20		add to survival plot
+CAMSAP2	"calmodulin regulated spectrin-associated protein family, member 2"	18 / 986 (1.83%)	"315 / 10,202"	"147 / 1,072 (13.71%)"	"10 / 1,072 (0.93%)"	23		add to survival plot
+SIGLEC1	"sialic acid binding Ig-like lectin 1, sialoadhesin"	18 / 986 (1.83%)	"426 / 10,202"	"46 / 1,072 (4.29%)"	"62 / 1,072 (5.78%)"	18		add to survival plot
+VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	18 / 986 (1.83%)	"230 / 10,202"	"113 / 1,072 (10.54%)"	"46 / 1,072 (4.29%)"	20		add to survival plot
+MUC6	"mucin 6, oligomeric mucus/gel-forming"	18 / 986 (1.83%)	"420 / 10,202"	"33 / 1,072 (3.08%)"	"88 / 1,072 (8.21%)"	23		add to survival plot
+ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	18 / 986 (1.83%)	"386 / 10,202"	"48 / 1,072 (4.48%)"	"90 / 1,072 (8.40%)"	18		add to survival plot
+DOCK2	dedicator of cytokinesis 2	18 / 986 (1.83%)	"608 / 10,202"	"63 / 1,072 (5.88%)"	"30 / 1,072 (2.80%)"	19		add to survival plot
+PPP1R12A	"protein phosphatase 1, regulatory subunit 12A"	18 / 986 (1.83%)	"200 / 10,202"	"54 / 1,072 (5.04%)"	"44 / 1,072 (4.10%)"	18		add to survival plot
+PMFBP1	polyamine modulated factor 1 binding protein 1	18 / 986 (1.83%)	"293 / 10,202"	"35 / 1,072 (3.26%)"	"47 / 1,072 (4.38%)"	18		add to survival plot
+SRGAP1	SLIT-ROBO Rho GTPase activating protein 1	18 / 986 (1.83%)	"271 / 10,202"	"67 / 1,072 (6.25%)"	"22 / 1,072 (2.05%)"	21		add to survival plot
+NUP98	nucleoporin 98kDa	18 / 986 (1.83%)	"307 / 10,202"	"38 / 1,072 (3.54%)"	"76 / 1,072 (7.09%)"	20	Cancer Gene Census	add to survival plot
+DMBT1	deleted in malignant brain tumors 1	18 / 986 (1.83%)	"525 / 10,202"	"48 / 1,072 (4.48%)"	"72 / 1,072 (6.72%)"	18		add to survival plot
+MYH15	"myosin, heavy chain 15"	18 / 986 (1.83%)	"481 / 10,202"	"48 / 1,072 (4.48%)"	"20 / 1,072 (1.87%)"	22		add to survival plot
+ANKRD36C	ankyrin repeat domain 36C	18 / 986 (1.83%)	"203 / 10,202"	"52 / 1,072 (4.85%)"	"20 / 1,072 (1.87%)"	19		add to survival plot
+ADGRF5	adhesion G protein-coupled receptor F5	18 / 986 (1.83%)	"330 / 10,202"	"62 / 1,072 (5.78%)"	"26 / 1,072 (2.43%)"	20		add to survival plot
+HIST1H3B	"histone cluster 1, H3b"	18 / 986 (1.83%)	"120 / 10,202"	"88 / 1,072 (8.21%)"	"30 / 1,072 (2.80%)"	18		add to survival plot
+NBPF11	"neuroblastoma breakpoint family, member 11"	18 / 986 (1.83%)	"250 / 10,202"	"190 / 1,072 (17.72%)"	"27 / 1,072 (2.52%)"	16		add to survival plot
+DOCK7	dedicator of cytokinesis 7	18 / 986 (1.83%)	"321 / 10,202"	"67 / 1,072 (6.25%)"	"55 / 1,072 (5.13%)"	21		add to survival plot
+SETDB1	"SET domain, bifurcated 1"	18 / 986 (1.83%)	"265 / 10,202"	"197 / 1,072 (18.38%)"	"19 / 1,072 (1.77%)"	19		add to survival plot
+PCDHB11	protocadherin beta 11	18 / 986 (1.83%)	"360 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	18		add to survival plot
+KIAA2026	KIAA2026	18 / 986 (1.83%)	"333 / 10,202"	"58 / 1,072 (5.41%)"	"34 / 1,072 (3.17%)"	21		add to survival plot
+CASP8AP2	caspase 8 associated protein 2	18 / 986 (1.83%)	"288 / 10,202"	"33 / 1,072 (3.08%)"	"78 / 1,072 (7.28%)"	19		add to survival plot
+TSHZ1	teashirt zinc finger homeobox 1	18 / 986 (1.83%)	"315 / 10,202"	"39 / 1,072 (3.64%)"	"49 / 1,072 (4.57%)"	16		add to survival plot
+TRIP12	thyroid hormone receptor interactor 12	18 / 986 (1.83%)	"378 / 10,202"	"25 / 1,072 (2.33%)"	"74 / 1,072 (6.90%)"	23		add to survival plot
+ITGA10	"integrin, alpha 10"	18 / 986 (1.83%)	"308 / 10,202"	"185 / 1,072 (17.26%)"	"41 / 1,072 (3.82%)"	17		add to survival plot
+TIAM2	T-cell lymphoma invasion and metastasis 2	18 / 986 (1.83%)	"400 / 10,202"	"57 / 1,072 (5.32%)"	"85 / 1,072 (7.93%)"	20		add to survival plot
+PZP	pregnancy-zone protein	18 / 986 (1.83%)	"403 / 10,202"	"52 / 1,072 (4.85%)"	"49 / 1,072 (4.57%)"	19		add to survival plot
+KCNH7	"potassium channel, voltage gated eag related subfamily H, member 7"	18 / 986 (1.83%)	"446 / 10,202"	"32 / 1,072 (2.99%)"	"25 / 1,072 (2.33%)"	18		add to survival plot
+SALL1	spalt-like transcription factor 1	18 / 986 (1.83%)	"549 / 10,202"	"43 / 1,072 (4.01%)"	"36 / 1,072 (3.36%)"	21		add to survival plot
+ABCA10	"ATP-binding cassette, sub-family A (ABC1), member 10"	18 / 986 (1.83%)	"343 / 10,202"	"238 / 1,072 (22.20%)"	"18 / 1,072 (1.68%)"	21		add to survival plot
+CNTN1	contactin 1	18 / 986 (1.83%)	"389 / 10,202"	"54 / 1,072 (5.04%)"	"27 / 1,072 (2.52%)"	17		add to survival plot
+GUCY2C	guanylate cyclase 2C	18 / 986 (1.83%)	"332 / 10,202"	"30 / 1,072 (2.80%)"	"62 / 1,072 (5.78%)"	18		add to survival plot
+RBMXL3	"RNA binding motif protein, X-linked-like 3"	18 / 986 (1.83%)	"190 / 10,202"	"35 / 1,072 (3.26%)"	"23 / 1,072 (2.15%)"	18		add to survival plot
+FOCAD	focadhesin	18 / 986 (1.83%)	"278 / 10,202"	"38 / 1,072 (3.54%)"	"40 / 1,072 (3.73%)"	23		add to survival plot
+ADAMTS13	"ADAM metallopeptidase with thrombospondin type 1 motif, 13"	18 / 986 (1.83%)	"275 / 10,202"	"49 / 1,072 (4.57%)"	"41 / 1,072 (3.82%)"	18		add to survival plot
+PCDHGA7	"protocadherin gamma subfamily A, 7"	18 / 986 (1.83%)	"284 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	18		add to survival plot
+DENND5B	DENN/MADD domain containing 5B	18 / 986 (1.83%)	"248 / 10,202"	"66 / 1,072 (6.16%)"	"14 / 1,072 (1.31%)"	21		add to survival plot
+GLI3	GLI family zinc finger 3	18 / 986 (1.83%)	"533 / 10,202"	"40 / 1,072 (3.73%)"	"19 / 1,072 (1.77%)"	20		add to survival plot
+GPR179	G protein-coupled receptor 179	18 / 986 (1.83%)	"397 / 10,202"	"99 / 1,072 (9.24%)"	"69 / 1,072 (6.44%)"	21		add to survival plot
+MICAL3	"microtubule associated monooxygenase, calponin and LIM domain containing 3"	18 / 986 (1.83%)	"372 / 10,202"	"62 / 1,072 (5.78%)"	"43 / 1,072 (4.01%)"	20		add to survival plot
+ATP10A	"ATPase, class V, type 10A"	18 / 986 (1.83%)	"497 / 10,202"	"47 / 1,072 (4.38%)"	"95 / 1,072 (8.86%)"	17		add to survival plot
+NUP160	nucleoporin 160kDa	18 / 986 (1.83%)	"245 / 10,202"	"68 / 1,072 (6.34%)"	"21 / 1,072 (1.96%)"	24		add to survival plot
+LRP12	low density lipoprotein receptor-related protein 12	18 / 986 (1.83%)	"327 / 10,202"	"197 / 1,072 (18.38%)"	"11 / 1,072 (1.03%)"	18		add to survival plot
+GSE1	Gse1 coiled-coil protein	18 / 986 (1.83%)	"243 / 10,202"	"39 / 1,072 (3.64%)"	"63 / 1,072 (5.88%)"	18		add to survival plot
+ATP1A4	"ATPase, Na+/K+ transporting, alpha 4 polypeptide"	18 / 986 (1.83%)	"321 / 10,202"	"152 / 1,072 (14.18%)"	"23 / 1,072 (2.15%)"	21		add to survival plot
+SORBS2	sorbin and SH3 domain containing 2	18 / 986 (1.83%)	"327 / 10,202"	"56 / 1,072 (5.22%)"	"71 / 1,072 (6.62%)"	19		add to survival plot
+PRKCB	"protein kinase C, beta"	18 / 986 (1.83%)	"351 / 10,202"	"44 / 1,072 (4.10%)"	"14 / 1,072 (1.31%)"	19		add to survival plot
+DENND4B	DENN/MADD domain containing 4B	18 / 986 (1.83%)	"280 / 10,202"	"165 / 1,072 (15.39%)"	"25 / 1,072 (2.33%)"	19		add to survival plot
+TTC21A	tetratricopeptide repeat domain 21A	18 / 986 (1.83%)	"258 / 10,202"	"32 / 1,072 (2.99%)"	"81 / 1,072 (7.56%)"	20		add to survival plot
+KIF21B	kinesin family member 21B	18 / 986 (1.83%)	"472 / 10,202"	"145 / 1,072 (13.53%)"	"11 / 1,072 (1.03%)"	21		add to survival plot
+GOLGA3	golgin A3	18 / 986 (1.83%)	"324 / 10,202"	"39 / 1,072 (3.64%)"	"83 / 1,072 (7.74%)"	21		add to survival plot
+DGKG	"diacylglycerol kinase, gamma 90kDa"	18 / 986 (1.83%)	"283 / 10,202"	"130 / 1,072 (12.13%)"	"19 / 1,072 (1.77%)"	18		add to survival plot
+FAM208B	"family with sequence similarity 208, member B"	18 / 986 (1.83%)	"313 / 10,202"	"122 / 1,072 (11.38%)"	"10 / 1,072 (0.93%)"	23		add to survival plot
+MAGI2	"membrane associated guanylate kinase, WW and PDZ domain containing 2"	18 / 986 (1.83%)	"470 / 10,202"	"44 / 1,072 (4.10%)"	"28 / 1,072 (2.61%)"	18		add to survival plot
+FTSJ3	FtsJ homolog 3 (E. coli)	18 / 986 (1.83%)	"186 / 10,202"	"233 / 1,072 (21.74%)"	"14 / 1,072 (1.31%)"	20		add to survival plot
+NUP205	nucleoporin 205kDa	18 / 986 (1.83%)	"371 / 10,202"	"60 / 1,072 (5.60%)"	"38 / 1,072 (3.54%)"	21		add to survival plot
+ERCC6	excision repair cross-complementation group 6	18 / 986 (1.83%)	"296 / 10,202"	"44 / 1,072 (4.10%)"	"35 / 1,072 (3.26%)"	24		add to survival plot
+CD163L1	CD163 molecule-like 1	18 / 986 (1.83%)	"440 / 10,202"	"64 / 1,072 (5.97%)"	"46 / 1,072 (4.29%)"	19		add to survival plot
+PRRC2C	proline-rich coiled-coil 2C	18 / 986 (1.83%)	"373 / 10,202"	"118 / 1,072 (11.01%)"	"35 / 1,072 (3.26%)"	20		add to survival plot
+IREB2	iron-responsive element binding protein 2	18 / 986 (1.83%)	"197 / 10,202"	"58 / 1,072 (5.41%)"	"22 / 1,072 (2.05%)"	20		add to survival plot
+IPO8	importin 8	18 / 986 (1.83%)	"216 / 10,202"	"56 / 1,072 (5.22%)"	"19 / 1,072 (1.77%)"	21		add to survival plot
+CELF2	"CUGBP, Elav-like family member 2"	18 / 986 (1.83%)	"245 / 10,202"	"105 / 1,072 (9.79%)"	"13 / 1,072 (1.21%)"	14		add to survival plot
+NLRP2	"NLR family, pyrin domain containing 2"	18 / 986 (1.83%)	"375 / 10,202"	"79 / 1,072 (7.37%)"	"35 / 1,072 (3.26%)"	19		add to survival plot
+ASCC3	activating signal cointegrator 1 complex subunit 3	17 / 986 (1.72%)	"350 / 10,202"	"59 / 1,072 (5.50%)"	"74 / 1,072 (6.90%)"	19		add to survival plot
+TNRC18	trinucleotide repeat containing 18	17 / 986 (1.72%)	"370 / 10,202"	"54 / 1,072 (5.04%)"	"45 / 1,072 (4.20%)"	20		add to survival plot
+DAAM2	dishevelled associated activator of morphogenesis 2	17 / 986 (1.72%)	"276 / 10,202"	"59 / 1,072 (5.50%)"	"27 / 1,072 (2.52%)"	18		add to survival plot
+PARP1	poly (ADP-ribose) polymerase 1	17 / 986 (1.72%)	"209 / 10,202"	"150 / 1,072 (13.99%)"	"24 / 1,072 (2.24%)"	18		add to survival plot
+RGAG1	retrotransposon gag domain containing 1	17 / 986 (1.72%)	"340 / 10,202"	"26 / 1,072 (2.43%)"	"27 / 1,072 (2.52%)"	19		add to survival plot
+MROH1	maestro heat-like repeat family member 1	17 / 986 (1.72%)	"288 / 10,202"	"168 / 1,072 (15.67%)"	"80 / 1,072 (7.46%)"	21		add to survival plot
+FGD6	"FYVE, RhoGEF and PH domain containing 6"	17 / 986 (1.72%)	"270 / 10,202"	"42 / 1,072 (3.92%)"	"56 / 1,072 (5.22%)"	20		add to survival plot
+ANO2	"anoctamin 2, calcium activated chloride channel"	17 / 986 (1.72%)	"325 / 10,202"	"68 / 1,072 (6.34%)"	"49 / 1,072 (4.57%)"	17		add to survival plot
+CEP295	centrosomal protein 295kDa	17 / 986 (1.72%)	"258 / 10,202"	"62 / 1,072 (5.78%)"	"93 / 1,072 (8.68%)"	18		add to survival plot
+NELL1	NEL-like 1 (chicken)	17 / 986 (1.72%)	"389 / 10,202"	"66 / 1,072 (6.16%)"	"35 / 1,072 (3.26%)"	19		add to survival plot
+SOX6	SRY (sex determining region Y)-box 6	17 / 986 (1.72%)	"276 / 10,202"	"48 / 1,072 (4.48%)"	"43 / 1,072 (4.01%)"	18		add to survival plot
+PCDHGA1	"protocadherin gamma subfamily A, 1"	17 / 986 (1.72%)	"352 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	21		add to survival plot
+MECOM	MDS1 and EVI1 complex locus	17 / 986 (1.72%)	"415 / 10,202"	"146 / 1,072 (13.62%)"	"13 / 1,072 (1.21%)"	19	Cancer Gene Census	add to survival plot
+GREB1	growth regulation by estrogen in breast cancer 1	17 / 986 (1.72%)	"467 / 10,202"	"44 / 1,072 (4.10%)"	"50 / 1,072 (4.66%)"	18		add to survival plot
+ARHGAP24	Rho GTPase activating protein 24	17 / 986 (1.72%)	"203 / 10,202"	"46 / 1,072 (4.29%)"	"25 / 1,072 (2.33%)"	18		add to survival plot
+UBA6	ubiquitin-like modifier activating enzyme 6	17 / 986 (1.72%)	"250 / 10,202"	"73 / 1,072 (6.81%)"	"12 / 1,072 (1.12%)"	17		add to survival plot
+NUMA1	nuclear mitotic apparatus protein 1	17 / 986 (1.72%)	"334 / 10,202"	"162 / 1,072 (15.11%)"	"48 / 1,072 (4.48%)"	22	Cancer Gene Census	add to survival plot
+FRMPD1	FERM and PDZ domain containing 1	17 / 986 (1.72%)	"386 / 10,202"	"49 / 1,072 (4.57%)"	"27 / 1,072 (2.52%)"	20		add to survival plot
+NLRP1	"NLR family, pyrin domain containing 1"	17 / 986 (1.72%)	"358 / 10,202"	"29 / 1,072 (2.71%)"	"33 / 1,072 (3.08%)"	18		add to survival plot
+TRANK1	tetratricopeptide repeat and ankyrin repeat containing 1	17 / 986 (1.72%)	"469 / 10,202"	"38 / 1,072 (3.54%)"	"70 / 1,072 (6.53%)"	20		add to survival plot
+ABCB4	"ATP-binding cassette, sub-family B (MDR/TAP), member 4"	17 / 986 (1.72%)	"338 / 10,202"	"36 / 1,072 (3.36%)"	"27 / 1,072 (2.52%)"	20		add to survival plot
+ATP2B2	"ATPase, Ca++ transporting, plasma membrane 2"	17 / 986 (1.72%)	"440 / 10,202"	"96 / 1,072 (8.96%)"	"26 / 1,072 (2.43%)"	20		add to survival plot
+PCDH9	protocadherin 9	17 / 986 (1.72%)	"492 / 10,202"	"40 / 1,072 (3.73%)"	"48 / 1,072 (4.48%)"	18		add to survival plot
+UBC	ubiquitin C	17 / 986 (1.72%)	"172 / 10,202"	"39 / 1,072 (3.64%)"	"85 / 1,072 (7.93%)"	18		add to survival plot
+XPO1	exportin 1	17 / 986 (1.72%)	"211 / 10,202"	"62 / 1,072 (5.78%)"	"9 / 1,072 (0.84%)"	21	Cancer Gene Census	add to survival plot
+AGBL1	ATP/GTP binding protein-like 1	17 / 986 (1.72%)	"360 / 10,202"	"90 / 1,072 (8.40%)"	"30 / 1,072 (2.80%)"	17		add to survival plot
+MAST1	microtubule associated serine/threonine kinase 1	17 / 986 (1.72%)	"301 / 10,202"	"56 / 1,072 (5.22%)"	"34 / 1,072 (3.17%)"	19		add to survival plot
+CLTC	"clathrin, heavy chain (Hc)"	17 / 986 (1.72%)	"273 / 10,202"	"229 / 1,072 (21.36%)"	"12 / 1,072 (1.12%)"	24	Cancer Gene Census	add to survival plot
+THOC2	THO complex 2	17 / 986 (1.72%)	"359 / 10,202"	"34 / 1,072 (3.17%)"	"20 / 1,072 (1.87%)"	18		add to survival plot
+MAPKBP1	mitogen-activated protein kinase binding protein 1	17 / 986 (1.72%)	"294 / 10,202"	"21 / 1,072 (1.96%)"	"99 / 1,072 (9.24%)"	19		add to survival plot
+MAP3K13	mitogen-activated protein kinase kinase kinase 13	17 / 986 (1.72%)	"242 / 10,202"	"130 / 1,072 (12.13%)"	"22 / 1,072 (2.05%)"	18	Cancer Gene Census	add to survival plot
+PI4KA	"phosphatidylinositol 4-kinase, catalytic, alpha"	17 / 986 (1.72%)	"356 / 10,202"	"70 / 1,072 (6.53%)"	"39 / 1,072 (3.64%)"	21		add to survival plot
+COL5A2	"collagen, type V, alpha 2"	17 / 986 (1.72%)	"435 / 10,202"	"56 / 1,072 (5.22%)"	"21 / 1,072 (1.96%)"	17		add to survival plot
+LILRB5	"leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5"	17 / 986 (1.72%)	"436 / 10,202"	"83 / 1,072 (7.74%)"	"33 / 1,072 (3.08%)"	17		add to survival plot
+INADL	InaD-like (Drosophila)	17 / 986 (1.72%)	"378 / 10,202"	"70 / 1,072 (6.53%)"	"54 / 1,072 (5.04%)"	19		add to survival plot
+ZNF648	zinc finger protein 648	17 / 986 (1.72%)	"226 / 10,202"	"105 / 1,072 (9.79%)"	"26 / 1,072 (2.43%)"	17		add to survival plot
+HTATSF1	HIV-1 Tat specific factor 1	17 / 986 (1.72%)	"215 / 10,202"	"50 / 1,072 (4.66%)"	"19 / 1,072 (1.77%)"	20		add to survival plot
+ADAMTS1	"ADAM metallopeptidase with thrombospondin type 1 motif, 1"	17 / 986 (1.72%)	"214 / 10,202"	"25 / 1,072 (2.33%)"	"34 / 1,072 (3.17%)"	17		add to survival plot
+NLRP3	"NLR family, pyrin domain containing 3"	17 / 986 (1.72%)	"525 / 10,202"	"177 / 1,072 (16.51%)"	"33 / 1,072 (3.08%)"	19		add to survival plot
+RP11-231C14.4	RP11-231C14.4	17 / 986 (1.72%)	"77 / 10,202"	"62 / 1,072 (5.78%)"	"8 / 1,072 (0.75%)"	9		add to survival plot
+TMPRSS15	"transmembrane protease, serine 15"	17 / 986 (1.72%)	"384 / 10,202"	"35 / 1,072 (3.26%)"	"61 / 1,072 (5.69%)"	17		add to survival plot
+TLR7	toll-like receptor 7	17 / 986 (1.72%)	"269 / 10,202"	"38 / 1,072 (3.54%)"	"22 / 1,072 (2.05%)"	18		add to survival plot
+LTBP2	latent transforming growth factor beta binding protein 2	17 / 986 (1.72%)	"365 / 10,202"	"17 / 1,072 (1.59%)"	"84 / 1,072 (7.84%)"	18		add to survival plot
+ADCY9	adenylate cyclase 9	17 / 986 (1.72%)	"312 / 10,202"	"75 / 1,072 (7.00%)"	"19 / 1,072 (1.77%)"	20		add to survival plot
+GRIPAP1	GRIP1 associated protein 1	17 / 986 (1.72%)	"182 / 10,202"	"30 / 1,072 (2.80%)"	"10 / 1,072 (0.93%)"	19		add to survival plot
+C11orf30	chromosome 11 open reading frame 30	17 / 986 (1.72%)	"256 / 10,202"	"171 / 1,072 (15.95%)"	"37 / 1,072 (3.45%)"	23		add to survival plot
+VWA3A	von Willebrand factor A domain containing 3A	17 / 986 (1.72%)	"245 / 10,202"	"39 / 1,072 (3.64%)"	"15 / 1,072 (1.40%)"	18		add to survival plot
+TCF4	transcription factor 4	17 / 986 (1.72%)	"305 / 10,202"	"30 / 1,072 (2.80%)"	"32 / 1,072 (2.99%)"	17		add to survival plot
+KIAA1217	KIAA1217	17 / 986 (1.72%)	"496 / 10,202"	"44 / 1,072 (4.10%)"	"26 / 1,072 (2.43%)"	23		add to survival plot
+FAM21A	"family with sequence similarity 21, member A"	17 / 986 (1.72%)	"256 / 10,202"	"42 / 1,072 (3.92%)"	"36 / 1,072 (3.36%)"	17		add to survival plot
+RBM25	RNA binding motif protein 25	17 / 986 (1.72%)	"252 / 10,202"	"16 / 1,072 (1.49%)"	"78 / 1,072 (7.28%)"	16		add to survival plot
+FRYL	FRY-like	17 / 986 (1.72%)	"439 / 10,202"	"67 / 1,072 (6.25%)"	"11 / 1,072 (1.03%)"	19		add to survival plot
+FLAD1	flavin adenine dinucleotide synthetase 1	17 / 986 (1.72%)	"168 / 10,202"	"172 / 1,072 (16.04%)"	"22 / 1,072 (2.05%)"	17		add to survival plot
+DOCK5	dedicator of cytokinesis 5	17 / 986 (1.72%)	"343 / 10,202"	"14 / 1,072 (1.31%)"	"98 / 1,072 (9.14%)"	18		add to survival plot
+KIAA0319	KIAA0319	17 / 986 (1.72%)	"305 / 10,202"	"89 / 1,072 (8.30%)"	"31 / 1,072 (2.89%)"	18		add to survival plot
+BAZ2A	"bromodomain adjacent to zinc finger domain, 2A"	17 / 986 (1.72%)	"284 / 10,202"	"37 / 1,072 (3.45%)"	"39 / 1,072 (3.64%)"	20		add to survival plot
+IGF2BP2	insulin-like growth factor 2 mRNA binding protein 2	17 / 986 (1.72%)	"263 / 10,202"	"127 / 1,072 (11.85%)"	"20 / 1,072 (1.87%)"	16		add to survival plot
+ESR1	estrogen receptor 1	17 / 986 (1.72%)	"223 / 10,202"	"106 / 1,072 (9.89%)"	"78 / 1,072 (7.28%)"	16	Cancer Gene Census	add to survival plot
+PLEKHA6	"pleckstrin homology domain containing, family A member 6"	17 / 986 (1.72%)	"314 / 10,202"	"171 / 1,072 (15.95%)"	"7 / 1,072 (0.65%)"	23		add to survival plot
+PHF3	PHD finger protein 3	17 / 986 (1.72%)	"367 / 10,202"	"79 / 1,072 (7.37%)"	"43 / 1,072 (4.01%)"	20		add to survival plot
+ZMYM4	"zinc finger, MYM-type 4"	17 / 986 (1.72%)	"265 / 10,202"	"45 / 1,072 (4.20%)"	"74 / 1,072 (6.90%)"	17		add to survival plot
+MLH3	mutL homolog 3	17 / 986 (1.72%)	"238 / 10,202"	"15 / 1,072 (1.40%)"	"82 / 1,072 (7.65%)"	18		add to survival plot
+NRIP1	nuclear receptor interacting protein 1	17 / 986 (1.72%)	"287 / 10,202"	"47 / 1,072 (4.38%)"	"64 / 1,072 (5.97%)"	18		add to survival plot
+RICTOR	"RPTOR independent companion of MTOR, complex 2"	17 / 986 (1.72%)	"322 / 10,202"	"61 / 1,072 (5.69%)"	"14 / 1,072 (1.31%)"	17		add to survival plot
+CEP290	centrosomal protein 290kDa	17 / 986 (1.72%)	"334 / 10,202"	"46 / 1,072 (4.29%)"	"52 / 1,072 (4.85%)"	20		add to survival plot
+MYO18A	myosin XVIIIA	17 / 986 (1.72%)	"318 / 10,202"	"152 / 1,072 (14.18%)"	"27 / 1,072 (2.52%)"	21		add to survival plot
+ESYT1	extended synaptotagmin-like protein 1	17 / 986 (1.72%)	"204 / 10,202"	"40 / 1,072 (3.73%)"	"41 / 1,072 (3.82%)"	16		add to survival plot
+KIAA0100	KIAA0100	17 / 986 (1.72%)	"372 / 10,202"	"154 / 1,072 (14.37%)"	"30 / 1,072 (2.80%)"	19		add to survival plot
+APOBR	apolipoprotein B receptor	17 / 986 (1.72%)	"199 / 10,202"	"56 / 1,072 (5.22%)"	"6 / 1,072 (0.56%)"	22		add to survival plot
+ATP13A4	ATPase type 13A4	17 / 986 (1.72%)	"328 / 10,202"	"138 / 1,072 (12.87%)"	"26 / 1,072 (2.43%)"	17		add to survival plot
+ARHGAP5	Rho GTPase activating protein 5	17 / 986 (1.72%)	"308 / 10,202"	"91 / 1,072 (8.49%)"	"17 / 1,072 (1.59%)"	21		add to survival plot
+NRP2	neuropilin 2	17 / 986 (1.72%)	"309 / 10,202"	"52 / 1,072 (4.85%)"	"38 / 1,072 (3.54%)"	18		add to survival plot
+ZNF592	zinc finger protein 592	17 / 986 (1.72%)	"235 / 10,202"	"86 / 1,072 (8.02%)"	"18 / 1,072 (1.68%)"	20		add to survival plot
+TRDN	triadin	17 / 986 (1.72%)	"220 / 10,202"	"59 / 1,072 (5.50%)"	"48 / 1,072 (4.48%)"	19		add to survival plot
+RGS7	regulator of G-protein signaling 7	17 / 986 (1.72%)	"307 / 10,202"	"165 / 1,072 (15.39%)"	"44 / 1,072 (4.10%)"	18		add to survival plot
+ZNF407	zinc finger protein 407	17 / 986 (1.72%)	"394 / 10,202"	"46 / 1,072 (4.29%)"	"50 / 1,072 (4.66%)"	17		add to survival plot
+RALGAPA1	"Ral GTPase activating protein, alpha subunit 1 (catalytic)"	17 / 986 (1.72%)	"298 / 10,202"	"97 / 1,072 (9.05%)"	"17 / 1,072 (1.59%)"	21		add to survival plot
+DOCK3	dedicator of cytokinesis 3	17 / 986 (1.72%)	"506 / 10,202"	"12 / 1,072 (1.12%)"	"149 / 1,072 (13.90%)"	19		add to survival plot
+CDH26	cadherin 26	17 / 986 (1.72%)	"271 / 10,202"	"130 / 1,072 (12.13%)"	"32 / 1,072 (2.99%)"	19		add to survival plot
+SMARCA1	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1"	17 / 986 (1.72%)	"253 / 10,202"	"37 / 1,072 (3.45%)"	"21 / 1,072 (1.96%)"	18		add to survival plot
+FCRL3	Fc receptor-like 3	17 / 986 (1.72%)	"398 / 10,202"	"146 / 1,072 (13.62%)"	"28 / 1,072 (2.61%)"	22		add to survival plot
+UBR2	ubiquitin protein ligase E3 component n-recognin 2	17 / 986 (1.72%)	"263 / 10,202"	"74 / 1,072 (6.90%)"	"24 / 1,072 (2.24%)"	18		add to survival plot
+SHPRH	"SNF2 histone linker PHD RING helicase, E3 ubiquitin protein ligase"	17 / 986 (1.72%)	"340 / 10,202"	"62 / 1,072 (5.78%)"	"65 / 1,072 (6.06%)"	20		add to survival plot
+ADGRL4	adhesion G protein-coupled receptor L4	17 / 986 (1.72%)	"341 / 10,202"	"37 / 1,072 (3.45%)"	"66 / 1,072 (6.16%)"	18		add to survival plot
+DPP10	dipeptidyl-peptidase 10 (non-functional)	17 / 986 (1.72%)	"439 / 10,202"	"41 / 1,072 (3.82%)"	"35 / 1,072 (3.26%)"	19		add to survival plot
+ARHGAP29	Rho GTPase activating protein 29	17 / 986 (1.72%)	"298 / 10,202"	"39 / 1,072 (3.64%)"	"101 / 1,072 (9.42%)"	20		add to survival plot
+ZNF608	zinc finger protein 608	17 / 986 (1.72%)	"277 / 10,202"	"29 / 1,072 (2.71%)"	"41 / 1,072 (3.82%)"	20		add to survival plot
+CDK12	cyclin-dependent kinase 12	17 / 986 (1.72%)	"331 / 10,202"	"159 / 1,072 (14.83%)"	"48 / 1,072 (4.48%)"	20	Cancer Gene Census	add to survival plot
+CAPRIN2	caprin family member 2	17 / 986 (1.72%)	"237 / 10,202"	"59 / 1,072 (5.50%)"	"17 / 1,072 (1.59%)"	17		add to survival plot
+NCOA3	nuclear receptor coactivator 3	17 / 986 (1.72%)	"333 / 10,202"	"86 / 1,072 (8.02%)"	"39 / 1,072 (3.64%)"	18		add to survival plot
+SPG11	spastic paraplegia 11 (autosomal recessive)	17 / 986 (1.72%)	"350 / 10,202"	"26 / 1,072 (2.43%)"	"90 / 1,072 (8.40%)"	17		add to survival plot
+PCDHB12	protocadherin beta 12	17 / 986 (1.72%)	"422 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	18		add to survival plot
+EPHA7	EPH receptor A7	17 / 986 (1.72%)	"431 / 10,202"	"40 / 1,072 (3.73%)"	"81 / 1,072 (7.56%)"	17		add to survival plot
+USP15	ubiquitin specific peptidase 15	17 / 986 (1.72%)	"225 / 10,202"	"58 / 1,072 (5.41%)"	"29 / 1,072 (2.71%)"	17		add to survival plot
+WDR17	WD repeat domain 17	17 / 986 (1.72%)	"354 / 10,202"	"43 / 1,072 (4.01%)"	"60 / 1,072 (5.60%)"	18		add to survival plot
+ZNF658	zinc finger protein 658	17 / 986 (1.72%)	"278 / 10,202"	"60 / 1,072 (5.60%)"	"44 / 1,072 (4.10%)"	16		add to survival plot
+MEIS2	Meis homeobox 2	17 / 986 (1.72%)	"278 / 10,202"	"24 / 1,072 (2.24%)"	"94 / 1,072 (8.77%)"	18		add to survival plot
+TEK	"TEK tyrosine kinase, endothelial"	17 / 986 (1.72%)	"290 / 10,202"	"32 / 1,072 (2.99%)"	"31 / 1,072 (2.89%)"	20		add to survival plot
+SPTAN1	"spectrin, alpha, non-erythrocytic 1"	17 / 986 (1.72%)	"446 / 10,202"	"55 / 1,072 (5.13%)"	"33 / 1,072 (3.08%)"	20		add to survival plot
+PLD5	"phospholipase D family, member 5"	17 / 986 (1.72%)	"263 / 10,202"	"164 / 1,072 (15.30%)"	"38 / 1,072 (3.54%)"	17		add to survival plot
+LRRC16B	leucine rich repeat containing 16B	17 / 986 (1.72%)	"311 / 10,202"	"77 / 1,072 (7.18%)"	"29 / 1,072 (2.71%)"	18		add to survival plot
+BRIP1	BRCA1 interacting protein C-terminal helicase 1	17 / 986 (1.72%)	"257 / 10,202"	"234 / 1,072 (21.83%)"	"11 / 1,072 (1.03%)"	18	Cancer Gene Census	add to survival plot
+DCDC1	doublecortin domain containing 1	17 / 986 (1.72%)	"532 / 10,202"	"71 / 1,072 (6.62%)"	"15 / 1,072 (1.40%)"	18		add to survival plot
+PRX	periaxin	17 / 986 (1.72%)	"293 / 10,202"	"52 / 1,072 (4.85%)"	"35 / 1,072 (3.26%)"	19		add to survival plot
+INSRR	insulin receptor-related receptor	17 / 986 (1.72%)	"375 / 10,202"	"146 / 1,072 (13.62%)"	"25 / 1,072 (2.33%)"	17		add to survival plot
+ARFGEF3	ARFGEF family member 3	17 / 986 (1.72%)	"365 / 10,202"	"78 / 1,072 (7.28%)"	"56 / 1,072 (5.22%)"	18		add to survival plot
+RALGAPB	"Ral GTPase activating protein, beta subunit (non-catalytic)"	17 / 986 (1.72%)	"308 / 10,202"	"56 / 1,072 (5.22%)"	"31 / 1,072 (2.89%)"	23		add to survival plot
+TRPC7	"transient receptor potential cation channel, subfamily C, member 7"	17 / 986 (1.72%)	"334 / 10,202"	"35 / 1,072 (3.26%)"	"30 / 1,072 (2.80%)"	19		add to survival plot
+ITIH6	"inter-alpha-trypsin inhibitor heavy chain family, member 6"	17 / 986 (1.72%)	"351 / 10,202"	"48 / 1,072 (4.48%)"	"5 / 1,072 (0.47%)"	18		add to survival plot
+ZGRF1	"zinc finger, GRF-type containing 1"	17 / 986 (1.72%)	"303 / 10,202"	"36 / 1,072 (3.36%)"	"39 / 1,072 (3.64%)"	23		add to survival plot
+WHSC1L1	Wolf-Hirschhorn syndrome candidate 1-like 1	17 / 986 (1.72%)	"298 / 10,202"	"193 / 1,072 (18.00%)"	"51 / 1,072 (4.76%)"	20	Cancer Gene Census	add to survival plot
+PCDHB16	protocadherin beta 16	17 / 986 (1.72%)	"377 / 10,202"	"48 / 1,072 (4.48%)"	"22 / 1,072 (2.05%)"	20		add to survival plot
+GRIN3A	"glutamate receptor, ionotropic, N-methyl-D-aspartate 3A"	17 / 986 (1.72%)	"397 / 10,202"	"24 / 1,072 (2.24%)"	"44 / 1,072 (4.10%)"	17		add to survival plot
+ALDH1L1	"aldehyde dehydrogenase 1 family, member L1"	17 / 986 (1.72%)	"291 / 10,202"	"32 / 1,072 (2.99%)"	"37 / 1,072 (3.45%)"	18		add to survival plot
+CPSF1	"cleavage and polyadenylation specific factor 1, 160kDa"	17 / 986 (1.72%)	"245 / 10,202"	"165 / 1,072 (15.39%)"	"80 / 1,072 (7.46%)"	17		add to survival plot
+ZNF91	zinc finger protein 91	17 / 986 (1.72%)	"342 / 10,202"	"54 / 1,072 (5.04%)"	"23 / 1,072 (2.15%)"	20		add to survival plot
+ZZEF1	"zinc finger, ZZ-type with EF-hand domain 1"	17 / 986 (1.72%)	"413 / 10,202"	"37 / 1,072 (3.45%)"	"30 / 1,072 (2.80%)"	19		add to survival plot
+JAK3	Janus kinase 3	17 / 986 (1.72%)	"279 / 10,202"	"55 / 1,072 (5.13%)"	"20 / 1,072 (1.87%)"	20	Cancer Gene Census	add to survival plot
+NRCAM	neuronal cell adhesion molecule	17 / 986 (1.72%)	"327 / 10,202"	"37 / 1,072 (3.45%)"	"42 / 1,072 (3.92%)"	19		add to survival plot
+KCNH1	"potassium channel, voltage gated eag related subfamily H, member 1"	17 / 986 (1.72%)	"401 / 10,202"	"138 / 1,072 (12.87%)"	"20 / 1,072 (1.87%)"	18		add to survival plot
+ABCC12	"ATP-binding cassette, sub-family C (CFTR/MRP), member 12"	17 / 986 (1.72%)	"374 / 10,202"	"47 / 1,072 (4.38%)"	"46 / 1,072 (4.29%)"	17		add to survival plot
+SHROOM2	shroom family member 2	17 / 986 (1.72%)	"313 / 10,202"	"42 / 1,072 (3.92%)"	"26 / 1,072 (2.43%)"	23		add to survival plot
+CPED1	cadherin-like and PC-esterase domain containing 1	17 / 986 (1.72%)	"359 / 10,202"	"43 / 1,072 (4.01%)"	"38 / 1,072 (3.54%)"	21		add to survival plot
+CH17-140K24.8	CH17-140K24.8	17 / 986 (1.72%)	"384 / 10,202"	"47 / 1,072 (4.38%)"	"21 / 1,072 (1.96%)"	18		add to survival plot
+PDE4C	"phosphodiesterase 4C, cAMP-specific"	17 / 986 (1.72%)	"201 / 10,202"	"55 / 1,072 (5.13%)"	"18 / 1,072 (1.68%)"	17		add to survival plot
+FAM47B	"family with sequence similarity 47, member B"	17 / 986 (1.72%)	"394 / 10,202"	"21 / 1,072 (1.96%)"	"16 / 1,072 (1.49%)"	17		add to survival plot
+IRS4	insulin receptor substrate 4	17 / 986 (1.72%)	"373 / 10,202"	"19 / 1,072 (1.77%)"	"26 / 1,072 (2.43%)"	18		add to survival plot
+EIF4A2	eukaryotic translation initiation factor 4A2	17 / 986 (1.72%)	"227 / 10,202"	"127 / 1,072 (11.85%)"	"24 / 1,072 (2.24%)"	20	Cancer Gene Census	add to survival plot
+ZNF804B	zinc finger protein 804B	17 / 986 (1.72%)	"530 / 10,202"	"40 / 1,072 (3.73%)"	"30 / 1,072 (2.80%)"	17		add to survival plot
+BNC2	basonuclin 2	17 / 986 (1.72%)	"394 / 10,202"	"45 / 1,072 (4.20%)"	"35 / 1,072 (3.26%)"	17		add to survival plot
+IKBKE	"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon"	17 / 986 (1.72%)	"194 / 10,202"	"160 / 1,072 (14.93%)"	"11 / 1,072 (1.03%)"	18		add to survival plot
+UHRF1BP1L	UHRF1 binding protein 1-like	17 / 986 (1.72%)	"266 / 10,202"	"36 / 1,072 (3.36%)"	"68 / 1,072 (6.34%)"	18		add to survival plot
+SLC9C2	"solute carrier family 9, member C2 (putative)"	17 / 986 (1.72%)	"358 / 10,202"	"113 / 1,072 (10.54%)"	"33 / 1,072 (3.08%)"	19		add to survival plot
+DLG5	"discs, large homolog 5 (Drosophila)"	17 / 986 (1.72%)	"354 / 10,202"	"78 / 1,072 (7.28%)"	"28 / 1,072 (2.61%)"	18		add to survival plot
+PLXNB3	plexin B3	17 / 986 (1.72%)	"314 / 10,202"	"67 / 1,072 (6.25%)"	"26 / 1,072 (2.43%)"	19		add to survival plot
+KLHL1	kelch-like family member 1	17 / 986 (1.72%)	"390 / 10,202"	"43 / 1,072 (4.01%)"	"44 / 1,072 (4.10%)"	18		add to survival plot
+TLN2	talin 2	17 / 986 (1.72%)	"513 / 10,202"	"36 / 1,072 (3.36%)"	"47 / 1,072 (4.38%)"	19		add to survival plot
+SLC4A5	"solute carrier family 4 (sodium bicarbonate cotransporter), member 5"	17 / 986 (1.72%)	"249 / 10,202"	"47 / 1,072 (4.38%)"	"13 / 1,072 (1.21%)"	18		add to survival plot
+PLCL2	phospholipase C-like 2	17 / 986 (1.72%)	"264 / 10,202"	"79 / 1,072 (7.37%)"	"27 / 1,072 (2.52%)"	19		add to survival plot
+CEP152	centrosomal protein 152kDa	17 / 986 (1.72%)	"246 / 10,202"	"30 / 1,072 (2.80%)"	"80 / 1,072 (7.46%)"	24		add to survival plot
+SAGE1	sarcoma antigen 1	17 / 986 (1.72%)	"332 / 10,202"	"50 / 1,072 (4.66%)"	"18 / 1,072 (1.68%)"	18		add to survival plot
+TRPA1	"transient receptor potential cation channel, subfamily A, member 1"	17 / 986 (1.72%)	"458 / 10,202"	"97 / 1,072 (9.05%)"	"42 / 1,072 (3.92%)"	19		add to survival plot
+QRICH2	glutamine rich 2	17 / 986 (1.72%)	"286 / 10,202"	"211 / 1,072 (19.68%)"	"32 / 1,072 (2.99%)"	20		add to survival plot
+NEDD4L	"neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase"	17 / 986 (1.72%)	"206 / 10,202"	"34 / 1,072 (3.17%)"	"35 / 1,072 (3.26%)"	17		add to survival plot
+CCDC144A	coiled-coil domain containing 144A	17 / 986 (1.72%)	"254 / 10,202"	"36 / 1,072 (3.36%)"	"29 / 1,072 (2.71%)"	22		add to survival plot
+STAT4	signal transducer and activator of transcription 4	17 / 986 (1.72%)	"224 / 10,202"	"64 / 1,072 (5.97%)"	"22 / 1,072 (2.05%)"	19		add to survival plot
+ZNF469	zinc finger protein 469	17 / 986 (1.72%)	"224 / 10,202"	"41 / 1,072 (3.82%)"	"63 / 1,072 (5.88%)"	17		add to survival plot
+CUL7	cullin 7	17 / 986 (1.72%)	"248 / 10,202"	"74 / 1,072 (6.90%)"	"24 / 1,072 (2.24%)"	19		add to survival plot
+MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	17 / 986 (1.72%)	"384 / 10,202"	"126 / 1,072 (11.75%)"	"21 / 1,072 (1.96%)"	19		add to survival plot
+CNKSR2	connector enhancer of kinase suppressor of Ras 2	17 / 986 (1.72%)	"279 / 10,202"	"40 / 1,072 (3.73%)"	"16 / 1,072 (1.49%)"	21		add to survival plot
+PCSK5	proprotein convertase subtilisin/kexin type 5	16 / 986 (1.62%)	"404 / 10,202"	"29 / 1,072 (2.71%)"	"34 / 1,072 (3.17%)"	17		add to survival plot
+CLIP1	CAP-GLY domain containing linker protein 1	16 / 986 (1.62%)	"261 / 10,202"	"36 / 1,072 (3.36%)"	"84 / 1,072 (7.84%)"	18	Cancer Gene Census	add to survival plot
+EPHA5	EPH receptor A5	16 / 986 (1.62%)	"494 / 10,202"	"71 / 1,072 (6.62%)"	"15 / 1,072 (1.40%)"	16		add to survival plot
+RPTOR	"regulatory associated protein of MTOR, complex 1"	16 / 986 (1.62%)	"292 / 10,202"	"208 / 1,072 (19.40%)"	"43 / 1,072 (4.01%)"	17		add to survival plot
+AMBRA1	autophagy/beclin-1 regulator 1	16 / 986 (1.62%)	"276 / 10,202"	"66 / 1,072 (6.16%)"	"17 / 1,072 (1.59%)"	17		add to survival plot
+TEX14	testis expressed 14	16 / 986 (1.62%)	"374 / 10,202"	"194 / 1,072 (18.10%)"	"18 / 1,072 (1.68%)"	19		add to survival plot
+ACACB	acetyl-CoA carboxylase beta	16 / 986 (1.62%)	"482 / 10,202"	"33 / 1,072 (3.08%)"	"67 / 1,072 (6.25%)"	18		add to survival plot
+ROBO3	"roundabout, axon guidance receptor, homolog 3 (Drosophila)"	16 / 986 (1.62%)	"308 / 10,202"	"23 / 1,072 (2.15%)"	"157 / 1,072 (14.65%)"	16		add to survival plot
+MCM7	minichromosome maintenance complex component 7	16 / 986 (1.62%)	"210 / 10,202"	"44 / 1,072 (4.10%)"	"34 / 1,072 (3.17%)"	18		add to survival plot
+CHD1L	chromodomain helicase DNA binding protein 1-like	16 / 986 (1.62%)	"189 / 10,202"	"190 / 1,072 (17.72%)"	"27 / 1,072 (2.52%)"	15		add to survival plot
+LEPR	leptin receptor	16 / 986 (1.62%)	"348 / 10,202"	"53 / 1,072 (4.94%)"	"59 / 1,072 (5.50%)"	16		add to survival plot
+RBM26	RNA binding motif protein 26	16 / 986 (1.62%)	"186 / 10,202"	"60 / 1,072 (5.60%)"	"30 / 1,072 (2.80%)"	16		add to survival plot
+UBE4B	ubiquitination factor E4B	16 / 986 (1.62%)	"303 / 10,202"	"23 / 1,072 (2.15%)"	"167 / 1,072 (15.58%)"	16		add to survival plot
+CGNL1	cingulin-like 1	16 / 986 (1.62%)	"270 / 10,202"	"24 / 1,072 (2.24%)"	"64 / 1,072 (5.97%)"	17		add to survival plot
+INTS6	integrator complex subunit 6	16 / 986 (1.62%)	"168 / 10,202"	"28 / 1,072 (2.61%)"	"96 / 1,072 (8.96%)"	19		add to survival plot
+SMURF1	SMAD specific E3 ubiquitin protein ligase 1	16 / 986 (1.62%)	"257 / 10,202"	"44 / 1,072 (4.10%)"	"38 / 1,072 (3.54%)"	11		add to survival plot
+RIC1	RAB6A GEF complex partner 1	16 / 986 (1.62%)	"208 / 10,202"	"60 / 1,072 (5.60%)"	"33 / 1,072 (3.08%)"	17		add to survival plot
+ARHGAP6	Rho GTPase activating protein 6	16 / 986 (1.62%)	"297 / 10,202"	"46 / 1,072 (4.29%)"	"21 / 1,072 (1.96%)"	16		add to survival plot
+ANKRD36B	ankyrin repeat domain 36B	16 / 986 (1.62%)	"147 / 10,202"	"48 / 1,072 (4.48%)"	"21 / 1,072 (1.96%)"	17		add to survival plot
+PCDHB1	protocadherin beta 1	16 / 986 (1.62%)	"311 / 10,202"	"47 / 1,072 (4.38%)"	"19 / 1,072 (1.77%)"	16		add to survival plot
+PDXDC1	pyridoxal-dependent decarboxylase domain containing 1	16 / 986 (1.62%)	"246 / 10,202"	"61 / 1,072 (5.69%)"	"9 / 1,072 (0.84%)"	17		add to survival plot
+PREX1	"phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1"	16 / 986 (1.62%)	"402 / 10,202"	"101 / 1,072 (9.42%)"	"30 / 1,072 (2.80%)"	17		add to survival plot
+PCDHA4	protocadherin alpha 4	16 / 986 (1.62%)	"406 / 10,202"	"47 / 1,072 (4.38%)"	"20 / 1,072 (1.87%)"	19		add to survival plot
+ADAMTS17	"ADAM metallopeptidase with thrombospondin type 1 motif, 17"	16 / 986 (1.62%)	"263 / 10,202"	"102 / 1,072 (9.51%)"	"19 / 1,072 (1.77%)"	17		add to survival plot
+GTF3C1	"general transcription factor IIIC, polypeptide 1, alpha 220kDa"	16 / 986 (1.62%)	"452 / 10,202"	"51 / 1,072 (4.76%)"	"12 / 1,072 (1.12%)"	18		add to survival plot
+ACIN1	apoptotic chromatin condensation inducer 1	16 / 986 (1.62%)	"286 / 10,202"	"91 / 1,072 (8.49%)"	"23 / 1,072 (2.15%)"	16		add to survival plot
+KIFC1	kinesin family member C1	16 / 986 (1.62%)	"206 / 10,202"	"71 / 1,072 (6.62%)"	"28 / 1,072 (2.61%)"	16		add to survival plot
+MROH5	maestro heat-like repeat family member 5	16 / 986 (1.62%)	"290 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	18		add to survival plot
+ABCB1	"ATP-binding cassette, sub-family B (MDR/TAP), member 1"	16 / 986 (1.62%)	"446 / 10,202"	"36 / 1,072 (3.36%)"	"26 / 1,072 (2.43%)"	16		add to survival plot
+SIPA1L3	signal-induced proliferation-associated 1 like 3	16 / 986 (1.62%)	"421 / 10,202"	"77 / 1,072 (7.18%)"	"19 / 1,072 (1.77%)"	17		add to survival plot
+PTPRM	"protein tyrosine phosphatase, receptor type, M"	16 / 986 (1.62%)	"377 / 10,202"	"34 / 1,072 (3.17%)"	"27 / 1,072 (2.52%)"	17		add to survival plot
+PTCHD4	patched domain containing 4	16 / 986 (1.62%)	"293 / 10,202"	"64 / 1,072 (5.97%)"	"29 / 1,072 (2.71%)"	16		add to survival plot
+MED13L	mediator complex subunit 13-like	16 / 986 (1.62%)	"379 / 10,202"	"34 / 1,072 (3.17%)"	"85 / 1,072 (7.93%)"	19		add to survival plot
+TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	16 / 986 (1.62%)	"222 / 10,202"	"113 / 1,072 (10.54%)"	"43 / 1,072 (4.01%)"	18		add to survival plot
+ALPK1	alpha-kinase 1	16 / 986 (1.62%)	"306 / 10,202"	"36 / 1,072 (3.36%)"	"41 / 1,072 (3.82%)"	17		add to survival plot
+SYMPK	symplekin	16 / 986 (1.62%)	"251 / 10,202"	"43 / 1,072 (4.01%)"	"57 / 1,072 (5.32%)"	16		add to survival plot
+ZRANB3	"zinc finger, RAN-binding domain containing 3"	16 / 986 (1.62%)	"209 / 10,202"	"18 / 1,072 (1.68%)"	"47 / 1,072 (4.38%)"	16		add to survival plot
+RAB11FIP1	RAB11 family interacting protein 1 (class I)	16 / 986 (1.62%)	"288 / 10,202"	"202 / 1,072 (18.84%)"	"46 / 1,072 (4.29%)"	18		add to survival plot
+SP3	Sp3 transcription factor	16 / 986 (1.62%)	"164 / 10,202"	"39 / 1,072 (3.64%)"	"27 / 1,072 (2.52%)"	14		add to survival plot
+SEMA6A	"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A"	16 / 986 (1.62%)	"258 / 10,202"	"27 / 1,072 (2.52%)"	"46 / 1,072 (4.29%)"	17		add to survival plot
+IARS	isoleucyl-tRNA synthetase	16 / 986 (1.62%)	"201 / 10,202"	"35 / 1,072 (3.26%)"	"31 / 1,072 (2.89%)"	16		add to survival plot
+GABBR2	"gamma-aminobutyric acid (GABA) B receptor, 2"	16 / 986 (1.62%)	"279 / 10,202"	"30 / 1,072 (2.80%)"	"41 / 1,072 (3.82%)"	16		add to survival plot
+ADAMTS16	"ADAM metallopeptidase with thrombospondin type 1 motif, 16"	16 / 986 (1.62%)	"529 / 10,202"	"85 / 1,072 (7.93%)"	"17 / 1,072 (1.59%)"	17		add to survival plot
+ATP8B2	"ATPase, aminophospholipid transporter, class I, type 8B, member 2"	16 / 986 (1.62%)	"283 / 10,202"	"163 / 1,072 (15.21%)"	"23 / 1,072 (2.15%)"	16		add to survival plot
+MORC1	MORC family CW-type zinc finger 1	16 / 986 (1.62%)	"435 / 10,202"	"44 / 1,072 (4.10%)"	"21 / 1,072 (1.96%)"	17		add to survival plot
+ZNF521	zinc finger protein 521	16 / 986 (1.62%)	"484 / 10,202"	"38 / 1,072 (3.54%)"	"17 / 1,072 (1.59%)"	19	Cancer Gene Census	add to survival plot
+CROCCP2	"ciliary rootlet coiled-coil, rootletin pseudogene 2"	16 / 986 (1.62%)	"260 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	17		add to survival plot
+DNM3	dynamin 3	16 / 986 (1.62%)	"277 / 10,202"	"128 / 1,072 (11.94%)"	"33 / 1,072 (3.08%)"	20		add to survival plot
+CFAP54	cilia and flagella associated 54	16 / 986 (1.62%)	"392 / 10,202"	"44 / 1,072 (4.10%)"	"55 / 1,072 (5.13%)"	16		add to survival plot
+CEP95	centrosomal protein 95kDa	16 / 986 (1.62%)	"144 / 10,202"	"231 / 1,072 (21.55%)"	"13 / 1,072 (1.21%)"	19		add to survival plot
+L1CAM	L1 cell adhesion molecule	16 / 986 (1.62%)	"349 / 10,202"	"68 / 1,072 (6.34%)"	"27 / 1,072 (2.52%)"	16		add to survival plot
+PTPN14	"protein tyrosine phosphatase, non-receptor type 14"	16 / 986 (1.62%)	"404 / 10,202"	"138 / 1,072 (12.87%)"	"29 / 1,072 (2.71%)"	18		add to survival plot
+ZBBX	"zinc finger, B-box domain containing"	16 / 986 (1.62%)	"356 / 10,202"	"131 / 1,072 (12.22%)"	"12 / 1,072 (1.12%)"	16		add to survival plot
+PPRC1	"peroxisome proliferator-activated receptor gamma, coactivator-related 1"	16 / 986 (1.62%)	"270 / 10,202"	"33 / 1,072 (3.08%)"	"70 / 1,072 (6.53%)"	17		add to survival plot
+RAPGEF2	Rap guanine nucleotide exchange factor (GEF) 2	16 / 986 (1.62%)	"293 / 10,202"	"44 / 1,072 (4.10%)"	"49 / 1,072 (4.57%)"	20		add to survival plot
+ADAMTS19	"ADAM metallopeptidase with thrombospondin type 1 motif, 19"	16 / 986 (1.62%)	"390 / 10,202"	"33 / 1,072 (3.08%)"	"38 / 1,072 (3.54%)"	16		add to survival plot
+PCDHA8	protocadherin alpha 8	16 / 986 (1.62%)	"416 / 10,202"	"47 / 1,072 (4.38%)"	"20 / 1,072 (1.87%)"	16		add to survival plot
+DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	16 / 986 (1.62%)	"267 / 10,202"	"76 / 1,072 (7.09%)"	"9 / 1,072 (0.84%)"	18		add to survival plot
+PTCHD3	patched domain containing 3	16 / 986 (1.62%)	"326 / 10,202"	"26 / 1,072 (2.43%)"	"26 / 1,072 (2.43%)"	18		add to survival plot
+KDM4C	lysine (K)-specific demethylase 4C	16 / 986 (1.62%)	"233 / 10,202"	"62 / 1,072 (5.78%)"	"31 / 1,072 (2.89%)"	17		add to survival plot
+SPICE1	spindle and centriole associated protein 1	16 / 986 (1.62%)	"174 / 10,202"	"54 / 1,072 (5.04%)"	"25 / 1,072 (2.33%)"	17		add to survival plot
+DIAPH2	diaphanous-related formin 2	16 / 986 (1.62%)	"267 / 10,202"	"15 / 1,072 (1.40%)"	"31 / 1,072 (2.89%)"	17		add to survival plot
+CFAP61	cilia and flagella associated protein 61	16 / 986 (1.62%)	"385 / 10,202"	"42 / 1,072 (3.92%)"	"30 / 1,072 (2.80%)"	16		add to survival plot
+DSE	dermatan sulfate epimerase	16 / 986 (1.62%)	"234 / 10,202"	"64 / 1,072 (5.97%)"	"58 / 1,072 (5.41%)"	19		add to survival plot
+ZMYM2	"zinc finger, MYM-type 2"	16 / 986 (1.62%)	"241 / 10,202"	"77 / 1,072 (7.18%)"	"76 / 1,072 (7.09%)"	18	Cancer Gene Census	add to survival plot
+PPP1R9A	"protein phosphatase 1, regulatory subunit 9A"	16 / 986 (1.62%)	"339 / 10,202"	"41 / 1,072 (3.82%)"	"28 / 1,072 (2.61%)"	17		add to survival plot
+GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1	16 / 986 (1.62%)	"292 / 10,202"	"37 / 1,072 (3.45%)"	"70 / 1,072 (6.53%)"	16		add to survival plot
+MIB1	mindbomb E3 ubiquitin protein ligase 1	16 / 986 (1.62%)	"229 / 10,202"	"35 / 1,072 (3.26%)"	"15 / 1,072 (1.40%)"	19		add to survival plot
+RGPD4	RANBP2-like and GRIP domain containing 4	16 / 986 (1.62%)	"496 / 10,202"	"38 / 1,072 (3.54%)"	"22 / 1,072 (2.05%)"	18		add to survival plot
+KIAA0195	KIAA0195	16 / 986 (1.62%)	"292 / 10,202"	"220 / 1,072 (20.52%)"	"31 / 1,072 (2.89%)"	17		add to survival plot
+ADAMTS7	"ADAM metallopeptidase with thrombospondin type 1 motif, 7"	16 / 986 (1.62%)	"301 / 10,202"	"59 / 1,072 (5.50%)"	"20 / 1,072 (1.87%)"	16		add to survival plot
+ATP11A	"ATPase, class VI, type 11A"	16 / 986 (1.62%)	"295 / 10,202"	"106 / 1,072 (9.89%)"	"16 / 1,072 (1.49%)"	18		add to survival plot
+KTN1	kinectin 1 (kinesin receptor)	16 / 986 (1.62%)	"248 / 10,202"	"54 / 1,072 (5.04%)"	"35 / 1,072 (3.26%)"	15	Cancer Gene Census	add to survival plot
+PKD1P6	polycystic kidney disease 1 (autosomal dominant) pseudogene 6	16 / 986 (1.62%)	"223 / 10,202"	"0 / 1,072 (0.00%)"	"0 / 1,072 (0.00%)"	6		add to survival plot
+WDR66	WD repeat domain 66	16 / 986 (1.62%)	"236 / 10,202"	"40 / 1,072 (3.73%)"	"86 / 1,072 (8.02%)"	19		add to survival plot
+SCAF4	SR-related CTD-associated factor 4	16 / 986 (1.62%)	"327 / 10,202"	"34 / 1,072 (3.17%)"	"26 / 1,072 (2.43%)"	17		add to survival plot
+RASGRF1	Ras protein-specific guanine nucleotide-releasing factor 1	16 / 986 (1.62%)	"356 / 10,202"	"62 / 1,072 (5.78%)"	"20 / 1,072 (1.87%)"	22		add to survival plot
+INTS1	integrator complex subunit 1	16 / 986 (1.62%)	"344 / 10,202"	"56 / 1,072 (5.22%)"	"52 / 1,072 (4.85%)"	19		add to survival plot
+COL27A1	"collagen, type XXVII, alpha 1"	16 / 986 (1.62%)	"360 / 10,202"	"44 / 1,072 (4.10%)"	"30 / 1,072 (2.80%)"	17		add to survival plot
+PLXNB2	plexin B2	16 / 986 (1.62%)	"413 / 10,202"	"47 / 1,072 (4.38%)"	"48 / 1,072 (4.48%)"	18		add to survival plot
+MED24	mediator complex subunit 24	16 / 986 (1.62%)	"212 / 10,202"	"140 / 1,072 (13.06%)"	"52 / 1,072 (4.85%)"	19		add to survival plot
+COL4A1	"collagen, type IV, alpha 1"	16 / 986 (1.62%)	"430 / 10,202"	"103 / 1,072 (9.61%)"	"16 / 1,072 (1.49%)"	17		add to survival plot
+GUCY2F	"guanylate cyclase 2F, retinal"	16 / 986 (1.62%)	"290 / 10,202"	"22 / 1,072 (2.05%)"	"27 / 1,072 (2.52%)"	18		add to survival plot
+FMR1	fragile X mental retardation 1	16 / 986 (1.62%)	"250 / 10,202"	"58 / 1,072 (5.41%)"	"22 / 1,072 (2.05%)"	17		add to survival plot
+STXBP5	syntaxin binding protein 5 (tomosyn)	16 / 986 (1.62%)	"217 / 10,202"	"62 / 1,072 (5.78%)"	"68 / 1,072 (6.34%)"	17		add to survival plot
+RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	16 / 986 (1.62%)	"251 / 10,202"	"49 / 1,072 (4.57%)"	"37 / 1,072 (3.45%)"	17		add to survival plot
+ABCC4	"ATP-binding cassette, sub-family C (CFTR/MRP), member 4"	16 / 986 (1.62%)	"278 / 10,202"	"94 / 1,072 (8.77%)"	"19 / 1,072 (1.77%)"	16		add to survival plot
+TOPAZ1	testis and ovary specific PAZ domain containing 1	16 / 986 (1.62%)	"132 / 10,202"	"20 / 1,072 (1.87%)"	"118 / 1,072 (11.01%)"	18		add to survival plot
+ITGA1	"integrin, alpha 1"	16 / 986 (1.62%)	"223 / 10,202"	"31 / 1,072 (2.89%)"	"57 / 1,072 (5.32%)"	18		add to survival plot
+KCNU1	"potassium channel, subfamily U, member 1"	16 / 986 (1.62%)	"390 / 10,202"	"160 / 1,072 (14.93%)"	"54 / 1,072 (5.04%)"	16		add to survival plot
+MYH2	"myosin, heavy chain 2, skeletal muscle, adult"	16 / 986 (1.62%)	"692 / 10,202"	"12 / 1,072 (1.12%)"	"31 / 1,072 (2.89%)"	17		add to survival plot
+DDX5	DEAD (Asp-Glu-Ala-Asp) box helicase 5	16 / 986 (1.62%)	"149 / 10,202"	"232 / 1,072 (21.64%)"	"13 / 1,072 (1.21%)"	19	Cancer Gene Census	add to survival plot
+TP53BP2	tumor protein p53 binding protein 2	16 / 986 (1.62%)	"245 / 10,202"	"154 / 1,072 (14.37%)"	"20 / 1,072 (1.87%)"	16		add to survival plot
+MAT2A	"methionine adenosyltransferase II, alpha"	16 / 986 (1.62%)	"131 / 10,202"	"51 / 1,072 (4.76%)"	"17 / 1,072 (1.59%)"	15		add to survival plot
+ITGA11	"integrin, alpha 11"	16 / 986 (1.62%)	"259 / 10,202"	"42 / 1,072 (3.92%)"	"36 / 1,072 (3.36%)"	17		add to survival plot
+RREB1	ras responsive element binding protein 1	16 / 986 (1.62%)	"325 / 10,202"	"88 / 1,072 (8.21%)"	"59 / 1,072 (5.50%)"	16		add to survival plot
+TDRD5	tudor domain containing 5	16 / 986 (1.62%)	"375 / 10,202"	"109 / 1,072 (10.17%)"	"33 / 1,072 (3.08%)"	16		add to survival plot
+CDH6	"cadherin 6, type 2, K-cadherin (fetal kidney)"	16 / 986 (1.62%)	"389 / 10,202"	"48 / 1,072 (4.48%)"	"12 / 1,072 (1.12%)"	17		add to survival plot
+ITGB2	"integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)"	16 / 986 (1.62%)	"234 / 10,202"	"70 / 1,072 (6.53%)"	"26 / 1,072 (2.43%)"	17		add to survival plot
+HEATR5B	HEAT repeat containing 5B	16 / 986 (1.62%)	"338 / 10,202"	"42 / 1,072 (3.92%)"	"16 / 1,072 (1.49%)"	16		add to survival plot
+GPRASP2	G protein-coupled receptor associated sorting protein 2	16 / 986 (1.62%)	"214 / 10,202"	"12 / 1,072 (1.12%)"	"28 / 1,072 (2.61%)"	17		add to survival plot
+OAS2	"2'-5'-oligoadenylate synthetase 2, 69/71kDa"	16 / 986 (1.62%)	"233 / 10,202"	"25 / 1,072 (2.33%)"	"74 / 1,072 (6.90%)"	19		add to survival plot
+ITSN1	intersectin 1 (SH3 domain protein)	16 / 986 (1.62%)	"345 / 10,202"	"53 / 1,072 (4.94%)"	"17 / 1,072 (1.59%)"	19		add to survival plot
+DLG2	"discs, large homolog 2 (Drosophila)"	16 / 986 (1.62%)	"465 / 10,202"	"110 / 1,072 (10.26%)"	"57 / 1,072 (5.32%)"	19		add to survival plot
+PAXBP1	PAX3 and PAX7 binding protein 1	16 / 986 (1.62%)	"240 / 10,202"	"41 / 1,072 (3.82%)"	"17 / 1,072 (1.59%)"	17		add to survival plot
+FANCI	"Fanconi anemia, complementation group I"	16 / 986 (1.62%)	"243 / 10,202"	"88 / 1,072 (8.21%)"	"20 / 1,072 (1.87%)"	17		add to survival plot
+GTF2IRD2	GTF2I repeat domain containing 2	16 / 986 (1.62%)	"191 / 10,202"	"48 / 1,072 (4.48%)"	"25 / 1,072 (2.33%)"	16		add to survival plot
